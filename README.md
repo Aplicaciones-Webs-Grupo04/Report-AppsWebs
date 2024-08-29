@@ -5,7 +5,7 @@
 ## APLICACIONES WEBS(SW52)
 ### PROFESOR: Tinoco Licas, Juan Carlos
 ### Informe TB1
-### START UP:
+### START UP: WebSource
 ### PRODUCTO: PSYMED
 
 #### INTEGRANTES:
@@ -20,8 +20,8 @@
 
 ---
 # Registro de Versiones del Informe
-|       Versión       |   Fecha    | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
-|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+|       Versión       |   Fecha    | Autor | Descripción de modificación| 
+|:-------------------:|:----------:|:-----:|:---------------------------| 
 | Primera Entrega TB1 | 28/03/2024 |Todos los integrantes del equipo| El equipo completo colaboró en la definición de la solución propuesta, llevando a cabo un análisis Lean UX y definiendo el segmento objetivo. Además, se recopilaron todos los requisitos necesarios para desarrollar las herramientas requeridas, incluyendo User Persons, User stories, Product Backlog, e Impact Mapping, entre otros elementos. Posteriormente, se procedió al diseño de los mockups y prototipos de la página de inicio basándose en la información recabada. Finalmente, se completó la creación de la página de inicio con la ayuda del sprint backlog, asegurando así un control efectivo de los progresos realizados.|
 
 ---
@@ -30,7 +30,7 @@ Para este proyecto hemos utilizado las herramientas GitHub y Trello para gestion
 En Trello hemos organizado las tareas de cada integrante y con ello se puede visualizar el avance de cada asignación.
 
 Se puede acceder al contenido de la organización en GitHub mediante el siguiente enlace:
-[ClosedSource.com](https://github.com/Aplicaciones-Webs-Grupo04)
+[WebSource.com](https://github.com/Aplicaciones-Webs-Grupo04)
 
 ---
 # Contenido
