@@ -33,6 +33,17 @@
 ## 4.1. Style Guidelines
 En esta sección, presentaremos el concepto de diseño para la página web y la aplicación, para proporcionar a nuestros usuarios una interfaz amigable y funcional. Con este propósito en mente, hemos optado por utilizar elementos visuales que sean fáciles de percibir y que resulten atractivos a la vista.
 ### 4.1.1. General Style Guidelines
+Nuestra paleta de colores se ha seleccionado para proporcionar un entorno digital de apoyo a la salud mental y el bienestar, tanto para los psiquiatras como para sus pacientes. El objetivo principal de nuestra plataforma es crear un espacio donde la confianza, la claridad y la seguridad sean primordiales, asegurando que la interacción entre profesionales y pacientes sea fluida y efectiva. Este enfoque se refleja en la selección de colores, que buscan transmitir calma, confiabilidad y profesionalismo. A continuación, se presenta una breve descripción de los colores que se utilizarán en nuestra aplicación:
+
+**Chromatic Colors:**
+
+#308C83 (Teal Profundo): Este color actúa como el tono principal de la plataforma, evocando tranquilidad y estabilidad, cualidades esenciales en el ámbito de la salud mental. Es ideal para encabezados, botones de acción y elementos que requieren destacar, asegurando que el profesional pueda navegar y tomar decisiones de manera confiable.
+
+#69BFB7 (Teal Suave): Utilizado para elementos secundarios y destacados sutiles, este tono complementa el color primario, aportando una sensación de frescura y modernidad, sin desviar la atención de la información crítica. Es ideal para secciones como el registro de síntomas y la visualización de citas.
+
+#C2F2ED (Aqua Ligero): Este color se utilizará principalmente en los fondos y áreas extensas, proporcionando un entorno relajante y libre de distracciones. Su suavidad ayuda a reducir la carga visual, permitiendo que tanto los profesionales como los pacientes se concentren en el contenido relevante, como los signos vitales y comentarios diarios.
+
+
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture
