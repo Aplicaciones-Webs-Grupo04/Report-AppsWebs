@@ -9,7 +9,7 @@
 ### PRODUCTO: PSYMED
 
 #### INTEGRANTES:
-- Ccotarma Tttio, Sihuar Eduardo Eusebio (u20211c736)
+- Ccotarma Ttio, Sihuar Eduardo Eusebio (u20211c736)
 - Javier Murillo, Mathias (u202022211)
 - Luza Carhuamaca, Jose Adrian (u202213404)
 - Lizano Coll Cardenas, Fernando Jesus (u202214522)
