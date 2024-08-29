@@ -301,7 +301,7 @@ Desarrollar una herramienta de colaboración que permita a psiquiatras, psicólo
 - **Panel de Control para Seguimiento:** 
 Crear un panel de control que permita a los profesionales monitorear el progreso de los pacientes en tiempo real, facilitando la coordinación y el seguimiento de los tratamientos multidisciplinarios.
   <br><br>
-### 1.2.2.3. Lean UX Hypothesis Statements
+#### 1.2.2.3. Lean UX Hypothesis Statements
 
 1. **Creemos que lograremos** un aumento en la aceptación de nuestra plataforma y una mejor satisfacción del usuario **si** los problemas de gestión de la información de los pacientes se ven solucionados o atendidos. **Al ofrecer** una plataforma centralizada que permita a los profesionales de la salud mental gestionar toda la información de los pacientes de manera integrada y eficiente, **con la implementación** de funcionalidades específicas para la gestión de citas, notas clínicas y seguimiento de tratamientos, se podrá mejorar significativamente la organización y el acceso a los datos clínicos. <br><br>
 2. **Creemos que lograremos** una mayor retención de usuarios y una mayor rentabilidad del negocio **si** los profesionales de la salud mental valoran la facilidad de uso y la seguridad en la gestión de la información. **Al proporcionar** una interfaz intuitiva y accesible desde cualquier dispositivo, con opciones de personalización y soporte técnico constante, **con la optimización** de la usabilidad después de realizar pruebas piloto con diferentes flujos de trabajo y entender las necesidades de los usuarios, se facilitará la adopción y el uso continuo de la plataforma. <br><br>
@@ -309,7 +309,7 @@ Crear un panel de control que permita a los profesionales monitorear el progreso
 4. **Creemos que lograremos** aumentar la satisfacción del usuario, la fidelidad a nuestra plataforma y el boca a boca positivo **si** los usuarios experimentan una reducción en la carga administrativa y una mejora en la coordinación entre profesionales. **Al mejorar** la funcionalidad de gestión de citas y la visualización de información clínica de manera integrada, basándonos en pruebas de usabilidad y recopilación de testimonios directos de usuarios, **con la implementación** de mejoras que simplifiquen las tareas administrativas y fomenten la colaboración multidisciplinaria, se mejorará la experiencia general del usuario. <br><br>
 5. **Creemos que** impulsaremos el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma **si** los profesionales de la salud mental se familiarizan con nuestra solución a través de campañas de marketing dirigidas. **Al realizar** campañas de marketing piloto dirigidas a instituciones de salud mental y profesionales independientes, **con la realización** de presentaciones en conferencias y la adaptación de nuestra estrategia de marketing según los resultados obtenidos, se logrará una mayor adopción de la plataforma.
 
-### 1.2.2.4. Lean UX Canvas
+#### 1.2.2.4. Lean UX Canvas
 
 ![Lean UX Canvas](</assets/Lean UX Canvas.png>)
 
