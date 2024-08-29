@@ -3,13 +3,55 @@
 ### 1.1.1. Description de la StartUp
 PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimiento de pacientes en centros psiquiátricos. La aplicación facilita la comunicación continua entre psiquiatras y pacientes, permitiendo un monitoreo integral del progreso, el seguimiento personalizado de tratamientos, y la gestión eficiente de citas y notas clínicas en un entorno seguro y accesible. PsyMed se enfoca en mejorar la calidad de la atención al proporcionar herramientas que permiten a los profesionales de la salud mental mantenerse conectados con sus pacientes de manera efectiva y con información actualizada en todo momento.
 ### 1.1.2. Perfiles de integrantes del equipo
-| ![Profile Picture](../../assets/fernando.jpg) | **Nombre y Apellido:**<br>Lizano Coll Cardenas, Fernando Jesus<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>                                                                                                                                                                                                                                                                                                             |
-|:----------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Profile Picture](../../assets/micky.jpg)    | **Nombre y Apellido:**<br>Riega Salas, José Miguel<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Soy un estudiante que le entusiasma mucho la idea de seguir aprediendo, la programación y la tecnología es en lo que me centro ahora mismo y seria de mi agrado dedicarme a ello en un fututo cercano.                                                                                                                   |
-| ![Profile Picture](../../assets/sihuar.jpg)   | **Nombre y Apellido:**<br>Sihuar Ccotarma Ttito<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Me gusta mucho el mundo de la informática, tecnología y los videojuegos. Me gustan los shooters y mobas. De vez en cuando diseño pequeños proyectos de juegos como replicar mecánicas o interfaces que me parecen interesantes. También me gusta viajar y la música. Estoy comprometido a apoyar al grupo lo mejor posible. |
-| ![Profile Picture](../../assets/romina.jpg)   | **Nombre y Apellido:**<br>Romina Guadalupe Maita Falckenheiner<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.                                                                                                                                                               |
-| ![Profile Picture](../../assets/jose.jpg)     | **Nombre y Apellido:**<br>Luza Carhuamaca, Jose Adrian<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>                                                                                                                                                                                                                                                                                                                     |
-| ![Profile Picture](../../assets/javier.jpg)   | **Nombre y Apellido:**<br>Javier Murillo, Mathias<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>                                                                                                                                                                                                                                                                                                                          |
+<table>
+  <tr>
+  <th colspan="2">Ccotarma Ttito, Eduardo Sihuar</th>
+  </tr>
+  <tr>
+    <td><img src="assets/chapter01/sihuar-photo.png" style="width:700px; height:auto;"></td>
+    <td>Me gusta mucho el mundo de la informática, tecnología y los videojuegos. Me gustan los shooters y mobas. De vez en cuando diseño pequeños proyectos de juegos como replicar mecánicas o interfaces que me parecen interesantes. También me gusta viajar y la música. Estoy comprometido a apoyar al grupo lo mejor posible.</td>
+  </tr>
+
+  <tr>
+  <th colspan="2">Javier Murillo, Mathias</th>
+  </tr>
+  <tr>
+    <td><img src="assets/chapter01/mathias-photo.png" style="width:700px; height:auto;"></td>
+    <td> descripción </td>
+  </tr>
+
+  <tr>
+  <th colspan="2">Luza Carhuamaca, Jose Adrian</th>
+  </tr>
+  <tr>
+    <td><img src="assets/chapter01/jose-photo.png" style="width:700px; height:auto;"></td>
+    <td> descripción </td>
+  </tr>
+
+  <tr>
+    <th colspan="2">Lizano Coll Cardenas, Fernando Jesus</th>
+  </tr>
+  <tr>
+    <td><img src="assets/chapter01/fernando-photo.png" style="width:700px; height:auto;"></td>
+    <td>Me llamo Fernando Jesus Lizano Coll Cardenas. A mis 19 años me considero un apasionado por el mundo de la programación y aprendizaje constante. Actualmente tengo conocimientos en el lenguaje de C++, HTML, CSS, JavaScript y Python. Aunque mis conocimientos son todavía básicos. Me identifico como alguien de pensamiento de superación. Busco crecer en cada aspecto de mi vida y enfrentar desafíos con una actitud positiva y resoluta. Espero poder aportar y motivar a mis compañeros durante la elaboración de este proyecto.</td>
+  </tr>
+
+  <tr>
+    <th colspan="2">Maita Falckenheiner, Romina Guadalupe</th>
+  </tr>
+  <tr>
+    <td><img src="assets/chapter01/ro-photo.png" style="width:700px; height:auto;"></td>
+    <td>Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.</td>
+  </tr>
+
+  <tr>
+    <th colspan="2">Riega Salas, Jose Miguel</th>
+  </tr>
+  <tr>
+    <td><img src="assets/chapter01/micky-photo.png" style="width:700px; height:auto;"></td>
+    <td>Soy un estudiante que le entusiasma mucho la idea de seguir aprediendo, la programación y la tecnología es en lo que me centro ahora mismo y seria de mi agrado dedicarme a ello en un fututo cercano.  </td>
+
+</table>
 
 ### Antecedentes y problematica:
 - Who: El problema afecta a los psiquiatras, pacientes con trastornos mentales, y al sistema de salud en general.
