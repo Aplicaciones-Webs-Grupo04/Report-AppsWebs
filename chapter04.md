@@ -43,6 +43,28 @@ Nuestra paleta de colores se ha seleccionado para proporcionar un entorno digita
 
 #C2F2ED (Aqua Ligero): Este color se utilizará principalmente en los fondos y áreas extensas, proporcionando un entorno relajante y libre de distracciones. Su suavidad ayuda a reducir la carga visual, permitiendo que tanto los profesionales como los pacientes se concentren en el contenido relevante, como los signos vitales y comentarios diarios.
 
+<p align="center">
+  <img src="assets/chapter04/chromatic_colors-image.png" style="width:500px; height:auto;">
+</p>
+
+**Achromatic Colors:**
+
+#F2F2F2 (Gris Claro): Este tono neutro es ideal para separar y organizar la información de manera clara y ordenada. Se empleará en fondos y separadores, garantizando que los datos privados, como diagnósticos y medicaciones, sean fácilmente accesibles, pero visualmente discretos.
+
+#0D0D0D (Negro Intenso): Utilizado principalmente para texto y detalles cruciales, este color asegura una máxima legibilidad y contraste. Es perfecto para mostrar información crítica como diagnósticos, medicación, y alertas de signos vitales, brindando al usuario una experiencia precisa y enfocada.
+
+<p align="center">
+  <img src="assets/chapter04/achromatic_colors-image.png" style="width:300px; height:auto;">
+</p>
+
+Estos colores no tienen una tonalidad cromática específica y están formados por variaciones de blanco, negro y grises. En esta paleta, el blanco, negro son ejemplos de colores acromáticos. Estos colores proporcionan equilibrio, contraste y neutralidad, sirviendo como base y permitiendo que los colores cromáticos destaquen.
+
+**Color Pallette:**
+
+<p align="center">
+  <img src="assets/chapter04/color_pallette-image.png" style="width:600px; height:auto;">
+</p>
+
 
 ### 4.1.2. Web Style Guidelines
 
