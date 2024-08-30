@@ -65,6 +65,31 @@ Estos colores no tienen una tonalidad cromática específica y están formados p
   <img src="assets/chapter04/color_pallette-image.png" style="width:600px; height:auto;">
 </p>
 
+**Typography: Montserrat**
+
+Para nuestra plataforma, hemos elegido Montserrat como la tipografía principal, por su diseño moderno, limpio y altamente legible. Esta fuente nos permite presentar la información de manera clara y profesional, garantizando que tanto los psiquiatras como los pacientes puedan interactuar con la aplicación de forma intuitiva y sin esfuerzo.
+
+Montserrat se utilizará para todos los textos de la plataforma, desde encabezados y títulos hasta cuerpos de texto y botones de acción. Su versatilidad en cuanto a pesos nos permitirá destacar la información crítica, mientras que su geometría precisa asegurará una experiencia de lectura cómoda y agradable en cualquier dispositivo.
+
+Esta elección refuerza nuestro compromiso de ofrecer un entorno digital que no solo sea funcional, sino también estéticamente atractivo y accesible para todos los usuarios.
+
+- **Scale:**
+  - Base: El tamaño base es de 18px.
+  - Ratio: Utilizaremos un ratio de escala (por ejemplo, 1.2) que definirá la relación entre los tamaños de texto, creando una jerarquía visual consistente y armoniosa en la aplicación.
+  - Tipografía: Montserrat
+  - Line Spacing (Espaciado entre líneas): Entre 1.4 y 1.6, dependiendo del tamaño de la fuente y el contexto de uso. Esto asegurará una legibilidad óptima, especialmente en textos más largos.
+<br><br>
+- **Nomenclature:**
+  - Name / Size / Weights
+  - Heading 0 / 22px / Medium
+  - Heading 1 / 38px / Medium
+  - Heading 2 / 34px / Medium
+  - Heading 3 / 25px / Medium
+  - Heading 4 / 22px / Medium
+  - Base / 18px / Light
+  - Body 1 / 10px / Regular
+
+**Icon:**
 
 ### 4.1.2. Web Style Guidelines
 
