@@ -106,12 +106,141 @@ Este logo no solo representa la identidad visual de PSYMED, sino que también en
 
 ### 4.1.2. Web Style Guidelines
 
+Las Web Style Guidelines de PSYMED han sido desarrolladas con el objetivo de ofrecer una experiencia de usuario óptima y consistente en todos los dispositivos. Nuestra plataforma psiquiátrica está diseñada bajo los principios de Web Responsive Design, asegurando que cada elemento de la interfaz se ajuste fluidamente a diferentes tamaños de pantalla, desde dispositivos móviles hasta monitores de escritorio. 
+
+Uno de los enfoques clave en el diseño de nuestra interfaz es la implementación del patrón de diseño en forma de Z. Este patrón guía intuitivamente el ojo del usuario a través de la página, comenzando desde la esquina superior izquierda, pasando por el contenido central y terminando en la esquina inferior derecha. Este flujo natural facilita la navegación, permitiendo que los usuarios accedan rápidamente a la información más importante, como diagnósticos, citas y seguimientos de síntomas. 
+
+Nuestro diseño adaptable y el uso del patrón en Z garantizan que, independientemente del dispositivo utilizado, la experiencia de usuario sea fluida, intuitiva y centrada en las necesidades tanto de los médicos como de los pacientes. Estas directrices de estilo no solo definen la apariencia de PSYMED, sino que también refuerzan nuestra misión de proporcionar un entorno digital accesible y eficaz para la gestión de la salud mental. 
+
 ## 4.2. Information Architecture
+
+Esta sección se enfoca en los elementos esenciales de contenido visual, estilos, etiquetas, y más, que se considerarán en el desarrollo de la web y la landing page. 
+
 ### 4.2.1. Organization Systems
+
+## 4.2.1. Organization Systems
+
+### Menú Principal
+
+<div style="margin-left: 200px;">
+
+| Topic          | Description                                                                                       |
+|----------------|---------------------------------------------------------------------------------------------------|
+| Home           | La página de inicio, la cual muestra una vista general del servicio y destaca las características clave. |
+| Suscriptionns  | La página de suscripciones que ofrece los planes de suscripción para beneficios exclusivos con diferentes costos. |
+| Testimonials   | La página de testimonios, esta ofrece comentarios y calificaciones sobre el servicio a todos los usuarios. |
+
+</div>
+
+### Page of Suscriptions
+
+<div style="margin-left: 200px;">
+
+| Topic                         | Description                                                                      |
+|-------------------------------|----------------------------------------------------------------------------------|
+| Lista de planes de suscripción | La página mostrará todos los planes que ofrece el servicio.                      |
+| Detalles de planes            | La página mostrará los detalles de todos los planes que ofrece el servicio.       |
+
+</div>
+
+### Page of Testimonials
+
+<div style="margin-left: 200px;">
+
+| Topic                  | Description                                                                         |
+|------------------------|-------------------------------------------------------------------------------------|
+| Lista de comentarios   | La página mostrará todos los títulos de los comentarios más recientes dados por otros usuarios. |
+| Detalles de los comentarios | La página mostrará con mayor detalle el comentario al que desee interactuar.              |
+
+</div>
+
+### Page of Contact
+
+<div style="margin-left: 200px;">
+
+| Topic           | Description                                                                      |
+|-----------------|----------------------------------------------------------------------------------|
+| Lista de Contactos | La página mostrará al usuario todos los métodos por el cual puede contactar con nosotros. |
+
+</div>
+
+### Page of Log In
+
+<div style="margin-left: 200px;">
+
+| Topic                   | Description                                                                                 |
+|-------------------------|---------------------------------------------------------------------------------------------|
+| Registro y Autenticación | La página muestra una vista general del servicio y la posibilidad de iniciar sesión o registrarse. |
+
+</div>
+
+
 ### 4.2.2. Labeling Systems
+
+En esta sección, se detallan los sistemas de etiquetado utilizados en la plataforma PSYMED para asegurar una organización clara y coherente de la información. Los sistemas de etiquetado son esenciales para facilitar la navegación, mejorar la experiencia del usuario y garantizar que los usuarios puedan encontrar la información que necesitan de manera eficiente.
+
+### Principios de Etiquetado
+
+- **Consistencia en todo el lenguaje uniforme que sea comprensible para los usuarios.**
+- **Claras y directas.**
+- **Cada etiqueta debe reflejar con precisión el contenido al que se refiere, ayudando a los usuarios a encontrar la información relevante de manera rápida.**
+
+### Ejemplo de Etiquetas
+
+- **Menú Principal:** "Home", "Suscripciones", "Testimonios", "Contacto", "Log In".
+- **Subsecciones:** "Planes de Suscripción", "Detalles del Plan", "Comentarios", "Detalles del Comentario".
+- **Campos de Formulario:** "Nombre", "Correo Electrónico", "Contraseña", "Confirmar Contraseña".
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+
+Para garantizar que la plataforma PSYMED sea fácilmente encontrada por los motores de búsqueda y, por ende, accesible a un mayor número de usuarios, es crucial implementar estrategias de SEO (Search Engine Optimization) efectivas. Esto incluye el uso de meta tags adecuadas y otras etiquetas relacionadas con el SEO.
+
+### Meta Tags:
+
+- **Title Tag:** Cada página de la plataforma debe tener un título único y descriptivo, que refleje claramente el contenido de la página.  
+  Ejemplo: `<title>PSYMED - Plataforma de Salud Mental</title>`.
+
+- **Meta Description:** Las descripciones meta deben proporcionar un resumen breve y atractivo del contenido de la página.  
+  Ejemplo: `<meta name="description" content="PSYMED es una plataforma integral para la gestión de la salud mental, ofreciendo herramientas para profesionales y pacientes en un entorno seguro y confiable.">`.
+
+- **Keywords:** Incluir palabras clave relevantes que reflejen el contenido de la página y que los usuarios probablemente utilizarán en sus búsquedas.  
+  Ejemplo: `<meta name="keywords" content="salud mental, psiquiatría, terapia en línea, gestión de pacientes">`.
+
+### SEO Tags:
+
+- **Header Tags:** Uso adecuado de etiquetas de encabezado (`<h1>`, `<h2>`, `<h3>`, etc.) para estructurar el contenido y mejorar su accesibilidad.
+
+- **Alt Text para Imágenes:** Incluir descripciones detalladas en el atributo alt de las imágenes para mejorar la accesibilidad y el SEO.  
+  Ejemplo: `<img src="logo.png" alt="Logo de PSYMED - Plataforma de Salud Mental">`.
+
+- **URL amigables:** Asegurar que las URLs sean descriptivas y reflejen la estructura de la información.
+
 ### 4.2.4. Searching Systems
+
+El sistema de búsqueda es un componente esencial de la plataforma PSYMED, diseñado para facilitar el acceso rápido a la información relevante. El sistema debe ser intuitivo, rápido y preciso, permitiendo a los usuarios encontrar fácilmente lo que necesitan.
+
+### Características del Sistema de Búsqueda:
+
+- **Barra de Búsqueda:** Ubicada de manera prominente en la parte superior de la página, permitiendo a los usuarios ingresar palabras clave para buscar contenido específico.
+
+- **Búsqueda Predictiva:** A medida que los usuarios escriben, el sistema debe sugerir términos relacionados o resultados potenciales para facilitar la búsqueda.
+
+- **Filtros de Búsqueda:** Permitir a los usuarios filtrar resultados por categorías como "Planes de Suscripción", "Testimonios", "Artículos", "Contacto", etc.
+
+- **Búsqueda Avanzada:** Ofrecer una opción de búsqueda avanzada donde los usuarios puedan especificar criterios más detallados para obtener resultados más precisos.
+
+- **Indexación de Contenidos:** Asegurar que todos los contenidos de la plataforma estén indexados para una rápida recuperación durante la búsqueda.
+
 ### 4.2.5. Navigation Systems
+
+El sistema de navegación de PSYMED está diseñado para ser simple, claro y eficiente, permitiendo a los usuarios moverse a través de la plataforma con facilidad. Un sistema de navegación bien diseñado mejora la experiencia del usuario al facilitar el acceso a la información y reducir el tiempo que se necesita para encontrarla.
+
+### Características del Sistema de Navegación:
+
+- **Menú Principal:** Ubicado en la parte superior de la página, el menú principal incluye enlaces directos a las secciones más importantes como "Home", "Suscripciones", "Testimonios", "Contacto" y "Log In".
+
+- **Submenús Desplegables:** Permiten a los usuarios acceder a subsecciones específicas sin salir de la página actual. Por ejemplo, en "Suscripciones", los usuarios pueden acceder directamente a "Detalles del Plan".
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
