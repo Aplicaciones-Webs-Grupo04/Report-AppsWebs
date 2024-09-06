@@ -1,0 +1,255 @@
+<style>
+  body {
+    font-family: 'Times New Roman', sans-serif;
+    text-align: justify;
+    font-size: 12px;
+    margin-left: 2em;
+    margin-right: 2em;
+    line-height: 2;
+  }
+  
+  p {
+    text-indent: 2em; /* Sangría en el primer renglón de cada párrafo */
+  }
+
+  h1 {
+    margin-left: 0; /* No aplica sangría para el título principal */
+  }
+
+  h2 {
+    margin-left: 0; /* No aplica sangría para subtítulos de nivel 2 */
+  }
+
+  h3 {
+    margin-left: 2em; /* Aplica una sangría de 2em para subtítulos de nivel 3 */
+  }
+
+  h4 {
+    margin-left: 4em; /* Aplica una sangría de 4em para subtítulos de nivel 4 */
+  }
+</style>
+
+# **CAPÍTULO IV: PRODUCT DESING**
+## 4.1. Style Guidelines
+En esta sección, presentaremos el concepto de diseño para la página web y la aplicación, para proporcionar a nuestros usuarios una interfaz amigable y funcional. Con este propósito en mente, hemos optado por utilizar elementos visuales que sean fáciles de percibir y que resulten atractivos a la vista.
+### 4.1.1. General Style Guidelines
+Nuestra paleta de colores se ha seleccionado para proporcionar un entorno digital de apoyo a la salud mental y el bienestar, tanto para los psiquiatras como para sus pacientes. El objetivo principal de nuestra plataforma es crear un espacio donde la confianza, la claridad y la seguridad sean primordiales, asegurando que la interacción entre profesionales y pacientes sea fluida y efectiva. Este enfoque se refleja en la selección de colores, que buscan transmitir calma, confiabilidad y profesionalismo. A continuación, se presenta una breve descripción de los colores que se utilizarán en nuestra aplicación:
+
+**Chromatic Colors:**
+
+#308C83 (Teal Profundo): Este color actúa como el tono principal de la plataforma, evocando tranquilidad y estabilidad, cualidades esenciales en el ámbito de la salud mental. Es ideal para encabezados, botones de acción y elementos que requieren destacar, asegurando que el profesional pueda navegar y tomar decisiones de manera confiable.
+
+#69BFB7 (Teal Suave): Utilizado para elementos secundarios y destacados sutiles, este tono complementa el color primario, aportando una sensación de frescura y modernidad, sin desviar la atención de la información crítica. Es ideal para secciones como el registro de síntomas y la visualización de citas.
+
+#C2F2ED (Aqua Ligero): Este color se utilizará principalmente en los fondos y áreas extensas, proporcionando un entorno relajante y libre de distracciones. Su suavidad ayuda a reducir la carga visual, permitiendo que tanto los profesionales como los pacientes se concentren en el contenido relevante, como los signos vitales y comentarios diarios.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic_colors-image.png" style="width:500px; height:auto;">
+</p>
+
+**Achromatic Colors:**
+
+#F2F2F2 (Gris Claro): Este tono neutro es ideal para separar y organizar la información de manera clara y ordenada. Se empleará en fondos y separadores, garantizando que los datos privados, como diagnósticos y medicaciones, sean fácilmente accesibles, pero visualmente discretos.
+
+#0D0D0D (Negro Intenso): Utilizado principalmente para texto y detalles cruciales, este color asegura una máxima legibilidad y contraste. Es perfecto para mostrar información crítica como diagnósticos, medicación, y alertas de signos vitales, brindando al usuario una experiencia precisa y enfocada.
+
+<p align="center">
+  <img src="assets/chapter04/achromatic_colors-image.png" style="width:300px; height:auto;">
+</p>
+
+Estos colores no tienen una tonalidad cromática específica y están formados por variaciones de blanco, negro y grises. En esta paleta, el blanco, negro son ejemplos de colores acromáticos. Estos colores proporcionan equilibrio, contraste y neutralidad, sirviendo como base y permitiendo que los colores cromáticos destaquen.
+
+**Color Pallette:**
+
+<p align="center">
+  <img src="assets/chapter04/color_pallette-image.png" style="width:600px; height:auto;">
+</p>
+
+**Typography: Montserrat**
+
+Para nuestra plataforma, hemos elegido Montserrat como la tipografía principal, por su diseño moderno, limpio y altamente legible. Esta fuente nos permite presentar la información de manera clara y profesional, garantizando que tanto los psiquiatras como los pacientes puedan interactuar con la aplicación de forma intuitiva y sin esfuerzo.
+
+Montserrat se utilizará para todos los textos de la plataforma, desde encabezados y títulos hasta cuerpos de texto y botones de acción. Su versatilidad en cuanto a pesos nos permitirá destacar la información crítica, mientras que su geometría precisa asegurará una experiencia de lectura cómoda y agradable en cualquier dispositivo.
+
+Esta elección refuerza nuestro compromiso de ofrecer un entorno digital que no solo sea funcional, sino también estéticamente atractivo y accesible para todos los usuarios.
+
+- **Scale:**
+  - Base: El tamaño base es de 18px.
+  - Ratio: Utilizaremos un ratio de escala (por ejemplo, 1.2) que definirá la relación entre los tamaños de texto, creando una jerarquía visual consistente y armoniosa en la aplicación.
+  - Tipografía: Montserrat
+  - Line Spacing (Espaciado entre líneas): Entre 1.4 y 1.6, dependiendo del tamaño de la fuente y el contexto de uso. Esto asegurará una legibilidad óptima, especialmente en textos más largos.
+<br><br>
+- **Nomenclature:**
+  - Name / Size / Weights
+  - Heading 0 / 22px / Medium
+  - Heading 1 / 38px / Medium
+  - Heading 2 / 34px / Medium
+  - Heading 3 / 25px / Medium
+  - Heading 4 / 22px / Medium
+  - Base / 18px / Light
+  - Body 1 / 10px / Regular
+
+**Icon:**
+<p align="center">
+  <img src="assets/psymedo.png" style="width:300px; height:auto;">
+</p>
+
+El logo de PSYMED está diseñado para capturar la esencia de nuestra plataforma psiquiátrica, centrada en el cuidado y seguimiento integral de los pacientes. El emblema en forma de corazón, combinado con la figura humana en el centro, simboliza la conexión empática y el apoyo constante que ofrecemos entre médicos y pacientes.
+
+<p align="center">
+  <img src="assets/chapter04/icon-pallette.png" style="width:500px; height:auto;">
+</p>
+
+Los tonos de teal reflejan calma, serenidad y profesionalismo, cualidades fundamentales en el ámbito de la salud mental. La tipografía utilizada en "PSYMED" es fuerte y moderna, transmitiendo seguridad y confiabilidad, mientras que el subtítulo "Psychiatric Platform" en un estilo más ligero, enfatiza la precisión y delicadeza con la que manejamos información crítica y personal.
+
+Este logo no solo representa la identidad visual de PSYMED, sino que también encarna nuestra misión de brindar un espacio seguro, eficiente y accesible para la gestión de la salud mental.
+
+### 4.1.2. Web Style Guidelines
+
+Las Web Style Guidelines de PSYMED han sido desarrolladas con el objetivo de ofrecer una experiencia de usuario óptima y consistente en todos los dispositivos. Nuestra plataforma psiquiátrica está diseñada bajo los principios de Web Responsive Design, asegurando que cada elemento de la interfaz se ajuste fluidamente a diferentes tamaños de pantalla, desde dispositivos móviles hasta monitores de escritorio. 
+
+Uno de los enfoques clave en el diseño de nuestra interfaz es la implementación del patrón de diseño en forma de Z. Este patrón guía intuitivamente el ojo del usuario a través de la página, comenzando desde la esquina superior izquierda, pasando por el contenido central y terminando en la esquina inferior derecha. Este flujo natural facilita la navegación, permitiendo que los usuarios accedan rápidamente a la información más importante, como diagnósticos, citas y seguimientos de síntomas. 
+
+Nuestro diseño adaptable y el uso del patrón en Z garantizan que, independientemente del dispositivo utilizado, la experiencia de usuario sea fluida, intuitiva y centrada en las necesidades tanto de los médicos como de los pacientes. Estas directrices de estilo no solo definen la apariencia de PSYMED, sino que también refuerzan nuestra misión de proporcionar un entorno digital accesible y eficaz para la gestión de la salud mental. 
+
+## 4.2. Information Architecture
+
+Esta sección se enfoca en los elementos esenciales de contenido visual, estilos, etiquetas, y más, que se considerarán en el desarrollo de la web y la landing page. 
+
+### 4.2.1. Organization Systems
+
+## 4.2.1. Organization Systems
+
+### Menú Principal
+
+<div style="margin-left: 200px;">
+
+| Topic          | Description                                                                                       |
+|----------------|---------------------------------------------------------------------------------------------------|
+| Home           | La página de inicio, la cual muestra una vista general del servicio y destaca las características clave. |
+| Suscriptionns  | La página de suscripciones que ofrece los planes de suscripción para beneficios exclusivos con diferentes costos. |
+| Testimonials   | La página de testimonios, esta ofrece comentarios y calificaciones sobre el servicio a todos los usuarios. |
+
+</div>
+
+### Page of Suscriptions
+
+<div style="margin-left: 200px;">
+
+| Topic                         | Description                                                                      |
+|-------------------------------|----------------------------------------------------------------------------------|
+| Lista de planes de suscripción | La página mostrará todos los planes que ofrece el servicio.                      |
+| Detalles de planes            | La página mostrará los detalles de todos los planes que ofrece el servicio.       |
+
+</div>
+
+### Page of Testimonials
+
+<div style="margin-left: 200px;">
+
+| Topic                  | Description                                                                         |
+|------------------------|-------------------------------------------------------------------------------------|
+| Lista de comentarios   | La página mostrará todos los títulos de los comentarios más recientes dados por otros usuarios. |
+| Detalles de los comentarios | La página mostrará con mayor detalle el comentario al que desee interactuar.              |
+
+</div>
+
+### Page of Contact
+
+<div style="margin-left: 200px;">
+
+| Topic           | Description                                                                      |
+|-----------------|----------------------------------------------------------------------------------|
+| Lista de Contactos | La página mostrará al usuario todos los métodos por el cual puede contactar con nosotros. |
+
+</div>
+
+### Page of Log In
+
+<div style="margin-left: 200px;">
+
+| Topic                   | Description                                                                                 |
+|-------------------------|---------------------------------------------------------------------------------------------|
+| Registro y Autenticación | La página muestra una vista general del servicio y la posibilidad de iniciar sesión o registrarse. |
+
+</div>
+
+
+### 4.2.2. Labeling Systems
+
+En esta sección, se detallan los sistemas de etiquetado utilizados en la plataforma PSYMED para asegurar una organización clara y coherente de la información. Los sistemas de etiquetado son esenciales para facilitar la navegación, mejorar la experiencia del usuario y garantizar que los usuarios puedan encontrar la información que necesitan de manera eficiente.
+
+### Principios de Etiquetado
+
+- **Consistencia en todo el lenguaje uniforme que sea comprensible para los usuarios.**
+- **Claras y directas.**
+- **Cada etiqueta debe reflejar con precisión el contenido al que se refiere, ayudando a los usuarios a encontrar la información relevante de manera rápida.**
+
+### Ejemplo de Etiquetas
+
+- **Menú Principal:** "Home", "Suscripciones", "Testimonios", "Contacto", "Log In".
+- **Subsecciones:** "Planes de Suscripción", "Detalles del Plan", "Comentarios", "Detalles del Comentario".
+- **Campos de Formulario:** "Nombre", "Correo Electrónico", "Contraseña", "Confirmar Contraseña".
+
+### 4.2.3. SEO Tags and Meta Tags
+
+
+Para garantizar que la plataforma PSYMED sea fácilmente encontrada por los motores de búsqueda y, por ende, accesible a un mayor número de usuarios, es crucial implementar estrategias de SEO (Search Engine Optimization) efectivas. Esto incluye el uso de meta tags adecuadas y otras etiquetas relacionadas con el SEO.
+
+### Meta Tags:
+
+- **Title Tag:** Cada página de la plataforma debe tener un título único y descriptivo, que refleje claramente el contenido de la página.  
+  Ejemplo: `<title>PSYMED - Plataforma de Salud Mental</title>`.
+
+- **Meta Description:** Las descripciones meta deben proporcionar un resumen breve y atractivo del contenido de la página.  
+  Ejemplo: `<meta name="description" content="PSYMED es una plataforma integral para la gestión de la salud mental, ofreciendo herramientas para profesionales y pacientes en un entorno seguro y confiable.">`.
+
+- **Keywords:** Incluir palabras clave relevantes que reflejen el contenido de la página y que los usuarios probablemente utilizarán en sus búsquedas.  
+  Ejemplo: `<meta name="keywords" content="salud mental, psiquiatría, terapia en línea, gestión de pacientes">`.
+
+### SEO Tags:
+
+- **Header Tags:** Uso adecuado de etiquetas de encabezado (`<h1>`, `<h2>`, `<h3>`, etc.) para estructurar el contenido y mejorar su accesibilidad.
+
+- **Alt Text para Imágenes:** Incluir descripciones detalladas en el atributo alt de las imágenes para mejorar la accesibilidad y el SEO.  
+  Ejemplo: `<img src="logo.png" alt="Logo de PSYMED - Plataforma de Salud Mental">`.
+
+- **URL amigables:** Asegurar que las URLs sean descriptivas y reflejen la estructura de la información.
+
+### 4.2.4. Searching Systems
+
+El sistema de búsqueda es un componente esencial de la plataforma PSYMED, diseñado para facilitar el acceso rápido a la información relevante. El sistema debe ser intuitivo, rápido y preciso, permitiendo a los usuarios encontrar fácilmente lo que necesitan.
+
+### Características del Sistema de Búsqueda:
+
+- **Barra de Búsqueda:** Ubicada de manera prominente en la parte superior de la página, permitiendo a los usuarios ingresar palabras clave para buscar contenido específico.
+
+- **Búsqueda Predictiva:** A medida que los usuarios escriben, el sistema debe sugerir términos relacionados o resultados potenciales para facilitar la búsqueda.
+
+- **Filtros de Búsqueda:** Permitir a los usuarios filtrar resultados por categorías como "Planes de Suscripción", "Testimonios", "Artículos", "Contacto", etc.
+
+- **Búsqueda Avanzada:** Ofrecer una opción de búsqueda avanzada donde los usuarios puedan especificar criterios más detallados para obtener resultados más precisos.
+
+- **Indexación de Contenidos:** Asegurar que todos los contenidos de la plataforma estén indexados para una rápida recuperación durante la búsqueda.
+
+### 4.2.5. Navigation Systems
+
+El sistema de navegación de PSYMED está diseñado para ser simple, claro y eficiente, permitiendo a los usuarios moverse a través de la plataforma con facilidad. Un sistema de navegación bien diseñado mejora la experiencia del usuario al facilitar el acceso a la información y reducir el tiempo que se necesita para encontrarla.
+
+### Características del Sistema de Navegación:
+
+- **Menú Principal:** Ubicado en la parte superior de la página, el menú principal incluye enlaces directos a las secciones más importantes como "Home", "Suscripciones", "Testimonios", "Contacto" y "Log In".
+
+- **Submenús Desplegables:** Permiten a los usuarios acceder a subsecciones específicas sin salir de la página actual. Por ejemplo, en "Suscripciones", los usuarios pueden acceder directamente a "Detalles del Plan".
+
+## 4.3. Landing Page UI Design
+### 4.3.1. Landing Page Wireframe
+### 4.3.2. Landing Page Mock-up
+
+## 4.4. Web Applications UX/UI Design
+### 4.4.1. Web Applications Wireframes
+### 4.4.2. Web Applications Wireflow Diagrams
+### 4.4.2. Web Applications Mock-ups
+### 4.4.3. Web Applications User Flow Diagrams
+
+## 4.5. Web Applications Prototyping 
