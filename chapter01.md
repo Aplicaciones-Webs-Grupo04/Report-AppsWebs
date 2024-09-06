@@ -173,6 +173,7 @@ Bussiness Assumptions:
 
 1. **Creemos que nuestros clientes tienen la necesidad de:**
 
+
 Organizar y gestionar de manera eficiente la información de los pacientes, citas, y datos clínicos.
 
 2. **Estas necesidades se pueden satisfacer con:**  
