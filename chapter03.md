@@ -49,6 +49,69 @@
   </tr>
 </table>
 
+<!-- USER STORIE 1 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US01</th>
+    <th>EPIC ID</th>
+    <th>EP01</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Adaptabilidad y compatibilidad de la Landing Page</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como visitante de la Landing Page, <strong>quiero</strong> que el contenido se adapte al tamaño de la pantalla del dispositivo desde el que accede <strong>para</strong> obtener la información de manera ordenada.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Adaptabilidad a diferentes tamaños de pantalla</strong><br>
+      <strong>Given</strong> el visitante se encuentra en la landing page,<br>
+      <strong>When</strong> ingresa al sitio web,<br>
+      <strong>Then</strong> la landing page debe poseer un contenido que se ajuste automáticamente al tamaño de la pantalla.<br><br>
+      <strong>Scenario 2: Compatibilidad con navegadores principales</strong><br>
+      <strong>Given</strong> el visitante se encuentra en la landing page,<br>
+      <strong>When</strong> utiliza su navegador de preferencia,<br>
+      <strong>Then</strong> la landing page debe ser compatible.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 2 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US02</th>
+    <th>EPIC ID</th>
+    <th>EP01</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Encontrar información del propósito de la aplicación</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como visitante de la Landing Page, <strong>quiero</strong> encontrar fácilmente la información que explique el propósito de la aplicación <strong>para</strong> comprender cómo puede ser útil para mí.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Visibilidad del propósito de la aplicación</strong><br>
+      <strong>Given</strong> el visitante se encuentra en la landing page,<br>
+      <strong>When</strong> explora la página principal,<br>
+      <strong>Then</strong> la landing page debe poseer información clara y concisa para el visitante.<br><br>
+      <strong>Scenario 2: Acceso rápido a los planes de la aplicación</strong><br>
+      <strong>Given</strong> el visitante se encuentra en la sección de planes de la landing page,<br>
+      <strong>When</strong> hace clic en un botón de “Más información”,<br>
+      <strong>Then</strong> la landing page debe dirigirlo a una sección que detalle las características y precios del plan seleccionado.
+    </td>
+  </tr>
+</table>
+<br>
+
 <!-- EPIC 2 -->
 <table>
   <tr>
@@ -64,6 +127,69 @@
     </td>
   </tr>
 </table>
+
+<!-- USER STORIE 3 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US03</th>
+    <th>EPIC ID</th>
+    <th>EP02</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Visualización de imágenes y gráficos relevantes</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como visitante de la Landing Page, <strong>quiero</strong> que las imágenes y gráficos sean claros y visualmente atractivos <strong>para</strong> captar mi interés y comprender mejor el contenido.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Calidad de las imágenes</strong><br>
+      <strong>Given</strong> el visitante se encuentra en la landing page,<br>
+      <strong>When</strong> explora la página principal,<br>
+      <strong>Then</strong> la landing page debe presentar imágenes de alta calidad.<br><br>
+      <strong>Scenario 2: Relevancia de los gráficos</strong><br>
+      <strong>Given</strong> el visitante se encuentra en la landing page,<br>
+      <strong>When</strong> se desplaza,<br>
+      <strong>Then</strong> la landing page debe mostrar gráficos que ayuden al visitante a comprender el contenido.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 4 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US04</th>
+    <th>EPIC ID</th>
+    <th>EP02</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Tipografía cómoda y agradable estéticamente</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como visitante de la Landing Page, <strong>quiero</strong> que la tipografía de la misma sea legible y estéticamente agradable <strong>para</strong> facilitar la lectura y la navegación.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Legibilidad de la tipografía</strong><br>
+      <strong>Given</strong> el visitante se encuentra en la landing page,<br>
+      <strong>When</strong> se desplaza a través de la página principal,<br>
+      <strong>Then</strong> la landing page debe poseer una tipografía clara.<br><br>
+      <strong>Scenario 2: Consistencia en el estilo tipográfico</strong><br>
+      <strong>Given</strong> el visitante se encuentra en la landing page,<br>
+      <strong>When</strong> cambia de sección,<br>
+      <strong>Then</strong> la landing page debe mostrar un estilo tipográfico consistente para mantener la coherencia visual.
+    </td>
+  </tr>
+</table>
+<br>
 
 <!-- EPIC 3 -->
 <table>
@@ -81,6 +207,112 @@
   </tr>
 </table>
 
+<!-- USER STORIE 6 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US05</th>
+    <th>EPIC ID</th>
+    <th>EP03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Registro como profesional de la salud mental</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como profesional de la salud mental, <strong>quiero</strong> registrarme con mis credenciales <strong>para</strong> acceder a las funcionalidades específicas y gestionar la información de mis pacientes.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Registro de datos exitoso</strong><br>
+      <strong>Given</strong> el profesional ha completado todos los campos,<br>
+      <strong>When</strong> hace clic en el botón "Crear cuenta",<br>
+      <strong>Then</strong> la cuenta se crea.<br><br>
+      <strong>Scenario 2: Registro incompleto</strong><br>
+      <strong>Given</strong> el profesional no ha completado todos los campos,<br>
+      <strong>When</strong> hace clic en "Crear cuenta",<br>
+      <strong>Then</strong> la plataforma muestra un mensaje de error.<br><br>
+      <strong>Scenario 3: Registro con credenciales ya utilizadas</strong><br>
+      <strong>Given</strong> el profesional ha completado todos los campos con un correo ya registrado,<br>
+      <strong>When</strong> hace clic en "Crear cuenta",<br>
+      <strong>Then</strong> la plataforma muestra un error.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 6 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US06</th>
+    <th>EPIC ID</th>
+    <th>EP03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Inicio de sesión como paciente</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como paciente, <strong>quiero</strong> iniciar sesión en la plataforma <strong>para</strong> acceder a mi información personal y seguimiento de tratamiento.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Inicio de sesión exitoso</strong><br>
+      <strong>Given</strong> el paciente ha ingresado su correo y contraseña correctamente,<br>
+      <strong>When</strong> hace clic en "Iniciar sesión",<br>
+      <strong>Then</strong> accede a su cuenta.<br><br>
+      <strong>Scenario 2: Contraseña incorrecta</strong><br>
+      <strong>Given</strong> el paciente ha ingresado su correo y contraseña incorrecta,<br>
+      <strong>When</strong> hace clic en "Iniciar sesión",<br>
+      <strong>Then</strong> la plataforma muestra un mensaje de error.<br><br>
+      <strong>Scenario 3: Recuperación de contraseña</strong><br>
+      <strong>Given</strong> el paciente ha olvidado su contraseña,<br>
+      <strong>When</strong> hace clic en "Olvidé mi contraseña",<br>
+      <strong>Then</strong> la plataforma envía un enlace de restablecimiento.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 7 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US07</th>
+    <th>EPIC ID</th>
+    <th>EP03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Inicio de sesión como profesional de la salud mental</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como profesional de la salud mental, <strong>quiero</strong> iniciar sesión para gestionar la información de mis pacientes y acceder a herramientas de seguimiento.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Inicio de sesión exitoso</strong><br>
+      <strong>Given</strong> el profesional ha ingresado su correo y contraseña correctamente,<br>
+      <strong>When</strong> hace clic en "Iniciar sesión",<br>
+      <strong>Then</strong> accede a su cuenta.<br><br>
+      <strong>Scenario 2: Contraseña incorrecta</strong><br>
+      <strong>Given</strong> el profesional ha ingresado su correo y contraseña incorrecta,<br>
+      <strong>When</strong> hace clic en "Iniciar sesión",<br>
+      <strong>Then</strong> la plataforma muestra un mensaje de error.<br><br>
+      <strong>Scenario 3: Recuperación de contraseña</strong><br>
+      <strong>Given</strong> el profesional ha olvidado su contraseña,<br>
+      <strong>When</strong> hace clic en "Olvidé mi contraseña",<br>
+      <strong>Then</strong> la plataforma envía un enlace de restablecimiento.
+    </td>
+  </tr>
+</table>
+<br>
+
 <!-- EPIC 4 -->
 <table>
   <tr>
@@ -97,6 +329,96 @@
   </tr>
 </table>
 
+<!-- USER STORIE 8 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US08</th>
+    <th>EPIC ID</th>
+    <th>EP04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Registro de información personal del paciente</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como profesional de la salud mental, <strong>quiero</strong> registrar la información personal del paciente <strong>para</strong> tener una referencia detallada y precisa.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Registro exitoso de información personal</strong><br>
+      <strong>Given</strong> el profesional ha ingresado todos los datos,<br>
+      <strong>When</strong> hace clic en "Guardar",<br>
+      <strong>Then</strong> la información del paciente se registra correctamente.<br><br>
+      <strong>Scenario 2: Registro incompleto</strong><br>
+      <strong>Given</strong> el profesional no ha ingresado todos los datos,<br>
+      <strong>When</strong> hace clic en "Guardar",<br>
+      <strong>Then</strong> la plataforma muestra un mensaje de error indicando qué campos faltan por completar.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 9 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US09</th>
+    <th>EPIC ID</th>
+    <th>EP04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Registro de medicamentos del paciente</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como profesional de la salud mental, <strong>quiero</strong> registrar los medicamentos del paciente <strong>para</strong> seguir adecuadamente su tratamiento farmacológico.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Registro exitoso de medicamentos</strong><br>
+      <strong>Given</strong> el profesional ha ingresado todos los datos de los medicamentos,<br>
+      <strong>When</strong> hace clic en "Guardar",<br>
+      <strong>Then</strong> los datos del medicamento se registran correctamente en el sistema.<br><br>
+      <strong>Scenario 2: Registro de medicamentos incompleto</strong><br>
+      <strong>Given</strong> el profesional no ha ingresado todos los datos de los medicamentos,<br>
+      <strong>When</strong> hace clic en "Guardar",<br>
+      <strong>Then</strong> la plataforma muestra un mensaje de error indicando los campos incompletos o incorrectos.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 10 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US10</th>
+    <th>EPIC ID</th>
+    <th>EP04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Registro de historial médico del paciente</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como profesional de la salud mental, <strong>quiero</strong> registrar el historial médico del paciente <strong>para</strong> tener un contexto completo de sus antecedentes.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Registro exitoso del historial previo</strong><br>
+      <strong>Given</strong> el profesional ha introducido todos los datos del historial previo del paciente,<br>
+      <strong>When</strong> hace clic en "Guardar",<br>
+      <strong>Then</strong> la plataforma registra correctamente el historial del paciente.
+    </td>
+  </tr>
+</table>
+<br>
+
 <!-- EPIC 5 -->
 <table>
   <tr>
@@ -112,6 +434,92 @@
     </td>
   </tr>
 </table>
+
+<!-- USER STORIE 11 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US11</th>
+    <th>EPIC ID</th>
+    <th>EP05</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Visualizar datos estadísticos de funciones biológicas</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como profesional de la salud mental, <strong>quiero</strong> visualizar estadísticas de las necesidades fisiológicas del paciente <strong>para</strong> evaluar su estado físico.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Visualización exitosa de datos estadísticos</strong><br>
+      <strong>Given</strong> el profesional ha accedido al perfil del paciente,<br>
+      <strong>When</strong> ingresa al perfil del paciente,<br>
+      <strong>Then</strong> la plataforma muestra los datos de manera clara.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 12 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US12</th>
+    <th>EPIC ID</th>
+    <th>EP05</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Visualización de los estados de ánimo del paciente</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como profesional de la salud mental, <strong>quiero</strong> visualizar un registro de los estados de ánimo históricos del paciente <strong>para</strong> evaluar su progreso emocional.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Visualización de estados de ánimo</strong><br>
+      <strong>Given</strong> el profesional ha accedido al perfil del paciente,<br>
+      <strong>When</strong> selecciona la opción de visualizar estados de ánimo,<br>
+      <strong>Then</strong> la plataforma muestra los registros de los estados de ánimo del paciente.<br><br>
+      <strong>Scenario 2: Estados de ánimo no registrados</strong><br>
+      <strong>Given</strong> el profesional ha accedido al perfil sin registros,<br>
+      <strong>When</strong> selecciona la opción de visualizar estados de ánimo,<br>
+      <strong>Then</strong> la plataforma muestra un mensaje de error.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 13 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US13</th>
+    <th>EPIC ID</th>
+    <th>EP05</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Visualizar información del consumo de medicamentos</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como profesional de la salud mental, <strong>quiero</strong> visualizar registros del cumplimiento del paciente con el consumo de la medicación asignada.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Visualización exitosa del consumo de medicamentos</strong><br>
+      <strong>Given</strong> el profesional ha accedido al perfil del paciente,<br>
+      <strong>When</strong> selecciona la opción de visualizar el consumo de medicamentos,<br>
+      <strong>Then</strong> la plataforma muestra una lista detallada con la información del cumplimiento del paciente con la medicación asignada.
+    </td>
+  </tr>
+</table>
+<br>
 
 <!-- EPIC 6 -->
 <table>
