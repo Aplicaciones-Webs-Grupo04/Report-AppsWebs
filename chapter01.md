@@ -72,7 +72,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
     <th colspan="2">Maita Falckenheiner, Romina Guadalupe</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/ro-photo.png" style="width:700px; height:auto;"></td>
+    <td><img src="/assets/chapter01/romina-photo.jpeg" style="width:700px; height:auto;"></td>
     <td>Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.</td>
   </tr>
 
