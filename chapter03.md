@@ -33,7 +33,6 @@
 # **CAPÍTULO III: REQUIREMENTS SPECIFICATIONS**
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
-## 3.2. User Stories
 <!-- EPIC 1 -->
 <table>
   <tr>
