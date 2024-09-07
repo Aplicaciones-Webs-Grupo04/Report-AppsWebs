@@ -117,64 +117,34 @@ Nuestro diseño adaptable y el uso del patrón en Z garantizan que, independient
 Esta sección se enfoca en los elementos esenciales de contenido visual, estilos, etiquetas, y más, que se considerarán en el desarrollo de la web y la landing page. 
 
 ### 4.2.1. Organization Systems
+Para asegurar una jerarquía clara y precisa en nuestra
+aplicación, es crucial facilitar una navegación satisfactoria
+para el usuario. La estructura que hemos definido es la
+siguiente:<br>
 
-## 4.2.1. Organization Systems
+**Medicos:**
+Al acceder a la plataforma del proyecto para profesionales de la salud mental, los usuarios (psiquiatras, psicólogos y otros profesionales de la salud mental) pueden iniciar sesión, registrarse si no tienen una cuenta previa, o recuperar su contraseña en caso de olvido. Una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Pacientes", "Agenda", "Perfil" y "Ajustes".
 
-### Menú Principal
+En la sección "Pacientes", los profesionales pueden ver una lista de sus pacientes actuales y seleccionar un paciente para acceder a su perfil detallado, que incluye historial de citas, notas clínicas por sesión y tratamientos en curso. En la opción de "Tratamientos en curso" se puede acceder a opciones tales como diagnósticos, datos fisiológicos, registro de estados de ánimo y tareas asignadas.
 
-<div style="margin-left: 200px;">
+La opción "Agenda" ofrece una vista calendarizada de las citas programadas, con opciones para agendar nuevas consultas, modificar horarios y enviar recordatorios.
 
-| Topic          | Description                                                                                       |
-|----------------|---------------------------------------------------------------------------------------------------|
-| Home           | La página de inicio, la cual muestra una vista general del servicio y destaca las características clave. |
-| Suscriptionns  | La página de suscripciones que ofrece los planes de suscripción para beneficios exclusivos con diferentes costos. |
-| Testimonials   | La página de testimonios, esta ofrece comentarios y calificaciones sobre el servicio a todos los usuarios. |
+En el "Perfil", los profesionales pueden revisar y actualizar su información personal, incluyendo datos de contacto y especialidad. En la sección "Ajustes", pueden gestionar la seguridad de la cuenta, como cambiar contraseñas.
 
-</div>
+![OrgSistMedicos.png](assets%2Fchapter04%2FOrgSistMedicos.png)
+---
+**Pacientes:**
+Al acceder a la plataforma del proyecto para pacientes, los usuarios pueden iniciar sesión con su nombre y apellido, cambiar la contraseña, y una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual".
 
-### Page of Suscriptions
+En la sección "Lista de Tareas" se pueden visualizar los conjuntos de actividades designados por el profesional de la salud mental en cada sesión. Dentro de esta vista, se puede acceder a opciones tales como ver tareas y marcar como completadas.
 
-<div style="margin-left: 200px;">
+En la sección "Tratamiento Actual" se puede acceder a opciones tales como "Prescripciones", "Diagnóstico Actual", "Formulario de Estados de Ánimo", "Registro de Estados Fisiológicos" y ver datos estadísticos de su estado a lo largo del tratamiento.
 
-| Topic                         | Description                                                                      |
-|-------------------------------|----------------------------------------------------------------------------------|
-| Lista de planes de suscripción | La página mostrará todos los planes que ofrece el servicio.                      |
-| Detalles de planes            | La página mostrará los detalles de todos los planes que ofrece el servicio.       |
+En la sección "Citas" se pueden visualizar las citas programadas por el profesional de la salud mental, y se puede acceder a opciones tales como ver detalles de la cita.
 
-</div>
+En la sección "Perfil" se puede visualizar y actualizar la información personal del paciente, incluyendo datos de contacto y datos de salud.
 
-### Page of Testimonials
-
-<div style="margin-left: 200px;">
-
-| Topic                  | Description                                                                         |
-|------------------------|-------------------------------------------------------------------------------------|
-| Lista de comentarios   | La página mostrará todos los títulos de los comentarios más recientes dados por otros usuarios. |
-| Detalles de los comentarios | La página mostrará con mayor detalle el comentario al que desee interactuar.              |
-
-</div>
-
-### Page of Contact
-
-<div style="margin-left: 200px;">
-
-| Topic           | Description                                                                      |
-|-----------------|----------------------------------------------------------------------------------|
-| Lista de Contactos | La página mostrará al usuario todos los métodos por el cual puede contactar con nosotros. |
-
-</div>
-
-### Page of Log In
-
-<div style="margin-left: 200px;">
-
-| Topic                   | Description                                                                                 |
-|-------------------------|---------------------------------------------------------------------------------------------|
-| Registro y Autenticación | La página muestra una vista general del servicio y la posibilidad de iniciar sesión o registrarse. |
-
-</div>
-
-
+![OrgSistPacientes.png](/assets/chapter04/OrgSistPacientes.png)
 ### 4.2.2. Labeling Systems
 
 En esta sección, se detallan los sistemas de etiquetado utilizados en la plataforma PSYMED para asegurar una organización clara y coherente de la información. Los sistemas de etiquetado son esenciales para facilitar la navegación, mejorar la experiencia del usuario y garantizar que los usuarios puedan encontrar la información que necesitan de manera eficiente.
