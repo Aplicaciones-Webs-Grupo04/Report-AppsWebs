@@ -27,10 +27,26 @@
   h4 {
     margin-left: 4em; /* Aplica una sangría de 4em para subtítulos de nivel 4 */
   }
+
 </style>
 
 # **CAPÍTULO III: REQUIREMENTS SPECIFICATIONS**
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
+<table>
+  <tr>
+    <th>EPIC ID</th>
+    <th>01</th>
+    <th>TITLE: Accesibilidad de la Landing Page</th>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <strong>Cómo</strong> visitante de la Landing Page, 
+      <strong>quiero</strong> que la información sobre la aplicación sea fácil de entender 
+      <strong>para</strong> poder comprender rápidamente su propósito.
+    </td>
+  </tr>
+</table>
+
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
