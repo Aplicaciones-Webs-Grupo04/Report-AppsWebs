@@ -233,20 +233,19 @@ Para la landing page:
 - **Author:** closedSource
 
 ### 4.2.4. Searching Systems
+Los médicos pueden utilizar los métodos de búsqueda por:
 
-El sistema de búsqueda es un componente esencial de la plataforma PSYMED, diseñado para facilitar el acceso rápido a la información relevante. El sistema debe ser intuitivo, rápido y preciso, permitiendo a los usuarios encontrar fácilmente lo que necesitan.
+- Filtrado de Información por Fechas:
+  - Búsqueda de notas por fecha
+  - Búsqueda de sesiones por fecha
+  - Búsqueda de diagnósticos por fecha
+  - Búsqueda de prescripciones por fecha
+  - Ver sesiones por fecha
 
-### Características del Sistema de Búsqueda:
-
-- **Barra de Búsqueda:** Ubicada de manera prominente en la parte superior de la página, permitiendo a los usuarios ingresar palabras clave para buscar contenido específico.
-
-- **Búsqueda Predictiva:** A medida que los usuarios escriben, el sistema debe sugerir términos relacionados o resultados potenciales para facilitar la búsqueda.
-
-- **Filtros de Búsqueda:** Permitir a los usuarios filtrar resultados por categorías como "Planes de Suscripción", "Testimonios", "Artículos", "Contacto", etc.
-
-- **Búsqueda Avanzada:** Ofrecer una opción de búsqueda avanzada donde los usuarios puedan especificar criterios más detallados para obtener resultados más precisos.
-
-- **Indexación de Contenidos:** Asegurar que todos los contenidos de la plataforma estén indexados para una rápida recuperación durante la búsqueda.
+Los pacientes pueden utilizar los metodos de busqueda por:
+- Filtrado de informacion por ID
+  - busqueda de tareas por ID
+  - confirmacion de tareas por ID
 
 ### 4.2.5. Navigation Systems
 
