@@ -249,13 +249,15 @@ Los pacientes pueden utilizar los metodos de busqueda por:
 
 ### 4.2.5. Navigation Systems
 
-El sistema de navegación de PSYMED está diseñado para ser simple, claro y eficiente, permitiendo a los usuarios moverse a través de la plataforma con facilidad. Un sistema de navegación bien diseñado mejora la experiencia del usuario al facilitar el acceso a la información y reducir el tiempo que se necesita para encontrarla.
+**Para Psiquiatras:**
 
-### Características del Sistema de Navegación:
+En la plataforma para profesionales de salud mental, tras iniciar sesión, los usuarios acceden a un panel de control con un menú superior que incluye "Inicio", "Pacientes", "Agenda", "Perfil" y "Ajustes". En "Pacientes", pueden ver y gestionar perfiles detallados de los pacientes, incluyendo historial de citas y tratamientos. "Agenda" muestra un calendario con citas programadas y permite agendar nuevas, modificar horarios y enviar recordatorios. En "Perfil", se actualiza la información personal y en "Ajustes", se gestionan aspectos de seguridad de la cuenta.
 
-- **Menú Principal:** Ubicado en la parte superior de la página, el menú principal incluye enlaces directos a las secciones más importantes como "Home", "Suscripciones", "Testimonios", "Contacto" y "Log In".
+**Para Pacientes:**
 
-- **Submenús Desplegables:** Permiten a los usuarios acceder a subsecciones específicas sin salir de la página actual. Por ejemplo, en "Suscripciones", los usuarios pueden acceder directamente a "Detalles del Plan".
+Al ingresar, los pacientes ven un panel con opciones como "Inicio", "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual". En "Lista de Tareas", pueden ver y marcar tareas asignadas como completadas. "Tratamiento Actual" ofrece detalles sobre prescripciones, diagnósticos, estados de ánimo y datos estadísticos. "Citas" permite ver y gestionar citas programadas, mientras que "Perfil" facilita la actualización de la información personal.
+
+Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave tanto para psiquiatras como para pacientes.
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
