@@ -537,6 +537,96 @@
   </tr>
 </table>
 
+<!-- USER STORIE 14 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US14</th>
+    <th>EPIC ID</th>
+    <th>EP06</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Actualizar ingesta de pastillas</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como profesional de la salud mental, <strong>quiero</strong> actualizar la prescripción del paciente <strong>para</strong> ajustar las dosis al tratamiento si es necesario.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Actualización exitosa de ingesta de pastillas</strong><br>
+      <strong>Given</strong> el profesional ha accedido al perfil del paciente,<br>
+      <strong>When</strong> modifica los datos y hace clic en "Guardar",<br>
+      <strong>Then</strong> la plataforma actualiza la información de la ingesta de pastillas.<br><br>
+      <strong>Scenario 2: Actualización con datos incompletos o incorrectos</strong><br>
+      <strong>Given</strong> el profesional ha accedido al perfil del paciente,<br>
+      <strong>When</strong> modifica los datos, pero deja campos requeridos incompletos y hace clic en "Guardar",<br>
+      <strong>Then</strong> la plataforma muestra un mensaje de error indicando los campos que faltan completar antes de guardar.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 15 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US15</th>
+    <th>EPIC ID</th>
+    <th>EP06</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Actualizar apuntes de la sesión terapéutica</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como profesional de la salud mental, <strong>quiero</strong> actualizar los apuntes de la sesión terapéutica <strong>para</strong> registrar cambios relevantes.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Actualización exitosa de apuntes de la sesión</strong><br>
+      <strong>Given</strong> el profesional ha accedido a los apuntes de la sesión terapéutica del paciente,<br>
+      <strong>When</strong> edita los apuntes y hace clic en "Guardar",<br>
+      <strong>Then</strong> la plataforma actualiza los apuntes en la sesión seleccionada.<br><br>
+      <strong>Scenario 2: Error al actualizar apuntes de la sesión</strong><br>
+      <strong>Given</strong> el profesional ha accedido a los apuntes de la sesión terapéutica del paciente,<br>
+      <strong>When</strong> edita los apuntes, pero deja campos importantes sin completar y hace clic en "Guardar",<br>
+      <strong>Then</strong> la plataforma muestra un mensaje de error indicando los campos que faltan completar antes de guardar.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 16 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US16</th>
+    <th>EPIC ID</th>
+    <th>EP06</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Actualizar diagnóstico del paciente</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como profesional de la salud mental, <strong>quiero</strong> actualizar el diagnóstico del paciente <strong>para</strong> reflejar cambios en su condición.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Actualización exitosa del diagnóstico</strong><br>
+      <strong>Given</strong> el profesional ha accedido al diagnóstico actual del paciente,<br>
+      <strong>When</strong> edita el diagnóstico y hace clic en "Guardar",<br>
+      <strong>Then</strong> la plataforma actualiza el diagnóstico del paciente.
+    </td>
+  </tr>
+</table>
+<br>
+
 <!-- EPIC 7 -->
 <table>
   <tr>
@@ -552,6 +642,88 @@
     </td>
   </tr>
 </table>
+
+<!-- USER STORIE 17 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US17</th>
+    <th>EPIC ID</th>
+    <th>EP07</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Recibir notificaciones de recordatorios de actividades</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como paciente, <strong>quiero</strong> recibir notificaciones en la plataforma <strong>para</strong> realizar actividades a las horas acordadas por mi médico.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Notificación para actividades en el horario programado</strong><br>
+      <strong>Given</strong> el paciente se encuentra en el dashboard,<br>
+      <strong>When</strong> llega la hora programada para realizar la actividad,<br>
+      <strong>Then</strong> la plataforma debe notificar al paciente para que pueda atender a la actividad acordada.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 18 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US18</th>
+    <th>EPIC ID</th>
+    <th>EP07</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Visualizar cambios en el dashboard</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como paciente, <strong>quiero</strong> visualizar un apartado principal con la información relevante de mi tratamiento <strong>para</strong> estar siempre actualizado sobre mi progreso.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Visualización de la pantalla principal</strong><br>
+      <strong>Given</strong> el paciente se encuentra en el dashboard de la aplicación,<br>
+      <strong>When</strong> accede al tablero principal de la aplicación,<br>
+      <strong>Then</strong> la plataforma debe mostrar un apartado destacado con la información más relevante y actualizada de su tratamiento.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 19 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US19</th>
+    <th>EPIC ID</th>
+    <th>EP07</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Recibir notificaciones cuando el terapeuta agregue o modifique información</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como paciente, <strong>quiero</strong> recibir notificaciones cuando el terapeuta actualice mi información <strong>para</strong> estar al tanto de las novedades en mi tratamiento.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Notificación de actualización de información</strong><br>
+      <strong>Given</strong> el paciente se encuentra en el dashboard,<br>
+      <strong>When</strong> el terapeuta guarda la nueva información en la plataforma,<br>
+      <strong>Then</strong> la plataforma notifica al paciente sobre los cambios realizados.
+    </td>
+  </tr>
+</table>
+<br>
 
 <!-- EPIC 8 -->
 <table>
@@ -569,6 +741,96 @@
   </tr>
 </table>
 
+<!-- USER STORIE 20 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US20</th>
+    <th>EPIC ID</th>
+    <th>EP08</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Registro de estado de ánimo</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como paciente, <strong>quiero</strong> comunicarle a mi profesional mi estado de ánimo <strong>para</strong> ver el progreso de mi tratamiento.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Registro de emoción</strong><br>
+      <strong>Given</strong> el paciente se encuentra en la sección de registros de estado emocional,<br>
+      <strong>When</strong> registra su estado de ánimo actual,<br>
+      <strong>Then</strong> la plataforma debe actualizar su estado emocional en el perfil del paciente.<br><br>
+      <strong>Scenario 2: Almacenamiento de estado de ánimo</strong><br>
+      <strong>Given</strong> el paciente ha registrado previamente su estado de ánimo,<br>
+      <strong>When</strong> ingresa al historial de estados de ánimo,<br>
+      <strong>Then</strong> la plataforma muestra un calendario con los estados del paciente a lo largo del tiempo.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 21 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US21</th>
+    <th>EPIC ID</th>
+    <th>EP08</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Confirmación de consumo de pastillas</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como paciente, <strong>quiero</strong> confirmar el consumo de mi medicamento <strong>para</strong> asegurarme de no olvidar ninguna dosis.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Registro de consumo de medicamentos</strong><br>
+      <strong>Given</strong> el paciente accede a la aplicación,<br>
+      <strong>When</strong> accede a la sección de seguimiento de medicamentos,<br>
+      <strong>Then</strong> la plataforma muestra los medicamentos que debe tomar y el paciente podrá confirmar su consumo.<br><br>
+      <strong>Scenario 2: Seguimiento de pastillas</strong><br>
+      <strong>Given</strong> el paciente ha accedido a la sección de seguimiento de medicamentos,<br>
+      <strong>When</strong> accede al historial del mismo,<br>
+      <strong>Then</strong> la plataforma muestra un calendario con los días que el paciente confirmó el consumo de sus medicamentos.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 22 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US22</th>
+    <th>EPIC ID</th>
+    <th>EP08</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Registro de funciones biológicas</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como paciente, <strong>quiero</strong> registrar la calidad de mis funciones biológicas <strong>para</strong> poder ver mi progreso y que mi profesional a cargo también esté pendiente.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Ingreso de funciones biológicas</strong><br>
+      <strong>Given</strong> el paciente ha accedido a la sección de registro de funciones biológicas,<br>
+      <strong>When</strong> selecciona la opción de registrar funciones,<br>
+      <strong>Then</strong> la plataforma debe permitir seleccionar nivel de sueño, hambre, energía e hidratación en una escala del 1 al 10.
+    </td>
+  </tr>
+</table>
+<br>
+
 <!-- EPIC 9 -->
 <table>
   <tr>
@@ -584,6 +846,67 @@
     </td>
   </tr>
 </table>
+
+<!-- USER STORIE 23 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US23</th>
+    <th>EPIC ID</th>
+    <th>EP09</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Cambio de datos de acceso del paciente</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como profesional de la salud mental, <strong>quiero</strong> actualizar los datos de acceso del paciente <strong>para</strong> asegurar que su información esté siempre correcta.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Actualización exitosa de los datos de acceso</strong><br>
+      <strong>Given</strong> el profesional ha accedido a la sección de cambio de datos de acceso del paciente,<br>
+      <strong>When</strong> actualiza los datos requeridos,<br>
+      <strong>Then</strong> la plataforma actualiza los datos de acceso del paciente y muestra una confirmación.<br><br>
+      <strong>Scenario 2: Error al actualizar los datos por falta de completación</strong><br>
+      <strong>Given</strong> el profesional intenta actualizar los datos sin completar los campos requeridos,<br>
+      <strong>Then</strong> la plataforma muestra un mensaje de error.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 24 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US24</th>
+    <th>EPIC ID</th>
+    <th>EP09</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Cambio de información personal del profesional de salud mental</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como profesional de la salud mental, <strong>quiero</strong> actualizar mi información personal <strong>para</strong> mantener mis datos correctos y reflejar cualquier cambio relevante.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Actualización exitosa de la información personal</strong><br>
+      <strong>Given</strong> el profesional ha accedido a la sección de cambio de información personal,<br>
+      <strong>When</strong> actualiza los datos requeridos,<br>
+      <strong>Then</strong> la plataforma actualiza la información personal y muestra una confirmación.<br><br>
+      <strong>Scenario 2: Error al actualizar la información por falta de completación</strong><br>
+      <strong>Given</strong> el profesional intenta actualizar los datos sin completar los campos requeridos,<br>
+      <strong>Then</strong> la plataforma muestra un mensaje de error.
+    </td>
+  </tr>
+</table>
+
 
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
