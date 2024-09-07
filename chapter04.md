@@ -216,29 +216,21 @@ En la sección "Perfil" se puede visualizar y actualizar la información persona
   - Ver datos estadísticos de su estado a lo largo del tratamiento
 
 ### 4.2.3. SEO Tags and Meta Tags
+Las etiquetas reflejan el contenido de nuestro proyecto, abarcando tanto la Landing Page como el Sitio Web. Han sido creadas para mejorar la visibilidad de nuestro proyecto en los principales motores de búsqueda, lo que permitirá a los usuarios encontrar fácilmente nuestra aplicacion de PSYMED.
+
+Para la landing page:
+- **Título:** PSYMED - Plataforma de Gestión de Salud Mental
+- **Descripción:** PSYMED - plataforma de gestión de salud mental - LandingPage .
+- **keywords:** Salud Mental,Psiquiatras, Software, Citas Médicas, Historial Clínico, Plataforma Psicólogos, Registro Pacientes, Tratamiento Psicológico, Seguimiento Pacientes.
+- **Author:** closedSource
+
+ para el Web Side:
 
 
-Para garantizar que la plataforma PSYMED sea fácilmente encontrada por los motores de búsqueda y, por ende, accesible a un mayor número de usuarios, es crucial implementar estrategias de SEO (Search Engine Optimization) efectivas. Esto incluye el uso de meta tags adecuadas y otras etiquetas relacionadas con el SEO.
-
-### Meta Tags:
-
-- **Title Tag:** Cada página de la plataforma debe tener un título único y descriptivo, que refleje claramente el contenido de la página.  
-  Ejemplo: `<title>PSYMED - Plataforma de Salud Mental</title>`.
-
-- **Meta Description:** Las descripciones meta deben proporcionar un resumen breve y atractivo del contenido de la página.  
-  Ejemplo: `<meta name="description" content="PSYMED es una plataforma integral para la gestión de la salud mental, ofreciendo herramientas para profesionales y pacientes en un entorno seguro y confiable.">`.
-
-- **Keywords:** Incluir palabras clave relevantes que reflejen el contenido de la página y que los usuarios probablemente utilizarán en sus búsquedas.  
-  Ejemplo: `<meta name="keywords" content="salud mental, psiquiatría, terapia en línea, gestión de pacientes">`.
-
-### SEO Tags:
-
-- **Header Tags:** Uso adecuado de etiquetas de encabezado (`<h1>`, `<h2>`, `<h3>`, etc.) para estructurar el contenido y mejorar su accesibilidad.
-
-- **Alt Text para Imágenes:** Incluir descripciones detalladas en el atributo alt de las imágenes para mejorar la accesibilidad y el SEO.  
-  Ejemplo: `<img src="logo.png" alt="Logo de PSYMED - Plataforma de Salud Mental">`.
-
-- **URL amigables:** Asegurar que las URLs sean descriptivas y reflejen la estructura de la información.
+- **Título:** PSYMED - Plataforma de Gestión de Salud Mental
+- **Descripción:** PSYMED - plataforma de gestión de salud mental - Web Side .
+- **keywords:** Salud Mental,Psiquiatras, Software, Citas Médicas, Historial Clínico, Plataforma Psicólogos, Registro Pacientes, Tratamiento Psicológico, Seguimiento Pacientes.
+- **Author:** closedSource
 
 ### 4.2.4. Searching Systems
 
