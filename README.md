@@ -30,7 +30,7 @@ Para este proyecto hemos utilizado las herramientas GitHub y Trello para gestion
 En Trello hemos organizado las tareas de cada integrante y con ello se puede visualizar el avance de cada asignación.
 
 Se puede acceder al contenido de la organización en GitHub mediante el siguiente enlace:
-[WebSource.com](https://github.com/Aplicaciones-Webs-Grupo04)
+[WebSource.com](https://github.com/orgs/Aplicaciones-Webs-Grupo04/repositories)
 
 ---
 # Contenido
@@ -127,11 +127,13 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
 
 ---
 # Student Outcome
-El curso tiene el Student Outcome 3, el cual consiste en la capacidad de de comunicarse efectivamente con un rango de audiencias.
+El curso tiene el Student Outcome 5, el cual consiste en la capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos.
 
 En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuyen al cumplimiento de los aspectos que maneja el Outcome y las conclusiones reralizadas de manera grupal.
 
 | Criterio Específico                                                  | Acciones realizadas | Conclusiones |
 |----------------------------------------------------------------------|---------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia  | TB1:                |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1:                |              |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta      | TB1:                |              |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | TB1:                |              |
