@@ -586,4 +586,10 @@
 </table>
 
 ## 3.3. Impact Mapping
+
+##### Impact mapping del segmento objetivo: profesionales de la salud mental:
+![impactmapping_professionals](/assets/professionals_IM.jpeg)
+##### Impact mapping del segmento objetivo: pacientes.
+![impactmapping_patients](/assets/patients_IM.jpeg)
+
 ## 3.4. Product Backlog
