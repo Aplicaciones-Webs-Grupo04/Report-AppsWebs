@@ -145,21 +145,75 @@ En la sección "Citas" se pueden visualizar las citas programadas por el profesi
 En la sección "Perfil" se puede visualizar y actualizar la información personal del paciente, incluyendo datos de contacto y datos de salud.
 
 ![OrgSistPacientes.png](/assets/chapter04/OrgSistPacientes.png)
+
 ### 4.2.2. Labeling Systems
 
-En esta sección, se detallan los sistemas de etiquetado utilizados en la plataforma PSYMED para asegurar una organización clara y coherente de la información. Los sistemas de etiquetado son esenciales para facilitar la navegación, mejorar la experiencia del usuario y garantizar que los usuarios puedan encontrar la información que necesitan de manera eficiente.
+**Medicos:**
 
-### Principios de Etiquetado
+**inicio**
+- Iniciar sesión
+- Registrarse
+- Recuperar su contraseña
 
-- **Consistencia en todo el lenguaje uniforme que sea comprensible para los usuarios.**
-- **Claras y directas.**
-- **Cada etiqueta debe reflejar con precisión el contenido al que se refiere, ayudando a los usuarios a encontrar la información relevante de manera rápida.**
+**Pagina principal**
+- Pacientes
+- Agenda
+- Perfil
+- Ajustes
 
-### Ejemplo de Etiquetas
+**Pacientes**
+- lista de sus pacientes
+  - Historial de citas
+  - Notas clínicas por sesión
+  - Tratamientos en curso
+    - Diagnósticos
+    - Datos fisiológicos
+    - Registro de estados de ánimo
+    - Tareas asignadas
+    - Asignar Medicamentos
 
-- **Menú Principal:** "Home", "Suscripciones", "Testimonios", "Contacto", "Log In".
-- **Subsecciones:** "Planes de Suscripción", "Detalles del Plan", "Comentarios", "Detalles del Comentario".
-- **Campos de Formulario:** "Nombre", "Correo Electrónico", "Contraseña", "Confirmar Contraseña".
+**Agenda:**
+- Agendar nuevas consultas
+- Modificar horarios
+- Enviar recordatorios
+
+**Perfil:**
+- Datos de contacto
+- Especialidad
+
+**Ajustes:**
+- Cambiar contraseñas
+
+---
+**Pacientes:**
+
+**Inicio**
+- Iniciar sesión
+- Cambiar la contraseña
+
+**Pagina principal**
+- Perfil
+- Citas
+- Lista de Tareas
+- Tratamiento Actual
+
+**Perfil:**
+- Datos de contacto
+- Datos de salud
+
+**Citas:**
+- Ver detalles de la cita
+
+**Lista de Tareas:**
+- Ver tareas
+- Marcar como completadas
+
+**Tratamiento Actual:**
+- Registro de Medicamentos
+- Diagnóstico Actual
+- Formulario de Estados de Ánimo
+  - Registro de Estados Fisiológicos
+  - Ver datos estadísticos de su estado a lo largo del tratamiento
 
 ### 4.2.3. SEO Tags and Meta Tags
 
