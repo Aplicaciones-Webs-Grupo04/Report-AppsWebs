@@ -70,8 +70,19 @@ Para este primer entregable, hemos elaborado la Landing Page del proyecto de "Ps
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+En el presente sprint solo se desarrollo la Landing Page.
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+Para el despliegue de la Landing Page, utilizamos la herramienta GitHub Pages para realizar el deployment. Creamos un repositorio en el cual almacenamos el código de nuestra Landing Page.
+
+![alt text](<assets/chapter05/GitHub_Repositorio.png>)
+
+Después de crear el repositorio, accedemos a la configuración y seleccionamos la sección de Pages. Allí, ingresamos los datos requeridos, como la fuente del branch que se utilizará para el deployment. Finalmente, GitHub Pages nos proporciona un enlace y publica nuestra Landing Page en la web.
+
+![alt text](<assets/chapter05/GitHub_Pages.png>)
+
+### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 # Conclusiones 
 
