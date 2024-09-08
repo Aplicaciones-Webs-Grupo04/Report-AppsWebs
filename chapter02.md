@@ -14,10 +14,10 @@
   </tr>
   <tr>
     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>PsyMed<br><img src="/assets/PsyMed.png" alt="PsyMed"></td>
-    <td>TherapyNotes<br><img src="/assets/TherapyNotes.png" alt="TherapyNotes"></td>
-    <td>Teladoc<br><img src="/assets/Teladoc.png" alt="Teladoc"></td>
-    <td>Talkspace<br><img src="/assets/Talkspace.png" alt="Talkspace"></td>
+    <td>PsyMed<br><img src="/assets/chapter02/competidores/PSYMED.png" alt="PsyMed"></td>
+    <td>TherapyNotes<br><img src="/assets/chapter02/competidores/TherapyNotes.png" alt="TherapyNotes"></td>
+    <td>Teladoc<br><img src="/assets/chapter02/competidores/Teladoc.png" alt="Teladoc"></td>
+    <td>Talkspace<br><img src="/assets/chapter02/competidores/Talkspace.png" alt="Talkspace"></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -235,14 +235,14 @@ Entrevistado 1:
     <img src="/assets/chapter02/Interviews/Interview1.jpeg">
 </div>
 
-| Nombre               | Ximena        |
-|----------------------|---------------|
-| Apellido             | Falckenheiner |
-| Edad                 | 23 años       |
-| Distrito             | Jesús María   |
-| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)              |
-| Inicio de entrevista |               |
-| Fin de entrevista    |               |
+| Nombre               | Ximena                                                                                                                                                                                                                                                                                                                                |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Falckenheiner                                                                                                                                                                                                                                                                                                                         |
+| Edad                 | 23 años                                                                                                                                                                                                                                                                                                                               |
+| Distrito             | Jesús María                                                                                                                                                                                                                                                                                                                           |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Inicio de entrevista | 1:08:00 minutos                                                                                                                                                                                                                                                                                                                       |
+| Fin de entrevista    | 1:14:26 minutos                                                                                                                                                                                                                                                                                                                       |
 
 Resumen:
 
@@ -256,18 +256,19 @@ La entrevistada menciona utilizar diariamente plataformas digitales y usar con f
 Entrevistado 2:
 
 <div align=center>
-    <img src="/assets/Interviews/Interview2PT.png"/>
+    <img src="/assets/chapter02/Interviews/Interview2PT.png"/>
 </div>
 
 
-| Nombre               | Alejandra                                                                                                    |
-|----------------------|--------------------------------------------------------------------------------------------------------------|
-| Apellido             | Chavez                                                                                                       |
-| Edad                 | 20 años                                                                                                      |
-| Distrito             | Lince                                                                                                        |
-| URL                  | |
-| Inicio de entrevista |                                                                                                              |
-| Fin de entrevista    |                                                                                                              |
+| Nombre               | Alejandra       |
+|----------------------|-----------------|
+| Apellido             | Chavez          |
+| Edad                 | 20 años         |
+| Distrito             | Lince           |
+| URL                  |   [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)               |
+| Inicio de entrevista | 1:14:27 minutos |
+| Fin de entrevista    | 1:24:13 minutos |
+
 **Resumen:**
 
 La entrevistada menciona que utiliza plataformas digitales
@@ -289,21 +290,21 @@ el proyecto con las siguientes ideas:
 - Información general sobre el terapeuta.
 - Cifrado de datos personales.
 
-
 Entrevistado 3:
 
 <div align=center>
-    <img src="/assets/public/imagenes/Interviews/Interview3PT.png"/></img>
+    <img src="/assets/chapter02/Interviews/Interview3.jpeg">
 </div>
 
 
-| Nombre               | Sebastian                                                                                                                                      |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | muñiz                                                                                                                                          |
-| Edad                 | 21 años                                                                                                                                        |
-| Distrito             | Pueblo libre                                                                                                                                   |
-| URL                  |  |
-| Inicio de entrevista |  |
+| Nombre               | Sebastian                                                                                                                                                                                                                                                                                                                             |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Muñiz                                                                                                                                                                                                                                                                                                                                 |
+| Edad                 | 21 años                                                                                                                                                                                                                                                                                                                               |
+| Distrito             | Pueblo libre                                                                                                                                                                                                                                                                                                                          |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Inicio de entrevista | 1:25:00 minutos                                                                                                                                                                                                                                                                                                                       |
+| Fin de entrevusta    | 1:39:10 minutos                                                                                                                                                                                                                                                                                                                       |
 
 **Resumen:**
 
@@ -349,11 +350,11 @@ lado, es interesante destacar que todos ellos prefieren utilizar
 sus celulares como su herramienta principal para el trabajo y la
 comunicación.
 
-![AL-medic1.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic1.jpg)
-![AL-medic2.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic2.jpg)
-![AL-medic3.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic3.jpg)
-![AL-medic4.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic4.jpg)
-![Al-medic5.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAl-medic5.jpg)
+![AL-medic1.jpg](/assets/chapter02/statistics/Mental%20Medic/AL-medic1.jpg)
+![AL-medic2.jpg](/assets/chapter02/statistics/Mental%20Medic/AL-medic2.jpg)
+![AL-medic3.jpg](/assets/chapter02/statistics/Mental%20Medic/AL-medic3.jpg)
+![AL-medic4.jpg](/assets/chapter02/statistics/Mental%20Medic/AL-medic4.jpg)
+![Al-medic5.jpg](/assets/chapter02/statistics/Mental%20Medic/Al-medic5.jpg)
 - **Segmento 2: Pacientes**
 
 Según los datos recolectados para el análisis de nuestro segmento
@@ -365,10 +366,10 @@ herramientas tecnológicas que prefieren utilizar, no muestran una
 inclinación marcada hacia un solo dispositivo, ya que usan en gran
 medida celulares y laptops, aunque las tablets también son utilizadas
 con frecuencia.
-![Al-Pat1.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-Pat1.png)
-![Al-pat2.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat2.png)
-![Al-pat3.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat3.png)
-![Al-pat4.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat4.png)
+![Al-Pat1.png](/assets/chapter02/statistics/Patients/Al-Pat1.png)
+![Al-pat2.png](/assets/chapter02/statistics/Patients/Al-pat2.png)
+![Al-pat3.png](/assets/chapter02/statistics/Patients/Al-pat3.png)
+![Al-pat4.png](/assets/chapter02/statistics/Patients/Al-pat4.png)
 
 ## 2.3 Needfinding:
 Después de realizar las entrevistas, logramos recopilar información
@@ -394,13 +395,13 @@ del médico como el bienestar del paciente. Estas herramientas nos
 ayudarán a diseñar una plataforma que realmente responda a las
 expectativas de nuestros usuarios.
 
-**Segmento Objetivo: Medico mental**
+**Segmento Objetivo: Profesional de la salud mental**
 
-![So-Mental Medic.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Mental%20Medic.png)
+![So-Mental Medic.png](/assets/chapter02/Segments/So-Mental%20Medic.png)
 
 **Segmento Objetivo: Paciente**
 
-![So-Patient.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Patient.png)
+![So-Patient.png](/assets/chapter02/Segments/So-patient.png)
 
 ## **User Task Matrix**
 
@@ -453,10 +454,10 @@ Las coincidencias entre los segmentos destacan la importancia de una solución i
 El User Journey Mapping se desarrolló para comprender la experiencia de los usuarios al interactuar con nuestra plataforma. Este mapeo detalla cada paso que el usuario realiza, los obstáculos que puede encontrar, y las emociones que surgen en el proceso. Así, nos ayuda a identificar oportunidades para mejorar la usabilidad y satisfacción del usuario.
 
 
-### **Segmento 1: Medicos de la salud mental**
-![Texto alternativo](../../assets/Graphics/UJMMedico.png)
+### **Segmento 1: Profesionales de la salud mental**
+![UJMMedic](/assets/chapter02/Graphics/UJMMedico.png)
 ### **Segmento 2: Pacientes**
-![Texto alternativo](../../assets/Graphics/UJMPaciente.png)
+![UJMPatient](/assets/chapter02/Graphics/UJMPaciente.png)
 
 ## **Emphaty Mapping**
 
@@ -464,14 +465,14 @@ El User Journey Mapping se desarrolló para comprender la experiencia de los usu
 Para la creación del Empathy Map, hemos utilizado la información obtenida de nuestros dos User Personas que representan nuestro segmento objetivo. Este mapa nos permite profundizar en la comprensión de las necesidades, pensamientos, emociones y comportamientos de los usuarios, ayudándonos a diseñar soluciones más alineadas con sus expectativas y experiencias reales.
 
 
-### **Segmento 1: Medicos de la salud mental**
-![Texto alternativo](../../assets/Graphics/EMMedico.png)
+### **Segmento 1: Profesionales de la salud mental**
+![EMMedic](/assets/chapter02/Graphics/EMMedico.png)
 ### **Segmento 2: Pacientes**
-![Texto alternativo](../../assets/Graphics/EMPaciente.png)
+![EMPatient](/assets/chapter02/Graphics/EMPaciente.png)
 
 
 ### 2.3.5 As-is Scenario Mapping
-- **Segmento objetivo:** Pisquiatra  
-  ![as-is1](../../assets/AS-IS%20Pisquiatra.jpg)
-- **Segmento objetivo:** Paciente    
-  ![as-is2](../../assets/AS-IS%20Cliente.jpg)
+- **Segmento objetivo:** Profesionales de la salud
+  ![as-is1](/assets/chapter02/Graphics/AS-IS%20Pisquiatra.jpg)
+- **Segmento objetivo:** Pacientes    
+  ![as-is2](/assets/chapter02/Graphics/AS-IS%20Cliente.jpg)
