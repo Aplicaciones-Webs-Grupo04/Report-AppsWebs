@@ -39,7 +39,7 @@ Nuestra paleta de colores se ha seleccionado para proporcionar un entorno digita
 
 #0DA293 (Verde Tranquilidad): Este tono verde evoca un sentido de calma y estabilidad, simbolizando la paz interior y la conexión con la naturaleza. Es perfecto para transmitir seguridad y apoyo en el entorno de la salud mental.
 
-#10BEAE (Verde Vitalidad - Principal): Este color es el corazón de la paleta. Un verde vibrante que inspira renovación y energía positiva, reflejando la vitalidad y el bienestar que Psymed busca promover en sus usuarios. Es el tono principal, utilizado para destacar elementos clave e inspirar confianza.
+#10BEAE (Verde Vitalidad - Principal): Este verde vibrante es el color principal para gran parte de nuestro proyecto. Inspira renovación y energía positiva, reflejando la vitalidad y el bienestar que Psymed busca promover en sus usuarios. Este tono se utiliza para destacar elementos clave e inspirar confianza a lo largo de la experiencia del usuario.
 
 #12DCC8 (Verde Esperanza): Un tono verde claro que representa la esperanza y el crecimiento personal. Es ideal para resaltar aspectos relacionados con el progreso y el desarrollo emocional, ofreciendo una sensación de frescura y optimismo.
 
