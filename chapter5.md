@@ -1,17 +1,19 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1 Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration.
 En esta sección se describe las herramientas de software que utilizamos para colaborar en el ciclo de vida del proyecto de software.
 
-#### Project Management: 
+#### Project Management:
 
 - **Producto:** Trello.
-- **Propósito:** Gestión de tareas del equipo, asignación de roles, seguimiento del progreso de las funcionalidades del sistema, y planificación de entregables a través de tableros.
+- **Propósito:** Para gestión de tareas del equipo, asignación de roles, seguimiento del progreso de las funcionalidades del sistema, y planificación de entregables a través de tableros.
 - **Ruta:** [trello](https://trello.com/invite/b/66c7b03600da2cf712927e84/ATTIbadabe6159d90d2f615ab9ae602eb3763DC0AF14/app-web)
 
 ![trello](/assets/chapter05/Trello.jpeg)
 
-- Product UX/UI Design:
+#### Product UX/UI Design:
 
 - **Producto:** Figma.
 - **Propósito:** Para diseños (Wireframes, MockUps, Prototypes, etc) relacionados al proyecto.
@@ -19,15 +21,20 @@ En esta sección se describe las herramientas de software que utilizamos para co
 
 ![figma](/assets/chapter05/Figma.jpeg)
 
-- Software Development:
+#### Software Development:
+- **Producto:** Webstorm.
+- **Propósito:** Para desarrollar el Landing Page del proyecto.
+- **Ruta:** [LandingPage](https://aplicaciones-webs-grupo04.github.io/Landing-Page_AppsWebs/)
 
-- Software Testing:
+![Webstorm](/assets/chapter05/Webstorm.jpeg)
 
-- Software Deployment:
+#### Software Documentation:
 
-- Software Documentation:
+- **Producto:** IntelliJ IDEA Ultimate.
+- **Propósito:** Para la documentación del proyecto se utilizó IntelliJ IDEA y los capítulos en formato Markdown.
+- **Ruta:** [IntelliJ IDEA](https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs.git)
 
-### 5.1.1. Software Development Environment Configuration.
+![IntelliJ](/assets/chapter05/IntelliJ.jpeg)
 
 ### 5.1.2. Source Code Management.
 
