@@ -374,6 +374,32 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 
 ### 4.3.2. Landing Page Mock-up
+- **Desktop - Mockups:**
+
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20design/mockups/desktop/mockup1.png" style="width:800px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/desktop/mockup2.png" style="width:800px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/desktop/mockup3.png" style="width:800px; height:auto;">
+</p>
+
+- **Mobile - Mockups:**
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile1.png" style="width:350px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile2.png" style="width:350px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile3.png" style="width:350px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile4.png" style="width:350px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile5.png" style="width:350px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile6.png" style="width:350px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile7.png" style="width:350px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile8.png" style="width:350px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile9.png" style="width:350px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile10.png" style="width:350px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile11.png" style="width:350px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile12.png" style="width:350px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile13.png" style="width:350px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile14.png" style="width:350px; height:auto;">
+
+</p>
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
