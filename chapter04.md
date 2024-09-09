@@ -320,16 +320,15 @@ Las etiquetas reflejan el contenido de nuestro proyecto, abarcando tanto la Land
 
 Para la landing page:
 - **Título:** PSYMED - Plataforma de Gestión de Salud Mental
-- **Descripción:** PSYMED - plataforma de gestión de salud mental - LandingPage .
-- **keywords:** Salud Mental,Psiquiatras, Software, Citas Médicas, Historial Clínico, Plataforma Psicólogos, Registro Pacientes, Tratamiento Psicológico, Seguimiento Pacientes.
+- **Descripción:** PSYMED - plataforma de gestión de salud mental - LandingPage.
+- **keywords:** Salud Mental, Psiquiatras, Software, Citas Médicas, Historial Clínico, Plataforma Psicólogos, Registro Pacientes, Tratamiento Psicológico, Seguimiento Pacientes.
 - **Author:** closedSource
 
- para el Web Side:
-
+Para el Web Side:
 
 - **Título:** PSYMED - Plataforma de Gestión de Salud Mental
-- **Descripción:** PSYMED - plataforma de gestión de salud mental - Web Side .
-- **keywords:** Salud Mental,Psiquiatras, Software, Citas Médicas, Historial Clínico, Plataforma Psicólogos, Registro Pacientes, Tratamiento Psicológico, Seguimiento Pacientes.
+- **Descripción:** PSYMED - plataforma de gestión de salud mental - Web Side.
+- **keywords:** Salud Mental, Psiquiatras, Software, Citas Médicas, Historial Clínico, Plataforma Psicólogos, Registro Pacientes, Tratamiento Psicológico, Seguimiento Pacientes.
 - **Author:** closedSource
 
 ### 4.2.4. Searching Systems
@@ -342,10 +341,10 @@ Los médicos pueden utilizar los métodos de búsqueda por:
   - Búsqueda de prescripciones por fecha
   - Ver sesiones por fecha
 
-Los pacientes pueden utilizar los metodos de busqueda por:
-- Filtrado de informacion por ID
-  - busqueda de tareas por ID
-  - confirmacion de tareas por ID
+Los pacientes pueden utilizar los methods de búsqueda por:
+- Filtrado de información por ID
+  - búsqueda de tareas por ID
+  - confirmation de tareas por ID
 
 ### 4.2.5. Navigation Systems
 
@@ -361,6 +360,19 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+- **Desktop - Wireframes:**
+
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20design/wireframe/wireframe.png" style="width:800px; height:auto;">
+</p>
+
+- **Mobile - Wireframes:**
+
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20design/wireframe/wireframe-mobile.png" style="width:350px; height:auto;">
+</p>
+
+
 ### 4.3.2. Landing Page Mock-up
 
 ## 4.4. Web Applications UX/UI Design
