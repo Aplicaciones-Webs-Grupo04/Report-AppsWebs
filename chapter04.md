@@ -106,13 +106,10 @@ Para el proyecto Psymed, utilizaremos una fuente sans serif, que asegura una lec
   <img src="assets/psymed_logo.svg" style="width:300px; height:auto;">
 </p>
 
-El logo de PSYMED está diseñado para capturar la esencia de nuestra plataforma psiquiátrica, centrada en el cuidado y seguimiento integral de los pacientes. El emblema en forma de corazón, combinado con la figura humana en el centro, simboliza la conexión empática y el apoyo constante que ofrecemos entre médicos y pacientes.
-
+El ícono de Psymed presenta una flama estilizada en negro sobre un fondo circular en tono verde menta. La flama simboliza la energía vital, el crecimiento y la transformación, reflejando el enfoque de Psymed en el bienestar mental y emocional. El fondo verde menta complementa esta idea, transmitiendo calma y equilibrio, alineado con los valores de cuidado y apoyo que representa la plataforma.
 <p align="center">
-  <img src="assets/chapter04/icon-pallette.png" style="width:500px; height:auto;">
+  <img src="assets/chapter04/achromatic%20colors/aqua_color.png" style="width:500px; height:auto;">
 </p>
-
-Los tonos de teal reflejan calma, serenidad y profesionalismo, cualidades fundamentales en el ámbito de la salud mental. La tipografía utilizada en "PSYMED" es fuerte y moderna, transmitiendo seguridad y confiabilidad, mientras que el subtítulo "Psychiatric Platform" en un estilo más ligero, enfatiza la precisión y delicadeza con la que manejamos información crítica y personal.
 
 Este logo no solo representa la identidad visual de PSYMED, sino que también encarna nuestra misión de brindar un espacio seguro, eficiente y accesible para la gestión de la salud mental.
 
