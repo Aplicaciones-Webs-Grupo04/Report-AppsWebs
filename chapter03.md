@@ -32,6 +32,10 @@
 
 # **CAPÍTULO III: REQUIREMENTS SPECIFICATIONS**
 ## 3.1. To-Be Scenario Mapping
+**Pacientes:**
+![to-be-paciente.jpg](assets%2Fto-be-paciente.jpg)
+**Medicos:**
+![to-be-profesional.jpg](assets%2Fto-be-profesional.jpg)
 ## 3.2. User Stories
 <!-- EPIC 1 -->
 <table>
