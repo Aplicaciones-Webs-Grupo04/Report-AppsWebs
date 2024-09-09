@@ -321,5 +321,5 @@ La siguiente imagen representa la relación entre clases en función al proyecto
 ### 4.7.2. Class Dictionary.
 
 ## 4.8. Database Design.
-
+![database_diagram](/assets/chapter04/databasediagram.svg)
 ### 4.8.1. Database Diagram.
