@@ -106,12 +106,12 @@ Para el proyecto Psymed, utilizaremos una fuente sans serif, que asegura una lec
   <img src="assets/psymed_logo.svg" style="width:300px; height:auto;">
 </p>
 
-El ícono de Psymed presenta una flama estilizada en negro sobre un fondo circular en tono verde menta. La flama simboliza la energía vital, el crecimiento y la transformación, reflejando el enfoque de Psymed en el bienestar mental y emocional. El fondo verde menta complementa esta idea, transmitiendo calma y equilibrio, alineado con los valores de cuidado y apoyo que representa la plataforma.
+El ícono de Psymed presenta una flama estilizada en un fondo circular La flama simboliza la energía vital, el crecimiento y la transformación, reflejando el enfoque de Psymed en el bienestar mental y emocional. El fondo verde menta complementa esta idea, transmitiendo calma y equilibrio, alineado con los valores de cuidado y apoyo que representa la plataforma.
 <p align="center">
   <img src="assets/chapter04/achromatic%20colors/aqua_color.png" style="width:500px; height:auto;">
 </p>
 
-Este logo no solo representa la identidad visual de PSYMED, sino que también encarna nuestra misión de brindar un espacio seguro, eficiente y accesible para la gestión de la salud mental.
+Este logo no solo representa la identidad visual de Psymed, sino que también encarna nuestra misión de brindar un espacio seguro, eficiente y accesible para la gestión de la salud mental.
 
 ### 4.1.2. Web Style Guidelines
 
