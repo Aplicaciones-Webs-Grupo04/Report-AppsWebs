@@ -91,7 +91,7 @@ Esta elección refuerza nuestro compromiso de ofrecer un entorno digital que no 
 
 **Icon:**
 <p align="center">
-  <img src="assets/psymedo.png" style="width:300px; height:auto;">
+  <img src="assets/psymed.png" style="width:300px; height:auto;">
 </p>
 
 El logo de PSYMED está diseñado para capturar la esencia de nuestra plataforma psiquiátrica, centrada en el cuidado y seguimiento integral de los pacientes. El emblema en forma de corazón, combinado con la figura humana en el centro, simboliza la conexión empática y el apoyo constante que ofrecemos entre médicos y pacientes.
@@ -297,8 +297,29 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 <img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/Test%20Interidario.png" style="width:100%">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
 ### 4.4.2. Web Applications Mock-ups
 
 ### 4.4.3. Web Applications User Flow Diagrams
 
-## 4.5. Web Applications Prototyping 
+## 4.5. Web Applications Prototyping
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagram.
+
+### 4.6.2. Software Architecture Container Diagrams.
+
+### 4.6.3. Software Architecture Components Diagrams.
+
+## 4.7. Software Object-Oriented Design.
+
+### 4.7.1. Class Diagrams.
+La siguiente imagen representa la relación entre clases en función al proyecto.
+![class_diagrams](/assets/chapter04/classdiagram.jpeg)
+
+### 4.7.2. Class Dictionary.
+
+## 4.8. Database Design.
+
+### 4.8.1. Database Diagram.
