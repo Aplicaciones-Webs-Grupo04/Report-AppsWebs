@@ -157,72 +157,157 @@ En la sección "Perfil" se puede visualizar y actualizar la información persona
 
 ### 4.2.2. Labeling Systems
 
-**Medicos:**
-
-**inicio**
-- Iniciar sesión
-- Registrarse
-- Recuperar su contraseña
-
-**Pagina principal**
-- Pacientes
-- Agenda
-- Perfil
-- Ajustes
-
-**Pacientes**
-- lista de sus pacientes
-  - Historial de citas
-  - Notas clínicas por sesión
-  - Tratamientos en curso
-    - Diagnósticos
-    - Datos fisiológicos
-    - Registro de estados de ánimo
-    - Tareas asignadas
-    - Asignar Medicamentos
-
-**Agenda:**
-- Agendar nuevas consultas
-- Modificar horarios
-- Enviar recordatorios
-
-**Perfil:**
-- Datos de contacto
-- Especialidad
-
-**Ajustes:**
-- Cambiar contraseñas
+- **Profesionales de la Salud Mental**
+<table>
+  <thead>
+    <tr>
+      <td colspan="3">Profesionales</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Inicio</strong></td>
+      <td>
+        <ul>
+          <li>Iniciar sesión</li>
+          <li>Registrarse</li>
+          <li>Recuperar su contraseña</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Página principal</strong></td>
+      <td>
+        <ul>
+          <li>Pacientes</li>
+          <li>Agenda</li>
+          <li>Perfil</li>
+          <li>Ajustes</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Pacientes y Lista de sus pacientes</strong></td>
+      <td>
+        <ul>
+          <li>Historial de citas</li>
+          <li>Notas clínicas por sesión</li>
+          <li>Tratamientos en curso
+            <ul>
+              <li>Diagnósticos</li>
+              <li>Datos fisiológicos</li>
+              <li>Registro de estados de ánimo</li>
+              <li>Tareas asignadas</li>
+              <li>Asignar Medicamentos</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Agenda</strong></td>
+      <td>
+        <ul>
+          <li>Agendar una nueva consulta</li>
+          <li>Modificar horarios</li>
+          <li>Enviar recordatorios</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Perfil</strong></td>
+      <td>
+        <ul>
+          <li>Datos del contacto</li>
+          <li>Especialidad</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Ajustes</strong></td>
+      <td>
+        <ul>
+          <li>Cambiar contraseña</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
-**Pacientes:**
+- **Pacientes:**
 
-**Inicio**
-- Iniciar sesión
-- Cambiar la contraseña
+<table>
+  <thead>
+    <tr>
+      <td colspan="3">Pacientes</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Inicio</strong></td>
+      <td>
+        <ul>
+          <li>Iniciar sesión</li>
+          <li>Cambiar contraseña</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Página principal</strong></td>
+      <td>
+        <ul>
+          <li>Perfil</li>
+          <li>Citas</li>
+          <li>Lista de tareas</li>
+          <li>Tratamiento actual</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Perfil</strong></td>
+      <td>
+        <ul>
+          <li>Datos del contacto</li>
+          <li>Datos de salud</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Citas</strong></td>
+      <td>
+        <ul>
+          <li>Ver detalles de la cita</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Lista de tareas</strong></td>
+      <td>
+        <ul>
+          <li>Ver tareas</li>
+          <li>Marcar como completados</li>
+        </ul>
+      </td>
+    </tr> 
+    <tr>
+      <td><strong>Tratamiento actual</strong></td>
+      <td>
+        <ul>
+          <li>Registro de medicamentos</li>
+          <li>Diagnóstico actual</li>
+          <li>Formulario de estados de ánimo
+            <ul>
+              <li>Registro de estados fisiológicos</li>
+              <li>Ver datos estadísticos de su estado a lo largo del tratamiento</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Pagina principal**
-- Perfil
-- Citas
-- Lista de Tareas
-- Tratamiento Actual
-
-**Perfil:**
-- Datos de contacto
-- Datos de salud
-
-**Citas:**
-- Ver detalles de la cita
-
-**Lista de Tareas:**
-- Ver tareas
-- Marcar como completadas
-
-**Tratamiento Actual:**
-- Registro de Medicamentos
-- Diagnóstico Actual
-- Formulario de Estados de Ánimo
-  - Registro de Estados Fisiológicos
-  - Ver datos estadísticos de su estado a lo largo del tratamiento
 
 ### 4.2.3. SEO Tags and Meta Tags
 Las etiquetas reflejan el contenido de nuestro proyecto, abarcando tanto la Landing Page como el Sitio Web. Han sido creadas para mejorar la visibilidad de nuestro proyecto en los principales motores de búsqueda, lo que permitirá a los usuarios encontrar fácilmente nuestra aplicacion de PSYMED.
