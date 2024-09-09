@@ -158,17 +158,17 @@ En cuanto a nuestras debilidades, como la falta de un historial probado y los re
 Entrevistado 1:
 
 <div align="center">
-  <img src="/assets/Interview1PR.jpeg">
+  <img src="/assets/chapter02/Interviews/Interview1PR.jpeg">
 </div>
 
-| Nombre               | Luis                                                                                                                                           |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Mena                                                                                                                                           |
-| Edad                 | 37                                                                                                                                             |
-| Distrito             | Magdalena del Mar                                                                                                                              |
-| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
-| Inicio de entrevista | 0:01 minutos                                                                                                                                   |
-| Fin de entrevista    | 26:45 minutos                                                                                                                                  |
+| Nombre               | Luis              |
+|----------------------|-------------------|
+| Apellido             | Mena              |
+| Edad                 | 37                |
+| Distrito             | Magdalena del Mar |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   |
+| Inicio de entrevista | 0:01 minutos      |
+| Fin de entrevista    | 26:45 minutos     |
 
 Resumen:
 
@@ -182,7 +182,7 @@ El Doctor Mena utiliza plataformas web diariamente y aplicaciones de índole mé
 Entrevistado 2:
 
 <div align="center">
-  <img src="/assets/Interview2.jpeg">
+  <img src="/assets/chapter02/Interviews/Interview2.jpeg">
 </div>
 
 | Nombre               | Alberto                                                                                                                                        |
@@ -205,7 +205,7 @@ Finalmente, brindó las siguientes recomendaciones para el desarrollo de nuestro
 Entrevistado 3:
 
 <div align="center">
-  <img src="/assets/Interview3.jpeg">
+  <img src="/assets/chapter02/Interviews/Interview3.jpeg">
 </div>
 
 | Nombre               | Karina                                                                                                                                         |
@@ -232,7 +232,7 @@ Finalmente, la entrevistada menciona que nuestra plataforma debería tener una s
 Entrevistado 1:
 
 <div align=center>
-    <img src="/assets/Interview1.jpeg"/></img>
+    <img src="/assets/chapter02/Interviews/Interview1.jpeg">
 </div>
 
 | Nombre               | Ximena        |
@@ -252,6 +252,85 @@ La entrevistada menciona utilizar diariamente plataformas digitales y usar con f
 - Agendación de sesiones
 - Poder comunicarse con el terapeuta
 - Tener precaución con exponer los datos personales
+
+Entrevistado 2:
+
+<div align=center>
+    <img src="/assets/Interviews/Interview2PT.png"/>
+</div>
+
+
+| Nombre               | Alejandra                                                                                                    |
+|----------------------|--------------------------------------------------------------------------------------------------------------|
+| Apellido             | Chavez                                                                                                       |
+| Edad                 | 20 años                                                                                                      |
+| Distrito             | Lince                                                                                                        |
+| URL                  | |
+| Inicio de entrevista |                                                                                                              |
+| Fin de entrevista    |                                                                                                              |
+**Resumen:**
+
+La entrevistada menciona que utiliza plataformas digitales
+diariamente y que su navegador predeterminado es Chrome.
+Comentó que empezó a buscar ayuda profesional cuando comenzó
+a tener problemas familiares y personales. Después de un
+tiempo, sintió cierto desinterés por parte de su terapeuta
+y experimentó cambios frecuentes de terapeuta, lo que
+dificultaba el seguimiento de su caso en el lugar donde
+se atendía. Solo usaban un bot de WhatsApp para agendar
+citas, lo que resultaba inadecuado. Ella gustaría contar
+con una plataforma que le ayude a llevar un control de sus
+sesiones y tratamiento. Finalmente, brindó feedback sobre
+el proyecto con las siguientes ideas:
+
+- Informacion sobre tips de auto-ayuda.
+- Interacciones virtuales para momentos de crisis.
+- Recordatorios de citas.
+- Información general sobre el terapeuta.
+- Cifrado de datos personales.
+
+
+Entrevistado 3:
+
+<div align=center>
+    <img src="/assets/public/imagenes/Interviews/Interview3PT.png"/></img>
+</div>
+
+
+| Nombre               | Sebastian                                                                                                                                      |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | muñiz                                                                                                                                          |
+| Edad                 | 21 años                                                                                                                                        |
+| Distrito             | Pueblo libre                                                                                                                                   |
+| URL                  |  |
+| Inicio de entrevista |  |
+
+**Resumen:**
+
+El entrevistado menciona que utiliza plataformas digitales
+diariamente y que su navegador predeterminado es Chrome o
+Firefox. Comentó que empezó a buscar ayuda profesional después
+de la pandemia debido a problemas de sueño, estrés y
+ansiedad. Además, mencionó que su psicólogo le envía
+mensajes de texto para recordarle la información y los
+acuerdos de la sesión anterior. Lleva un control de sus
+sesiones y tratamiento.Finalmente, brindó observaciones
+sobre otras plataformas que ha experimentado. Comentó que
+eran accesibles, amigables y buenas para una gestión
+adecuada, pero que eran muy malas en el redireccionamiento
+y el pago en el sistema. Brindó feedback sobre el proyecto
+con las siguientes ideas:
+
+- Recordatorios de citas.
+- Citas o reuniones web.
+- Seguridad mediante cifrado y solo visible para el terapeuta.
+- Seguridad con la información personal médica.
+
+### 2.2.3 Análisis de entrevistas
+
+Se procede a recopilar las estadísticas de las respuestas de los
+entrevistados para representarlas mediante gráficos proporcionados
+por las entrevistas
 
 ### 2.2.3 Análisis de entrevistas
 
