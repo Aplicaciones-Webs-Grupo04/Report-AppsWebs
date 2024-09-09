@@ -37,33 +37,54 @@ Nuestra paleta de colores se ha seleccionado para proporcionar un entorno digita
 
 **Chromatic Colors:**
 
-#0DA293 (Verde Tranquilidad): Este tono verde evoca un sentido de calma y estabilidad, simbolizando la paz interior y la conexión con la naturaleza. Es perfecto para transmitir seguridad y apoyo en el entorno de la salud mental.
-
 #10BEAE (Verde Vitalidad - Principal): Este verde vibrante es el color principal para gran parte de nuestro proyecto. Inspira renovación y energía positiva, reflejando la vitalidad y el bienestar que Psymed busca promover en sus usuarios. Este tono se utiliza para destacar elementos clave e inspirar confianza a lo largo de la experiencia del usuario.
 
-#12DCC8 (Verde Esperanza): Un tono verde claro que representa la esperanza y el crecimiento personal. Es ideal para resaltar aspectos relacionados con el progreso y el desarrollo emocional, ofreciendo una sensación de frescura y optimismo.
+<p align="center">
+  <img src="assets/chapter04/achromatic%20colors/aqua_color.png"  style="width:500px; height:auto;">
+</p>
 
+#68D585 (Verde Serenidad): Este verde suave y sereno se utiliza para ciertos íconos, aportando una sensación de equilibrio y sutileza. Es un tono que complementa la paleta principal, ayudando a guiar visualmente al usuario sin distraer.
 
 <p align="center">
-  <img src="assets/chapter04/chromatic_colors-image.png" style="width:500px; height:auto;">
+  <img src="assets/chapter04/achromatic%20colors/green_icons_color.png" style="width:500px; height:auto;">
+</p>
+
+#081828 (Azul Profundo - Secundario): Este color azul oscuro se emplea como color secundario en botones, el pie de página y otros elementos visuales. Representa la estabilidad y la confianza, ofreciendo un contraste sólido y profesional frente a los tonos verdes más brillantes de la paleta.
+
+<p align="center">
+  <img src="assets/chapter04/achromatic%20colors/blue_color.png" style="width:500px; height:auto;">
 </p>
 
 **Achromatic Colors:**
 
-#F2F2F2 (Gris Claro): Este tono neutro es ideal para separar y organizar la información de manera clara y ordenada. Se empleará en fondos y separadores, garantizando que los datos privados, como diagnósticos y medicaciones, sean fácilmente accesibles, pero visualmente discretos.
-
-#0D0D0D (Negro Intenso): Utilizado principalmente para texto y detalles cruciales, este color asegura una máxima legibilidad y contraste. Es perfecto para mostrar información crítica como diagnósticos, medicación, y alertas de signos vitales, brindando al usuario una experiencia precisa y enfocada.
+#FFFFFF (Blanco Puro): El blanco es fundamental para los espacios en blanco y como color de fondo principal. Representa la pureza y la claridad, asegurando que el contenido sea fácilmente legible y que la interfaz se sienta abierta y acogedora.
 
 <p align="center">
-  <img src="assets/chapter04/achromatic_colors-image.png" style="width:300px; height:auto;">
+  <img src="assets/chapter04/chromatic%20colors/white_color.png" style="width:500px; height:auto;">
 </p>
 
-Estos colores no tienen una tonalidad cromática específica y están formados por variaciones de blanco, negro y grises. En esta paleta, el blanco, negro son ejemplos de colores acromáticos. Estos colores proporcionan equilibrio, contraste y neutralidad, sirviendo como base y permitiendo que los colores cromáticos destaquen.
-
-**Color Pallette:**
+#EEEEEE (Gris Suave): Un gris muy claro que se emplea en fondos y separadores. Ofrece una base limpia y ligera, perfecta para mantener una apariencia fresca y ordenada en la interfaz.
 
 <p align="center">
-  <img src="assets/chapter04/color_pallette-image.png" style="width:600px; height:auto;">
+  <img src="assets/chapter04/chromatic%20colors/soft_gray_color.png" style="width:500px; height:auto;">
+</p>
+
+#727272 (Gris Equilibrio): Este tono de gris medio se utiliza para elementos secundarios y textos que requieren un enfoque sutil. Representa el equilibrio y la neutralidad, aportando un contraste suave sin dominar la atención visual.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/other_gray.png" style="width:500px; height:auto;">
+</p>
+
+#4F4F4F (Gris Profundo): Este gris oscuro se utiliza para textos y elementos gráficos que requieren mayor peso visual, sin llegar a la intensidad del negro. Es un color que transmite seriedad y formalidad, ideal para secciones importantes del proyecto.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/gray_color.png" style="width:500px; height:auto;">
+</p>
+
+#000000 (Negro Absoluto): El negro se reserva para elementos que necesitan el máximo contraste y definición, como el texto principal y ciertos íconos. Representa la autoridad y la claridad, garantizando la máxima legibilidad y enfoque.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/black_color.png" style="width:500px; height:auto;">
 </p>
 
 **Typography: Montserrat**
