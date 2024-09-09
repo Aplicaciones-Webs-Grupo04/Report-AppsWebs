@@ -37,11 +37,12 @@ Nuestra paleta de colores se ha seleccionado para proporcionar un entorno digita
 
 **Chromatic Colors:**
 
-#308C83 (Teal Profundo): Este color actúa como el tono principal de la plataforma, evocando tranquilidad y estabilidad, cualidades esenciales en el ámbito de la salud mental. Es ideal para encabezados, botones de acción y elementos que requieren destacar, asegurando que el profesional pueda navegar y tomar decisiones de manera confiable.
+#0DA293 (Verde Tranquilidad): Este tono verde evoca un sentido de calma y estabilidad, simbolizando la paz interior y la conexión con la naturaleza. Es perfecto para transmitir seguridad y apoyo en el entorno de la salud mental.
 
-#69BFB7 (Teal Suave): Utilizado para elementos secundarios y destacados sutiles, este tono complementa el color primario, aportando una sensación de frescura y modernidad, sin desviar la atención de la información crítica. Es ideal para secciones como el registro de síntomas y la visualización de citas.
+#10BEAE (Verde Vitalidad - Principal): Este color es el corazón de la paleta. Un verde vibrante que inspira renovación y energía positiva, reflejando la vitalidad y el bienestar que Psymed busca promover en sus usuarios. Es el tono principal, utilizado para destacar elementos clave e inspirar confianza.
 
-#C2F2ED (Aqua Ligero): Este color se utilizará principalmente en los fondos y áreas extensas, proporcionando un entorno relajante y libre de distracciones. Su suavidad ayuda a reducir la carga visual, permitiendo que tanto los profesionales como los pacientes se concentren en el contenido relevante, como los signos vitales y comentarios diarios.
+#12DCC8 (Verde Esperanza): Un tono verde claro que representa la esperanza y el crecimiento personal. Es ideal para resaltar aspectos relacionados con el progreso y el desarrollo emocional, ofreciendo una sensación de frescura y optimismo.
+
 
 <p align="center">
   <img src="assets/chapter04/chromatic_colors-image.png" style="width:500px; height:auto;">
