@@ -29,7 +29,7 @@
   }
 </style>
 
-# **CAPÍTULO IV: PRODUCT DESING**
+# **CAPÍTULO IV: PRODUCT DESIGN**
 ## 4.1. Style Guidelines
 En esta sección, presentaremos el concepto de diseño para la página web y la aplicación, para proporcionar a nuestros usuarios una interfaz amigable y funcional. Con este propósito en mente, hemos optado por utilizar elementos visuales que sean fáciles de percibir y que resulten atractivos a la vista.
 ### 4.1.1. General Style Guidelines
