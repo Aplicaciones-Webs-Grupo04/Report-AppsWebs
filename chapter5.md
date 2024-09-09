@@ -278,7 +278,114 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 
 ### 5.2.1.1. Sprint Planning 1
 
+Para este primer sprint nos enfocaremos en los tasks para la
+elaboración de la Landing Page. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-09-04</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">5:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Fernando Jesus</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Fernando Jesus, Romina Maita, Sihuar Ccotarma, Jose Adrian, Mathias Javier,Jose Miguel
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Review Summary</td>
+    <td colspan="8">En esta primera sección se planteo el desarrollo de la Landing Page para el proyecto de PsyMed.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Retrospective Summary</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando la Landing Page</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Finalizar con el desarrollo de la Landing Page</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">4 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">4 Story Points</td>
+</tr>
+</table>
+
 ### 5.2.1.2. Sprint Backlog 1
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">US02</td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Añadir información relevante de la aplicación</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Fernando,Romina,Sihuar,Jose, Mathias,Jose Miguel</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US03</td>
+    <td colspan="2">Visualización de imágenes y gráficos relevantes</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Añadir imágenes y gráficos relevantes</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Sihuar,Fernando,Romina</td>
+    <td colspan="1">Done</td>
+<tr>
+    <td colspan="1">US04</td>
+    <td colspan="2">Tipografía cómoda y agradable estéticamente</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir una tipografía fácil de leer y con un tamaño adecuado</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Jose, Mathias,Jose Miguel</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
