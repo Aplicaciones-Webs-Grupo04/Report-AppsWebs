@@ -142,7 +142,7 @@ La opción "Agenda" ofrece una vista calendarizada de las citas programadas, con
 En el "Perfil", los profesionales pueden revisar y actualizar su información personal, incluyendo datos de contacto y especialidad. En la sección "Ajustes", pueden gestionar la seguridad de la cuenta, como cambiar contraseñas.
 
 <p align="center">
-  <img src="assets/chapter04/organization%20systems/OrgSistMedicos.png" style="width:500px; height:auto;">
+  <img src="assets/chapter04/organization%20systems/OrgSistMedicos.png" style="width:800px; height:auto;">
 </p>
 
 ---
@@ -158,7 +158,7 @@ En la sección "Citas" se pueden visualizar las citas programadas por el profesi
 En la sección "Perfil" se puede visualizar y actualizar la información personal del paciente, incluyendo datos de contacto y datos de salud.
 
 <p align="center">
-  <img src="assets/chapter04/organization%20systems/OrgSistPacientes.png" style="width:500px; height:auto;">
+  <img src="assets/chapter04/organization%20systems/OrgSistPacientes.png" style="width:800px; height:auto;">
 </p>
 
 ### 4.2.2. Labeling Systems
