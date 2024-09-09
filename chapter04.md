@@ -576,5 +576,91 @@ A continuación, una descripción detallada de las tablas y relaciones en la bas
 ### 4.7.2. Class Dictionary.
 
 ## 4.8. Database Design.
-![database_diagram](/assets/chapter04/databasediagram.svg)
+
+La elección del sistema de gestión de bases de datos (DBMS) adecuado es crucial para el éxito de cualquier proyecto. En esta comparación, vamos a analizar tres de los sistemas de gestión de bases de datos más populares: MongoDB, SQL Server y MySQL. Cada sistema tiene sus características, fortalezas y debilidades en rendimiento, escalabilidad, seguridad, y facilidad de uso. Este análisis ayudará a determinar cuál es el más adecuado para un proyecto específico.
+
+<table>
+  <thead>
+    <tr>
+      <th>Base de Datos</th>
+      <th>Ventajas</th>
+      <th>Desventajas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center;">
+        <img src="assets/chapter04/database/logos/mysql-logo.svg" alt="MySQL" style="width: 250px; height:auto;  margin: 0 auto;" />
+      </td>
+      <td>
+        <ul>
+          <li>Software de código abierto con gran comunidad de soporte.</li>
+          <li>Alta compatibilidad con diversos entornos y plataformas.</li>
+          <li>Desempeño sólido en aplicaciones web y sistemas de gestión de contenido.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Limitaciones en el manejo de grandes volúmenes de datos complejos.</li>
+          <li>Menos características avanzadas en comparación con Microsoft SQL Server.</li>
+          <li>Opciones de escalabilidad limitadas en comparación con MongoDB.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <img src="assets/chapter04/database/logos/microsoft-sql-server-logo.svg" alt="sql" style="width: 250px; height:auto;  block; margin: 0 auto;" />
+      </td>
+      <td>
+        <ul>
+          <li>Altamente integrado con productos y servicios de Microsoft.</li>
+          <li>Potentes herramientas de análisis y optimización de rendimiento.</li>
+          <li>Amplias características de seguridad, incluidas auditorías y cifrado de datos.</li>
+          <li>Excelente soporte para transacciones y alta disponibilidad.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Costo elevado de licencias, especialmente para grandes implementaciones.</li>
+          <li>Mayor consumo de recursos en comparación con MySQL.</li>
+          <li>Curva de aprendizaje más pronunciada debido a su complejidad.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <img src="assets/chapter04/database/logos/mongodb.svg" alt="MongoDB" style="width: 250px; height:auto; margin: 0 auto;" />
+      </td>
+      <td>
+        <ul>
+          <li>Modelo flexible de datos NoSQL, ideal para documentos y JSON.</li>
+          <li>Escalabilidad horizontal fácil, ideal para grandes volúmenes de datos.</li>
+          <li>Alto rendimiento en operaciones de lectura/escritura masivas.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Falta de soporte nativo para transacciones complejas.</li>
+          <li>Menos maduro en términos de seguridad y respaldo de datos en comparación con SQL Server.</li>
+          <li>No es ideal para aplicaciones que requieren relaciones complejas entre datos.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Usar Microsoft SQL Server para nuestro proyecto de diseño de base de datos puede ser una excelente elección por varias razones. SQL Server es conocido por su confiabilidad, seguridad y escalabilidad. Además, su integración con herramientas de desarrollo de Microsoft, como Visual Studio, puede facilitar el proceso de diseño y desarrollo.
+
+<p align="center">
+  <img src="assets/chapter04/database/logos/microsoft-sql-server-logo.svg" style="width:250px; height:auto;">
+</p>
+
+Su soporte para lenguaje SQL estándar y su capacidad para manejar grandes volúmenes de datos también son puntos a favor. Además, cuenta con características avanzadas como replicación, alta disponibilidad y análisis integrado, lo que puede proporcionar una base sólida para proyectos de cualquier tamaño y complejidad.
+
 ### 4.8.1. Database Diagram.
+
+A continuación el diagrama elaborado para la Base de Datos de Psymed.
+
+<p align="center">
+  <img src="assets/chapter04/database/databasediagram.svg" style="width:800px; height:auto;">
+</p>
