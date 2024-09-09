@@ -453,9 +453,126 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
-La siguiente imagen representa la relación entre clases en función al proyecto.
-![class_diagrams](/assets/chapter04/classdiagram.jpeg)
+La siguiente imagen representa el diagrama de clases, junto con la relación entre clases en función al proyecto.
 
+<p align="center">
+  <img src="assets/chapter04/database/classdiagram.jpeg" style="width:800px; height:auto;">
+</p>
+
+A continuación, una descripción detallada de las tablas y relaciones en la base de datos:
+
+- **patients (pacientes):**
+  - **id:** Identificador único del paciente (PK).
+  - **name, last_name, email:** Información básica del paciente.
+  - **id_account:** Relación con la tabla accounts (FK).
+  - **id_clinical_history:** Relación con la tabla clinical_histories (FK).
+
+<br>
+
+- **accounts (cuentas):**
+  - **id:** Identificador único de la cuenta (PK).
+  - **username, password:** Credenciales de acceso del usuario.
+  - **rol:** Rol asignado al usuario.
+
+<br>
+
+- **clinical_histories (historias clínicas):**
+  - **id:** Identificador único de la historia clínica (PK).
+  - **reason:** Razón o motivo de la historia clínica.
+  - **created_date, updated_date:** Fechas de creación y actualización.
+  - **id_patient:** Relación con la tabla patients (FK).
+
+<br>
+
+- **diagnostics (diagnósticos):**
+  - **id:** Identificador único del diagnóstico (PK).
+  - **name, description:** Nombre y descripción del diagnóstico.
+  - **created_date, updated_date:** Fechas de creación y actualización.
+  - **id_clinical_history:** Relación con la tabla clinical_histories (FK).
+
+<br>
+
+- **sessions (sesiones):**
+  - **id:** Identificador único de la sesión (PK).
+  - **appointment_date, session_time:** Fecha y hora de la cita.
+  - **id_note:** Relación con la tabla notes (FK).
+  - **id_patient, id_professional:** Relaciones con las tablas patients y professionals (FKs).
+  - **created_date, updated_date:** Fechas de creación y actualización.
+
+<br>
+   
+- **notes (notas):**
+  - **id:** Identificador único de la nota (PK).
+  - **description, symptoms:** Descripción y síntomas registrados en la nota.
+
+<br>
+
+- **professionals (profesionales):**
+  - **id:** Identificador único del profesional (PK).
+  - **name, last_name, email:** Información básica del profesional.
+  - **id_account:** Relación con la tabla accounts (FK).
+
+<br>
+
+- **specialties (especialidades):**
+  - **id:** Identificador único de la especialidad (PK).
+  - **id_profession:** Relación con la tabla professionals (FK).
+  - **name:** Nombre de la especialidad.
+
+<br>
+
+- **treatments (tratamientos):**
+  - **id:** Identificador único del tratamiento (PK).
+  - **name, description:** Nombre y descripción del tratamiento.
+  - **start, end:** Fechas de inicio y fin del tratamiento.
+
+<br>
+
+- **professional_treatments (tratamientos profesionales):**
+  - **id_professional, id_treatment, id_patient:** Relaciones entre profesionales, tratamientos y pacientes (PKs y FKs).
+
+<br>
+
+- **medical_prescriptions (prescripciones médicas):**
+  - **id:** Identificador único de la prescripción médica (PK).
+  - **name, description:** Nombre y descripción de la prescripción.
+  - **start, end:** Fechas de inicio y fin de la prescripción.
+  - **id_patient, id_professional:** Relaciones con las tablas patients y professionals (FKs).
+  - **created_at, updated_at:** Fechas de creación y actualización.
+
+<br>
+
+- **prescription_pills (píldoras prescritas):**
+  - **id_medical_prescription, id_pill:** Relación entre prescripciones médicas y píldoras (PKs y FKs).
+  - **quantity, frequency:** Cantidad y frecuencia de la administración de la píldora.
+
+<br>
+
+- **pills (píldoras):**
+  - **id:** Identificador único de la píldora (PK).
+  - **name, description:** Nombre y descripción de la píldora.
+  
+<br>
+
+- **biological_functions (funciones biológicas):**
+  - **id:** Identificador único de la función biológica (PK).
+  - **hunger, hydration, sleep, energy:** Funciones biológicas relacionadas con el paciente.
+  - **created_at, updated_at:** Fechas de creación y actualización.
+  - **id_patient:** Relación con la tabla patients (FK).
+
+<br>
+
+- **mood_states (estados de ánimo):**
+  - **id:** Identificador único del estado de ánimo (PK).
+  - **state:** Estado de ánimo del paciente.
+
+<br>
+
+- **patient_moods (estados de ánimo del paciente):**
+  - **id:** Identificador único del estado de ánimo del paciente (PK).
+  - **id_patient:** Relación con la tabla patients (FK).
+  - **mood_state_id:** Relación con la tabla mood_states (FK).
+  - **created_at:** Fecha de creación del registro.
 ### 4.7.2. Class Dictionary.
 
 ## 4.8. Database Design.
