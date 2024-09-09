@@ -219,7 +219,61 @@ establecen objetivos, planifican tareas y cumplen objetivos.
 
 En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuyen al cumplimiento de los aspectos que maneja el Outcome y las conclusiones reralizadas de manera grupal.
 
-| Criterio Específico                                                  | Acciones realizadas | Conclusiones |
-|----------------------------------------------------------------------|---------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta      | TB1:                |              |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | TB1:                |              |
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #333; color: #fff;">Criterío Específico</th>
+      <th style="background-color: #333; color: #fff;">Acciones Realizadas</th>
+      <th style="background-color: #333; color: #fff;">Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+      <td>
+        TB1:   
+        <br><br>
+        Ccotarma, Sihuar:
+        insert text here
+        <br><br>
+        Javier, Mathias:
+        insert text here
+        <br><br>
+        Luza, Jose:
+        insert text here
+        <br><br>
+        Lizano, Fernando: 
+        Preparé la estructura organizativa en GitHub, encargándome de la creación de repositorios y ramas, lo que estableció un marco sólido y ordenado para el desarrollo del proyecto. Además, apoyé en la coordinación y avance de los capítulos 3 y 4, asegurando que el equipo cumpliera con los objetivos establecidos dentro de los plazos acordados, contribuyendo así a un liderazgo compartido y eficaz dentro del grupo.        <br><br>
+        Maita, Romina:
+        insert text here
+        <br><br>
+        Riega, José:
+        insert text here
+      </td>
+      <td>En esta primera entrega del proyecto Psymed, el equipo demostró una capacidad efectiva de liderazgo compartido al colaborar en la definición de la solución propuesta y en el desarrollo de los cuatro primeros capítulos del proyecto. La organización y gestión a través de GitHub, utilizando la metodología Gitflow y Conventional Commits, permitieron mantener un control riguroso sobre el progreso del proyecto. La colaboración en la planificación y ejecución de tareas, como la creación de repositorios y ramas, y la definición de herramientas clave como User Stories y Product Backlog, fueron esenciales para asegurar que el equipo trabajara de manera cohesiva, alcanzando los objetivos dentro de los plazos establecidos.</td>
+    </tr>
+      <tr>
+      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+      <td>
+        TB1:   
+        <br><br>
+        Ccotarma, Sihuar:
+        insert text here
+        <br><br>
+        Javier, Mathias:
+        insert text here
+        <br><br>
+        Luza, Jose:
+        insert text here
+        <br><br>
+        Lizano, Fernando: 
+        Fomenté un entorno colaborativo e inclusivo al diseñar la landing page, integrando las opiniones y sugerencias de los miembros del equipo para asegurar una representación coherente y consensuada del proyecto. También apliqué el formato APA en todo el proyecto, estandarizando y organizando el contenido del informe, lo que facilitó la revisión y comprensión del trabajo por parte de todos los integrantes, asegurando el cumplimiento de las metas y la planificación eficiente de las tareas.        Maita, Romina:
+        insert text here
+        <br><br>
+        Riega, José:
+        insert text here
+      </td>
+      <td>El equipo de Psymed logró crear un entorno colaborativo e inclusivo mediante la integración de diversas perspectivas en el diseño y desarrollo de los mockups y prototipos de la página de inicio. A través del análisis Lean UX y la definición del segmento objetivo, se establecieron metas claras que guiaron la planificación de tareas. La implementación de la landing page utilizando tecnologías como HTML, CSS, JS y herramientas de apoyo como Bootstrap y LineIcons, demostró la capacidad del equipo para cumplir con los objetivos planteados. Además, el uso del Sprint Backlog permitió un seguimiento efectivo del progreso, asegurando que cada tarea se completara según lo planificado, lo que resultó en una entrega exitosa y bien organizada del proyecto.</td>
+    </tr>   
+  </tbody>
+</table>
