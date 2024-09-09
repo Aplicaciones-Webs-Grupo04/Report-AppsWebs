@@ -107,6 +107,7 @@ Para el proyecto Psymed, utilizaremos una fuente sans serif, que asegura una lec
 </p>
 
 El ícono de Psymed presenta una flama estilizada en un fondo circular La flama simboliza la energía vital, el crecimiento y la transformación, reflejando el enfoque de Psymed en el bienestar mental y emocional. El fondo verde menta complementa esta idea, transmitiendo calma y equilibrio, alineado con los valores de cuidado y apoyo que representa la plataforma.
+
 <p align="center">
   <img src="assets/chapter04/achromatic%20colors/aqua_color.png" style="width:500px; height:auto;">
 </p>
@@ -140,7 +141,10 @@ La opción "Agenda" ofrece una vista calendarizada de las citas programadas, con
 
 En el "Perfil", los profesionales pueden revisar y actualizar su información personal, incluyendo datos de contacto y especialidad. En la sección "Ajustes", pueden gestionar la seguridad de la cuenta, como cambiar contraseñas.
 
-![OrgSistMedicos.png](assets%2Fchapter04%2FOrgSistMedicos.png)
+<p align="center">
+  <img src="assets/chapter04/organization%20systems/OrgSistMedicos.png" style="width:500px; height:auto;">
+</p>
+
 ---
 **Pacientes:**
 Al acceder a la plataforma del proyecto para pacientes, los usuarios pueden iniciar sesión con su nombre y apellido, cambiar la contraseña, y una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual".
@@ -153,7 +157,9 @@ En la sección "Citas" se pueden visualizar las citas programadas por el profesi
 
 En la sección "Perfil" se puede visualizar y actualizar la información personal del paciente, incluyendo datos de contacto y datos de salud.
 
-![OrgSistPacientes.png](/assets/chapter04/OrgSistPacientes.png)
+<p align="center">
+  <img src="assets/chapter04/organization%20systems/OrgSistPacientes.png" style="width:500px; height:auto;">
+</p>
 
 ### 4.2.2. Labeling Systems
 
