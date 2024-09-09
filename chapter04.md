@@ -265,8 +265,40 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+**Wireframe del Home:**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/HOME.png" style="width:100%">
+**Wireframe del Register:**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/REGISTER.png" style="width:100%">
+**Wireframe del Login:**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/LOGIN.png" style="width:100%">
+**Wireframe del Cambio de Contraseña:**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/Cambio%20de%20contrase%C3%B1a.png" style="width:100%">
+**Wireframe del Home Psiquiatras**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/Psiquiatras%20Home.png" style="width:100%">
+**Wireframe del Perfil**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/Perfil.png" style="width:100%">
+**Wireframe del Agregar Pacientes**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/Agregar%20paciente.png" style="width:100%">
+**Wireframe del Lista Pacientes**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/Cambio%20de%20contrase%C3%B1a.png" style="width:100%">
+**Wireframe del Configuracion de Pacientes**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/Psiquiatra%20config%20paciente.png" style="width:100%">
+**Wireframe del Citas**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/Citas.png" style="width:100%">
+**Wireframe del Agenda**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/Agenda.png" style="width:100%">
+**Wireframe del Citas**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/Citas-1.png" style="width:100%">
+**Wireframe del Datos del Paciente**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/datos%20del%20paciente.png" style="width:100%">
+**Wireframe de la lista**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/Group%2023.png" style="width:100%">
+**Wireframe del Test Interdiario**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/Test%20Interidario.png" style="width:100%">
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.2. Web Applications Mock-ups
+
 ### 4.4.3. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping 
