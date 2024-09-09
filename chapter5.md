@@ -6,14 +6,18 @@ En esta sección se describe las herramientas de software que utilizamos para co
 #### Project Management: 
 
 - **Producto:** Trello.
-- **Propósito**: Gestión de tareas del equipo, asignación de roles, seguimiento del progreso de las funcionalidades del sistema, y planificación de entregables a través de tableros.
+- **Propósito:** Gestión de tareas del equipo, asignación de roles, seguimiento del progreso de las funcionalidades del sistema, y planificación de entregables a través de tableros.
 - **Ruta:** [trello](https://trello.com/invite/b/66c7b03600da2cf712927e84/ATTIbadabe6159d90d2f615ab9ae602eb3763DC0AF14/app-web)
 
-- ![trello](/assets/chapter05/Trello.jpeg)
-
-- Requirements Management:
+![trello](/assets/chapter05/Trello.jpeg)
 
 - Product UX/UI Design:
+
+- **Producto:** Figma.
+- **Propósito:** Para diseños (Wireframes, MockUps, Prototypes, etc) relacionados al proyecto.
+- **Ruta:** [Figma](https://www.figma.com/design/WdMYexswCo2IFZE3tdsAJs/Open-Source-y-App-Web?node-id=2001-1221&t=NsBDNsyVTo1BXrXE-1)
+
+![figma](/assets/chapter05/Figma.jpeg)
 
 - Software Development:
 
