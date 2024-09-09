@@ -110,8 +110,13 @@ FECHA: AGOSTO 2024
 Para este proyecto hemos utilizado las herramientas GitHub y Trello para gestionar el progreso grupal.
 En Trello hemos organizado las tareas de cada integrante y con ello se puede visualizar el avance de cada asignación.
 
-Se puede acceder al contenido de la organización en GitHub mediante el siguiente enlace:
-[WebSource.com](https://github.com/orgs/Aplicaciones-Webs-Grupo04/repositories)
+Para acceder al contenido de la organización en GitHub, haz clic en el siguiente ícono:
+
+<p align="center">
+  <a href="https://github.com/orgs/Aplicaciones-Webs-Grupo04/repositories">
+    <img src="assets/psymed_logo.svg" style="width:250px; height:auto;">
+  </a>
+</p>
 
 ---
 # Contenido
