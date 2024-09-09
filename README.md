@@ -35,7 +35,7 @@
   <img src="assets/UPC_logo_transparente.png"  style="width:500px; height:auto;">
 </p>
 
-# APLICACIONES WEBS(SW52)
+# APLICACIONES WEBS (SW52)
 ## PROFESOR: Tinoco Licas, Juan Carlos
 ## Informe TB1
 ## START UP: WebSource
