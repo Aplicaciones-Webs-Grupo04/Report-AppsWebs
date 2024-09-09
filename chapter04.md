@@ -29,7 +29,7 @@
   }
 </style>
 
-# **CAPÍTULO IV: PRODUCT DESING**
+# **CAPÍTULO IV: PRODUCT DESIGN**
 ## 4.1. Style Guidelines
 En esta sección, presentaremos el concepto de diseño para la página web y la aplicación, para proporcionar a nuestros usuarios una interfaz amigable y funcional. Con este propósito en mente, hemos optado por utilizar elementos visuales que sean fáciles de percibir y que resulten atractivos a la vista.
 ### 4.1.1. General Style Guidelines
@@ -37,72 +37,82 @@ Nuestra paleta de colores se ha seleccionado para proporcionar un entorno digita
 
 **Chromatic Colors:**
 
-#308C83 (Teal Profundo): Este color actúa como el tono principal de la plataforma, evocando tranquilidad y estabilidad, cualidades esenciales en el ámbito de la salud mental. Es ideal para encabezados, botones de acción y elementos que requieren destacar, asegurando que el profesional pueda navegar y tomar decisiones de manera confiable.
-
-#69BFB7 (Teal Suave): Utilizado para elementos secundarios y destacados sutiles, este tono complementa el color primario, aportando una sensación de frescura y modernidad, sin desviar la atención de la información crítica. Es ideal para secciones como el registro de síntomas y la visualización de citas.
-
-#C2F2ED (Aqua Ligero): Este color se utilizará principalmente en los fondos y áreas extensas, proporcionando un entorno relajante y libre de distracciones. Su suavidad ayuda a reducir la carga visual, permitiendo que tanto los profesionales como los pacientes se concentren en el contenido relevante, como los signos vitales y comentarios diarios.
+#10BEAE (Verde Vitalidad - Principal): Este verde vibrante es el color principal para gran parte de nuestro proyecto. Inspira renovación y energía positiva, reflejando la vitalidad y el bienestar que Psymed busca promover en sus usuarios. Este tono se utiliza para destacar elementos clave e inspirar confianza a lo largo de la experiencia del usuario.
 
 <p align="center">
-  <img src="assets/chapter04/chromatic_colors-image.png" style="width:500px; height:auto;">
+  <img src="assets/chapter04/achromatic%20colors/aqua_color.png"  style="width:500px; height:auto;">
+</p>
+
+#68D585 (Verde Serenidad): Este verde suave y sereno se utiliza para ciertos íconos, aportando una sensación de equilibrio y sutileza. Es un tono que complementa la paleta principal, ayudando a guiar visualmente al usuario sin distraer.
+
+<p align="center">
+  <img src="assets/chapter04/achromatic%20colors/green_icons_color.png" style="width:500px; height:auto;">
+</p>
+
+#081828 (Azul Profundo - Secundario): Este color azul oscuro se emplea como color secundario en botones, el pie de página y otros elementos visuales. Representa la estabilidad y la confianza, ofreciendo un contraste sólido y profesional frente a los tonos verdes más brillantes de la paleta.
+
+<p align="center">
+  <img src="assets/chapter04/achromatic%20colors/blue_color.png" style="width:500px; height:auto;">
 </p>
 
 **Achromatic Colors:**
 
-#F2F2F2 (Gris Claro): Este tono neutro es ideal para separar y organizar la información de manera clara y ordenada. Se empleará en fondos y separadores, garantizando que los datos privados, como diagnósticos y medicaciones, sean fácilmente accesibles, pero visualmente discretos.
-
-#0D0D0D (Negro Intenso): Utilizado principalmente para texto y detalles cruciales, este color asegura una máxima legibilidad y contraste. Es perfecto para mostrar información crítica como diagnósticos, medicación, y alertas de signos vitales, brindando al usuario una experiencia precisa y enfocada.
+#FFFFFF (Blanco Puro): El blanco es fundamental para los espacios en blanco y como color de fondo principal. Representa la pureza y la claridad, asegurando que el contenido sea fácilmente legible y que la interfaz se sienta abierta y acogedora.
 
 <p align="center">
-  <img src="assets/chapter04/achromatic_colors-image.png" style="width:300px; height:auto;">
+  <img src="assets/chapter04/chromatic%20colors/white_color.png" style="width:500px; height:auto;">
 </p>
 
-Estos colores no tienen una tonalidad cromática específica y están formados por variaciones de blanco, negro y grises. En esta paleta, el blanco, negro son ejemplos de colores acromáticos. Estos colores proporcionan equilibrio, contraste y neutralidad, sirviendo como base y permitiendo que los colores cromáticos destaquen.
-
-**Color Pallette:**
+#EEEEEE (Gris Suave): Un gris muy claro que se emplea en fondos y separadores. Ofrece una base limpia y ligera, perfecta para mantener una apariencia fresca y ordenada en la interfaz.
 
 <p align="center">
-  <img src="assets/chapter04/color_pallette-image.png" style="width:600px; height:auto;">
+  <img src="assets/chapter04/chromatic%20colors/soft_gray_color.png" style="width:500px; height:auto;">
 </p>
 
-**Typography: Montserrat**
+#727272 (Gris Equilibrio): Este tono de gris medio se utiliza para elementos secundarios y textos que requieren un enfoque sutil. Representa el equilibrio y la neutralidad, aportando un contraste suave sin dominar la atención visual.
 
-Para nuestra plataforma, hemos elegido Montserrat como la tipografía principal, por su diseño moderno, limpio y altamente legible. Esta fuente nos permite presentar la información de manera clara y profesional, garantizando que tanto los psiquiatras como los pacientes puedan interactuar con la aplicación de forma intuitiva y sin esfuerzo.
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/other_gray.png" style="width:500px; height:auto;">
+</p>
 
-Montserrat se utilizará para todos los textos de la plataforma, desde encabezados y títulos hasta cuerpos de texto y botones de acción. Su versatilidad en cuanto a pesos nos permitirá destacar la información crítica, mientras que su geometría precisa asegurará una experiencia de lectura cómoda y agradable en cualquier dispositivo.
+#4F4F4F (Gris Profundo): Este gris oscuro se utiliza para textos y elementos gráficos que requieren mayor peso visual, sin llegar a la intensidad del negro. Es un color que transmite seriedad y formalidad, ideal para secciones importantes del proyecto.
 
-Esta elección refuerza nuestro compromiso de ofrecer un entorno digital que no solo sea funcional, sino también estéticamente atractivo y accesible para todos los usuarios.
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/gray_color.png" style="width:500px; height:auto;">
+</p>
 
-- **Scale:**
-  - Base: El tamaño base es de 18px.
-  - Ratio: Utilizaremos un ratio de escala (por ejemplo, 1.2) que definirá la relación entre los tamaños de texto, creando una jerarquía visual consistente y armoniosa en la aplicación.
-  - Tipografía: Montserrat
-  - Line Spacing (Espaciado entre líneas): Entre 1.4 y 1.6, dependiendo del tamaño de la fuente y el contexto de uso. Esto asegurará una legibilidad óptima, especialmente en textos más largos.
-<br><br>
-- **Nomenclature:**
-  - Name / Size / Weights
-  - Heading 0 / 22px / Medium
-  - Heading 1 / 38px / Medium
-  - Heading 2 / 34px / Medium
-  - Heading 3 / 25px / Medium
-  - Heading 4 / 22px / Medium
-  - Base / 18px / Light
-  - Body 1 / 10px / Regular
+#000000 (Negro Absoluto): El negro se reserva para elementos que necesitan el máximo contraste y definición, como el texto principal y ciertos íconos. Representa la autoridad y la claridad, garantizando la máxima legibilidad y enfoque.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/black_color.png" style="width:500px; height:auto;">
+</p>
+
+**Typography: Sans Serif**
+
+Para el proyecto Psymed, utilizaremos una fuente sans serif, que asegura una lectura clara y moderna. Dentro de esta categoría, emplearemos las variaciones de DM Sans y Spartan, ambas conocidas por su simplicidad y elegancia, ideales para mantener una estética limpia y profesional en todos los elementos textuales del sistema.
+
+- **DM Sans - Sans Serif**
+<p align="center">
+  <img src="assets/chapter04/fonts/DMSans.png" style="width:500px; height:auto;">
+</p>
+
+- **Spartan - Sans Serif**
+<p align="center">
+  <img src="assets/chapter04/fonts/spartan.png" style="width:500px; height:auto;">
+</p>
 
 **Icon:**
 <p align="center">
-  <img src="assets/psymedo.png" style="width:300px; height:auto;">
+  <img src="assets/psymed_logo.svg" style="width:300px; height:auto;">
 </p>
 
-El logo de PSYMED está diseñado para capturar la esencia de nuestra plataforma psiquiátrica, centrada en el cuidado y seguimiento integral de los pacientes. El emblema en forma de corazón, combinado con la figura humana en el centro, simboliza la conexión empática y el apoyo constante que ofrecemos entre médicos y pacientes.
+El ícono de Psymed presenta una flama estilizada en un fondo circular La flama simboliza la energía vital, el crecimiento y la transformación, reflejando el enfoque de Psymed en el bienestar mental y emocional. El fondo verde menta complementa esta idea, transmitiendo calma y equilibrio, alineado con los valores de cuidado y apoyo que representa la plataforma.
 
 <p align="center">
-  <img src="assets/chapter04/icon-pallette.png" style="width:500px; height:auto;">
+  <img src="assets/chapter04/achromatic%20colors/aqua_color.png" style="width:500px; height:auto;">
 </p>
 
-Los tonos de teal reflejan calma, serenidad y profesionalismo, cualidades fundamentales en el ámbito de la salud mental. La tipografía utilizada en "PSYMED" es fuerte y moderna, transmitiendo seguridad y confiabilidad, mientras que el subtítulo "Psychiatric Platform" en un estilo más ligero, enfatiza la precisión y delicadeza con la que manejamos información crítica y personal.
-
-Este logo no solo representa la identidad visual de PSYMED, sino que también encarna nuestra misión de brindar un espacio seguro, eficiente y accesible para la gestión de la salud mental.
+Este logo no solo representa la identidad visual de Psymed, sino que también encarna nuestra misión de brindar un espacio seguro, eficiente y accesible para la gestión de la salud mental.
 
 ### 4.1.2. Web Style Guidelines
 
@@ -117,134 +127,279 @@ Nuestro diseño adaptable y el uso del patrón en Z garantizan que, independient
 Esta sección se enfoca en los elementos esenciales de contenido visual, estilos, etiquetas, y más, que se considerarán en el desarrollo de la web y la landing page. 
 
 ### 4.2.1. Organization Systems
+Para asegurar una jerarquía clara y precisa en nuestra
+aplicación, es crucial facilitar una navegación satisfactoria
+para el usuario. La estructura que hemos definido es la
+siguiente:<br>
 
-## 4.2.1. Organization Systems
+**Medicos:**
+Al acceder a la plataforma del proyecto para profesionales de la salud mental, los usuarios (psiquiatras, psicólogos y otros profesionales de la salud mental) pueden iniciar sesión, registrarse si no tienen una cuenta previa, o recuperar su contraseña en caso de olvido. Una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Pacientes", "Agenda", "Perfil" y "Ajustes".
 
-### Menú Principal
+En la sección "Pacientes", los profesionales pueden ver una lista de sus pacientes actuales y seleccionar un paciente para acceder a su perfil detallado, que incluye historial de citas, notas clínicas por sesión y tratamientos en curso. En la opción de "Tratamientos en curso" se puede acceder a opciones tales como diagnósticos, datos fisiológicos, registro de estados de ánimo y tareas asignadas.
 
-<div style="margin-left: 200px;">
+La opción "Agenda" ofrece una vista calendarizada de las citas programadas, con opciones para agendar nuevas consultas, modificar horarios y enviar recordatorios.
 
-| Topic          | Description                                                                                       |
-|----------------|---------------------------------------------------------------------------------------------------|
-| Home           | La página de inicio, la cual muestra una vista general del servicio y destaca las características clave. |
-| Suscriptionns  | La página de suscripciones que ofrece los planes de suscripción para beneficios exclusivos con diferentes costos. |
-| Testimonials   | La página de testimonios, esta ofrece comentarios y calificaciones sobre el servicio a todos los usuarios. |
+En el "Perfil", los profesionales pueden revisar y actualizar su información personal, incluyendo datos de contacto y especialidad. En la sección "Ajustes", pueden gestionar la seguridad de la cuenta, como cambiar contraseñas.
 
-</div>
+<p align="center">
+  <img src="assets/chapter04/organization%20systems/OrgSistMedicos.png" style="width:800px; height:auto;">
+</p>
 
-### Page of Suscriptions
+---
+**Pacientes:**
+Al acceder a la plataforma del proyecto para pacientes, los usuarios pueden iniciar sesión con su nombre y apellido, cambiar la contraseña, y una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual".
 
-<div style="margin-left: 200px;">
+En la sección "Lista de Tareas" se pueden visualizar los conjuntos de actividades designados por el profesional de la salud mental en cada sesión. Dentro de esta vista, se puede acceder a opciones tales como ver tareas y marcar como completadas.
 
-| Topic                         | Description                                                                      |
-|-------------------------------|----------------------------------------------------------------------------------|
-| Lista de planes de suscripción | La página mostrará todos los planes que ofrece el servicio.                      |
-| Detalles de planes            | La página mostrará los detalles de todos los planes que ofrece el servicio.       |
+En la sección "Tratamiento Actual" se puede acceder a opciones tales como "Prescripciones", "Diagnóstico Actual", "Formulario de Estados de Ánimo", "Registro de Estados Fisiológicos" y ver datos estadísticos de su estado a lo largo del tratamiento.
 
-</div>
+En la sección "Citas" se pueden visualizar las citas programadas por el profesional de la salud mental, y se puede acceder a opciones tales como ver detalles de la cita.
 
-### Page of Testimonials
+En la sección "Perfil" se puede visualizar y actualizar la información personal del paciente, incluyendo datos de contacto y datos de salud.
 
-<div style="margin-left: 200px;">
-
-| Topic                  | Description                                                                         |
-|------------------------|-------------------------------------------------------------------------------------|
-| Lista de comentarios   | La página mostrará todos los títulos de los comentarios más recientes dados por otros usuarios. |
-| Detalles de los comentarios | La página mostrará con mayor detalle el comentario al que desee interactuar.              |
-
-</div>
-
-### Page of Contact
-
-<div style="margin-left: 200px;">
-
-| Topic           | Description                                                                      |
-|-----------------|----------------------------------------------------------------------------------|
-| Lista de Contactos | La página mostrará al usuario todos los métodos por el cual puede contactar con nosotros. |
-
-</div>
-
-### Page of Log In
-
-<div style="margin-left: 200px;">
-
-| Topic                   | Description                                                                                 |
-|-------------------------|---------------------------------------------------------------------------------------------|
-| Registro y Autenticación | La página muestra una vista general del servicio y la posibilidad de iniciar sesión o registrarse. |
-
-</div>
-
+<p align="center">
+  <img src="assets/chapter04/organization%20systems/OrgSistPacientes.png" style="width:800px; height:auto;">
+</p>
 
 ### 4.2.2. Labeling Systems
 
-En esta sección, se detallan los sistemas de etiquetado utilizados en la plataforma PSYMED para asegurar una organización clara y coherente de la información. Los sistemas de etiquetado son esenciales para facilitar la navegación, mejorar la experiencia del usuario y garantizar que los usuarios puedan encontrar la información que necesitan de manera eficiente.
+- **Profesionales de la Salud Mental**
+<table>
+  <thead>
+    <tr>
+      <td colspan="3">Profesionales</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Inicio</strong></td>
+      <td>
+        <ul>
+          <li>Iniciar sesión</li>
+          <li>Registrarse</li>
+          <li>Recuperar su contraseña</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Página principal</strong></td>
+      <td>
+        <ul>
+          <li>Pacientes</li>
+          <li>Agenda</li>
+          <li>Perfil</li>
+          <li>Ajustes</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Pacientes y Lista de sus pacientes</strong></td>
+      <td>
+        <ul>
+          <li>Historial de citas</li>
+          <li>Notas clínicas por sesión</li>
+          <li>Tratamientos en curso
+            <ul>
+              <li>Diagnósticos</li>
+              <li>Datos fisiológicos</li>
+              <li>Registro de estados de ánimo</li>
+              <li>Tareas asignadas</li>
+              <li>Asignar Medicamentos</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Agenda</strong></td>
+      <td>
+        <ul>
+          <li>Agendar una nueva consulta</li>
+          <li>Modificar horarios</li>
+          <li>Enviar recordatorios</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Perfil</strong></td>
+      <td>
+        <ul>
+          <li>Datos del contacto</li>
+          <li>Especialidad</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Ajustes</strong></td>
+      <td>
+        <ul>
+          <li>Cambiar contraseña</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### Principios de Etiquetado
+---
+- **Pacientes:**
 
-- **Consistencia en todo el lenguaje uniforme que sea comprensible para los usuarios.**
-- **Claras y directas.**
-- **Cada etiqueta debe reflejar con precisión el contenido al que se refiere, ayudando a los usuarios a encontrar la información relevante de manera rápida.**
+<table>
+  <thead>
+    <tr>
+      <td colspan="3">Pacientes</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Inicio</strong></td>
+      <td>
+        <ul>
+          <li>Iniciar sesión</li>
+          <li>Cambiar contraseña</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Página principal</strong></td>
+      <td>
+        <ul>
+          <li>Perfil</li>
+          <li>Citas</li>
+          <li>Lista de tareas</li>
+          <li>Tratamiento actual</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Perfil</strong></td>
+      <td>
+        <ul>
+          <li>Datos del contacto</li>
+          <li>Datos de salud</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Citas</strong></td>
+      <td>
+        <ul>
+          <li>Ver detalles de la cita</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Lista de tareas</strong></td>
+      <td>
+        <ul>
+          <li>Ver tareas</li>
+          <li>Marcar como completados</li>
+        </ul>
+      </td>
+    </tr> 
+    <tr>
+      <td><strong>Tratamiento actual</strong></td>
+      <td>
+        <ul>
+          <li>Registro de medicamentos</li>
+          <li>Diagnóstico actual</li>
+          <li>Formulario de estados de ánimo
+            <ul>
+              <li>Registro de estados fisiológicos</li>
+              <li>Ver datos estadísticos de su estado a lo largo del tratamiento</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### Ejemplo de Etiquetas
-
-- **Menú Principal:** "Home", "Suscripciones", "Testimonios", "Contacto", "Log In".
-- **Subsecciones:** "Planes de Suscripción", "Detalles del Plan", "Comentarios", "Detalles del Comentario".
-- **Campos de Formulario:** "Nombre", "Correo Electrónico", "Contraseña", "Confirmar Contraseña".
 
 ### 4.2.3. SEO Tags and Meta Tags
+Las etiquetas reflejan el contenido de nuestro proyecto, abarcando tanto la Landing Page como el Sitio Web. Han sido creadas para mejorar la visibilidad de nuestro proyecto en los principales motores de búsqueda, lo que permitirá a los usuarios encontrar fácilmente nuestra aplicacion de PSYMED.
 
+Para la landing page:
+- **Título:** PSYMED - Plataforma de Gestión de Salud Mental
+- **Descripción:** PSYMED - plataforma de gestión de salud mental - LandingPage.
+- **keywords:** Salud Mental, Psiquiatras, Software, Citas Médicas, Historial Clínico, Plataforma Psicólogos, Registro Pacientes, Tratamiento Psicológico, Seguimiento Pacientes.
+- **Author:** closedSource
 
-Para garantizar que la plataforma PSYMED sea fácilmente encontrada por los motores de búsqueda y, por ende, accesible a un mayor número de usuarios, es crucial implementar estrategias de SEO (Search Engine Optimization) efectivas. Esto incluye el uso de meta tags adecuadas y otras etiquetas relacionadas con el SEO.
+Para el Web Side:
 
-### Meta Tags:
-
-- **Title Tag:** Cada página de la plataforma debe tener un título único y descriptivo, que refleje claramente el contenido de la página.  
-  Ejemplo: `<title>PSYMED - Plataforma de Salud Mental</title>`.
-
-- **Meta Description:** Las descripciones meta deben proporcionar un resumen breve y atractivo del contenido de la página.  
-  Ejemplo: `<meta name="description" content="PSYMED es una plataforma integral para la gestión de la salud mental, ofreciendo herramientas para profesionales y pacientes en un entorno seguro y confiable.">`.
-
-- **Keywords:** Incluir palabras clave relevantes que reflejen el contenido de la página y que los usuarios probablemente utilizarán en sus búsquedas.  
-  Ejemplo: `<meta name="keywords" content="salud mental, psiquiatría, terapia en línea, gestión de pacientes">`.
-
-### SEO Tags:
-
-- **Header Tags:** Uso adecuado de etiquetas de encabezado (`<h1>`, `<h2>`, `<h3>`, etc.) para estructurar el contenido y mejorar su accesibilidad.
-
-- **Alt Text para Imágenes:** Incluir descripciones detalladas en el atributo alt de las imágenes para mejorar la accesibilidad y el SEO.  
-  Ejemplo: `<img src="logo.png" alt="Logo de PSYMED - Plataforma de Salud Mental">`.
-
-- **URL amigables:** Asegurar que las URLs sean descriptivas y reflejen la estructura de la información.
+- **Título:** PSYMED - Plataforma de Gestión de Salud Mental
+- **Descripción:** PSYMED - plataforma de gestión de salud mental - Web Side.
+- **keywords:** Salud Mental, Psiquiatras, Software, Citas Médicas, Historial Clínico, Plataforma Psicólogos, Registro Pacientes, Tratamiento Psicológico, Seguimiento Pacientes.
+- **Author:** closedSource
 
 ### 4.2.4. Searching Systems
+Los médicos pueden utilizar los métodos de búsqueda por:
 
-El sistema de búsqueda es un componente esencial de la plataforma PSYMED, diseñado para facilitar el acceso rápido a la información relevante. El sistema debe ser intuitivo, rápido y preciso, permitiendo a los usuarios encontrar fácilmente lo que necesitan.
+- Filtrado de Información por Fechas:
+  - Búsqueda de notas por fecha
+  - Búsqueda de sesiones por fecha
+  - Búsqueda de diagnósticos por fecha
+  - Búsqueda de prescripciones por fecha
+  - Ver sesiones por fecha
 
-### Características del Sistema de Búsqueda:
-
-- **Barra de Búsqueda:** Ubicada de manera prominente en la parte superior de la página, permitiendo a los usuarios ingresar palabras clave para buscar contenido específico.
-
-- **Búsqueda Predictiva:** A medida que los usuarios escriben, el sistema debe sugerir términos relacionados o resultados potenciales para facilitar la búsqueda.
-
-- **Filtros de Búsqueda:** Permitir a los usuarios filtrar resultados por categorías como "Planes de Suscripción", "Testimonios", "Artículos", "Contacto", etc.
-
-- **Búsqueda Avanzada:** Ofrecer una opción de búsqueda avanzada donde los usuarios puedan especificar criterios más detallados para obtener resultados más precisos.
-
-- **Indexación de Contenidos:** Asegurar que todos los contenidos de la plataforma estén indexados para una rápida recuperación durante la búsqueda.
+Los pacientes pueden utilizar los methods de búsqueda por:
+- Filtrado de información por ID
+  - búsqueda de tareas por ID
+  - confirmation de tareas por ID
 
 ### 4.2.5. Navigation Systems
 
-El sistema de navegación de PSYMED está diseñado para ser simple, claro y eficiente, permitiendo a los usuarios moverse a través de la plataforma con facilidad. Un sistema de navegación bien diseñado mejora la experiencia del usuario al facilitar el acceso a la información y reducir el tiempo que se necesita para encontrarla.
+**Para Psiquiatras:**
 
-### Características del Sistema de Navegación:
+En la plataforma para profesionales de salud mental, tras iniciar sesión, los usuarios acceden a un panel de control con un menú superior que incluye "Inicio", "Pacientes", "Agenda", "Perfil" y "Ajustes". En "Pacientes", pueden ver y gestionar perfiles detallados de los pacientes, incluyendo historial de citas y tratamientos. "Agenda" muestra un calendario con citas programadas y permite agendar nuevas, modificar horarios y enviar recordatorios. En "Perfil", se actualiza la información personal y en "Ajustes", se gestionan aspectos de seguridad de la cuenta.
 
-- **Menú Principal:** Ubicado en la parte superior de la página, el menú principal incluye enlaces directos a las secciones más importantes como "Home", "Suscripciones", "Testimonios", "Contacto" y "Log In".
+**Para Pacientes:**
 
-- **Submenús Desplegables:** Permiten a los usuarios acceder a subsecciones específicas sin salir de la página actual. Por ejemplo, en "Suscripciones", los usuarios pueden acceder directamente a "Detalles del Plan".
+Al ingresar, los pacientes ven un panel con opciones como "Inicio", "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual". En "Lista de Tareas", pueden ver y marcar tareas asignadas como completadas. "Tratamiento Actual" ofrece detalles sobre prescripciones, diagnósticos, estados de ánimo y datos estadísticos. "Citas" permite ver y gestionar citas programadas, mientras que "Perfil" facilita la actualización de la información personal.
+
+Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave tanto para psiquiatras como para pacientes.
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+- **Desktop - Wireframes:**
+
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20design/wireframe/wireframe.png" style="width:800px; height:auto;">
+</p>
+
+- **Mobile - Wireframes:**
+
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20design/wireframe/wireframe-mobile.png" style="width:350px; height:auto;">
+</p>
+
+
 ### 4.3.2. Landing Page Mock-up
+- **Desktop - Mockups:**
+
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20design/mockups/desktop/mockup1.png" style="width:800px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/desktop/mockup2.png" style="width:800px; height:auto;">
+  <img src="assets/chapter04/landing%20page%20design/mockups/desktop/mockup3.png" style="width:800px; height:auto;">
+</p>
+
+- **Mobile - Mockups:**
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile1.png" style="width:350px; height:auto;"><br>
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile2.png" style="width:350px; height:auto;"><br>
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile3.png" style="width:350px; height:auto;"><br>
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile4.png" style="width:350px; height:auto;"><br>
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile5.png" style="width:350px; height:auto;"><br>
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile6.png" style="width:350px; height:auto;"><br>
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile7.png" style="width:350px; height:auto;"><br>
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile8.png" style="width:350px; height:auto;"><br>
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile9.png" style="width:350px; height:auto;"><br>
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile10.png" style="width:350px; height:auto;"><br>
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile11.png" style="width:350px; height:auto;"><br>
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile12.png" style="width:350px; height:auto;"><br>
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile13.png" style="width:350px; height:auto;"><br>
+  <img src="assets/chapter04/landing%20page%20design/mockups/mobile/mockup-mobile14.png" style="width:350px; height:auto;">
+
+</p>
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
@@ -280,8 +435,346 @@ El sistema de navegación de PSYMED está diseñado para ser simple, claro y efi
 <img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/Test%20Interidario.png" style="width:100%">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
 ### 4.4.2. Web Applications Mock-ups
 
 ### 4.4.3. Web Applications User Flow Diagrams
 
-## 4.5. Web Applications Prototyping 
+## 4.5. Web Applications Prototyping
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagram.
+
+### 4.6.2. Software Architecture Container Diagrams.
+
+### 4.6.3. Software Architecture Components Diagrams.
+
+## 4.7. Software Object-Oriented Design.
+
+### 4.7.1. Class Diagrams.
+La siguiente imagen representa el diagrama de clases, junto con la relación entre clases en función al proyecto.
+
+<p align="center">
+  <img src="assets/chapter04/database/classdiagram.jpeg" style="width:800px; height:auto;">
+</p>
+
+A continuación, una descripción detallada de las tablas y relaciones en la base de datos:
+
+- **patients (pacientes):**
+  - **id:** Identificador único del paciente (PK).
+  - **name, last_name, email:** Información básica del paciente.
+  - **id_account:** Relación con la tabla accounts (FK).
+  - **id_clinical_history:** Relación con la tabla clinical_histories (FK).
+
+<br>
+
+- **accounts (cuentas):**
+  - **id:** Identificador único de la cuenta (PK).
+  - **username, password:** Credenciales de acceso del usuario.
+  - **rol:** Rol asignado al usuario.
+
+<br>
+
+- **clinical_histories (historias clínicas):**
+  - **id:** Identificador único de la historia clínica (PK).
+  - **reason:** Razón o motivo de la historia clínica.
+  - **created_date, updated_date:** Fechas de creación y actualización.
+  - **id_patient:** Relación con la tabla patients (FK).
+
+<br>
+
+- **diagnostics (diagnósticos):**
+  - **id:** Identificador único del diagnóstico (PK).
+  - **name, description:** Nombre y descripción del diagnóstico.
+  - **created_date, updated_date:** Fechas de creación y actualización.
+  - **id_clinical_history:** Relación con la tabla clinical_histories (FK).
+
+<br>
+
+- **sessions (sesiones):**
+  - **id:** Identificador único de la sesión (PK).
+  - **appointment_date, session_time:** Fecha y hora de la cita.
+  - **id_note:** Relación con la tabla notes (FK).
+  - **id_patient, id_professional:** Relaciones con las tablas patients y professionals (FKs).
+  - **created_date, updated_date:** Fechas de creación y actualización.
+
+<br>
+   
+- **notes (notas):**
+  - **id:** Identificador único de la nota (PK).
+  - **description, symptoms:** Descripción y síntomas registrados en la nota.
+
+<br>
+
+- **professionals (profesionales):**
+  - **id:** Identificador único del profesional (PK).
+  - **name, last_name, email:** Información básica del profesional.
+  - **id_account:** Relación con la tabla accounts (FK).
+
+<br>
+
+- **specialties (especialidades):**
+  - **id:** Identificador único de la especialidad (PK).
+  - **id_profession:** Relación con la tabla professionals (FK).
+  - **name:** Nombre de la especialidad.
+
+<br>
+
+- **treatments (tratamientos):**
+  - **id:** Identificador único del tratamiento (PK).
+  - **name, description:** Nombre y descripción del tratamiento.
+  - **start, end:** Fechas de inicio y fin del tratamiento.
+
+<br>
+
+- **professional_treatments (tratamientos profesionales):**
+  - **id_professional, id_treatment, id_patient:** Relaciones entre profesionales, tratamientos y pacientes (PKs y FKs).
+
+<br>
+
+- **medical_prescriptions (prescripciones médicas):**
+  - **id:** Identificador único de la prescripción médica (PK).
+  - **name, description:** Nombre y descripción de la prescripción.
+  - **start, end:** Fechas de inicio y fin de la prescripción.
+  - **id_patient, id_professional:** Relaciones con las tablas patients y professionals (FKs).
+  - **created_at, updated_at:** Fechas de creación y actualización.
+
+<br>
+
+- **prescription_pills (píldoras prescritas):**
+  - **id_medical_prescription, id_pill:** Relación entre prescripciones médicas y píldoras (PKs y FKs).
+  - **quantity, frequency:** Cantidad y frecuencia de la administración de la píldora.
+
+<br>
+
+- **pills (píldoras):**
+  - **id:** Identificador único de la píldora (PK).
+  - **name, description:** Nombre y descripción de la píldora.
+  
+<br>
+
+- **biological_functions (funciones biológicas):**
+  - **id:** Identificador único de la función biológica (PK).
+  - **hunger, hydration, sleep, energy:** Funciones biológicas relacionadas con el paciente.
+  - **created_at, updated_at:** Fechas de creación y actualización.
+  - **id_patient:** Relación con la tabla patients (FK).
+
+<br>
+
+- **mood_states (estados de ánimo):**
+  - **id:** Identificador único del estado de ánimo (PK).
+  - **state:** Estado de ánimo del paciente.
+
+<br>
+
+- **patient_moods (estados de ánimo del paciente):**
+  - **id:** Identificador único del estado de ánimo del paciente (PK).
+  - **id_patient:** Relación con la tabla patients (FK).
+  - **mood_state_id:** Relación con la tabla mood_states (FK).
+  - **created_at:** Fecha de creación del registro.
+### 4.7.2. Class Dictionary.
+
+<table border="1">
+  <tr>
+    <th colspan="1">#</th>
+    <th colspan="2">Entidad</th>
+    <th colspan="2">Nombre de atributos</th>
+    <th colspan="4">Definición</th>
+    <th colspan="2">Tipo de dato</th>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">1</td>
+    <td rowspan="3" colspan="2">Patient</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del paciente</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">clinicalHistory</td>
+    <td colspan="4">Historia clínica del paciente</td>
+    <td colspan="2">String</td>
+  </tr>
+  <tr>
+    <td colspan="2">treatmentPlan</td>
+    <td colspan="4">Plan de tratamiento del paciente</td>
+    <td colspan="2">TreatmentPlan</td>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">2</td>
+    <td rowspan="3" colspan="2">TreatmentPlan</td>
+    <td colspan="2">biologicalFunctions</td>
+    <td colspan="4">Funciones biológicas del paciente</td>
+    <td colspan="2">List<BiologicalFunction></td>
+  </tr>
+  <tr>
+    <td colspan="2">treatmentTasks</td>
+    <td colspan="4">Tareas del tratamiento</td>
+    <td colspan="2">List<TreatmentTask></td>
+  </tr>
+  <tr>
+    <td colspan="2">diagnosis</td>
+    <td colspan="4">Diagnóstico del paciente</td>
+    <td colspan="2">Diagnosis</td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="1">3</td>
+    <td rowspan="2" colspan="2">Diagnosis</td>
+    <td colspan="2">name</td>
+    <td colspan="4">Nombre del diagnóstico</td>
+    <td colspan="2">String</td>
+  </tr>
+  <tr>
+    <td colspan="2">code</td>
+    <td colspan="4">Código del diagnóstico</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="1">4</td>
+    <td rowspan="2" colspan="2">BiologicalFunction</td>
+    <td colspan="2">hunger</td>
+    <td colspan="4">Nivel de hambre del paciente</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">thirst</td>
+    <td colspan="4">Nivel de sed del paciente</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">5</td>
+    <td rowspan="3" colspan="2">TreatmentTask</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador de la tarea de tratamiento</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">name</td>
+    <td colspan="4">Nombre de la tarea</td>
+    <td colspan="2">String</td>
+  </tr>
+  <tr>
+    <td colspan="2">completionStatus</td>
+    <td colspan="4">Estado de la tarea</td>
+    <td colspan="2">bool</td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="1">6</td>
+    <td rowspan="2" colspan="2">Professional</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del profesional</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">patients</td>
+    <td colspan="4">Lista de pacientes asignados</td>
+    <td colspan="2">List<Patient></td>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">7</td>
+    <td rowspan="3" colspan="2">User</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del usuario</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">name</td>
+    <td colspan="4">Nombre del usuario</td>
+    <td colspan="2">String</td>
+  </tr>
+  <tr>
+    <td colspan="2">email</td>
+    <td colspan="4">Correo electrónico del usuario</td>
+    <td colspan="2">String</td>
+  </tr>
+</table>
+
+## 4.8. Database Design.
+
+La elección del sistema de gestión de bases de datos (DBMS) adecuado es crucial para el éxito de cualquier proyecto. En esta comparación, vamos a analizar tres de los sistemas de gestión de bases de datos más populares: MongoDB, SQL Server y MySQL. Cada sistema tiene sus características, fortalezas y debilidades en rendimiento, escalabilidad, seguridad, y facilidad de uso. Este análisis ayudará a determinar cuál es el más adecuado para un proyecto específico.
+
+<table>
+  <thead>
+    <tr>
+      <th>Base de Datos</th>
+      <th>Ventajas</th>
+      <th>Desventajas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center;">
+        <img src="assets/chapter04/database/logos/mysql-logo.svg" alt="MySQL" style="width: 250px; height:auto;  margin: 0 auto;" />
+      </td>
+      <td>
+        <ul>
+          <li>Software de código abierto con gran comunidad de soporte.</li>
+          <li>Alta compatibilidad con diversos entornos y plataformas.</li>
+          <li>Desempeño sólido en aplicaciones web y sistemas de gestión de contenido.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Limitaciones en el manejo de grandes volúmenes de datos complejos.</li>
+          <li>Menos características avanzadas en comparación con Microsoft SQL Server.</li>
+          <li>Opciones de escalabilidad limitadas en comparación con MongoDB.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <img src="assets/chapter04/database/logos/microsoft-sql-server-logo.svg" alt="sql" style="width: 250px; height:auto;  block; margin: 0 auto;" />
+      </td>
+      <td>
+        <ul>
+          <li>Altamente integrado con productos y servicios de Microsoft.</li>
+          <li>Potentes herramientas de análisis y optimización de rendimiento.</li>
+          <li>Amplias características de seguridad, incluidas auditorías y cifrado de datos.</li>
+          <li>Excelente soporte para transacciones y alta disponibilidad.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Costo elevado de licencias, especialmente para grandes implementaciones.</li>
+          <li>Mayor consumo de recursos en comparación con MySQL.</li>
+          <li>Curva de aprendizaje más pronunciada debido a su complejidad.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <img src="assets/chapter04/database/logos/mongodb.svg" alt="MongoDB" style="width: 250px; height:auto; margin: 0 auto;" />
+      </td>
+      <td>
+        <ul>
+          <li>Modelo flexible de datos NoSQL, ideal para documentos y JSON.</li>
+          <li>Escalabilidad horizontal fácil, ideal para grandes volúmenes de datos.</li>
+          <li>Alto rendimiento en operaciones de lectura/escritura masivas.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Falta de soporte nativo para transacciones complejas.</li>
+          <li>Menos maduro en términos de seguridad y respaldo de datos en comparación con SQL Server.</li>
+          <li>No es ideal para aplicaciones que requieren relaciones complejas entre datos.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Usar Microsoft SQL Server para nuestro proyecto de diseño de base de datos puede ser una excelente elección por varias razones. SQL Server es conocido por su confiabilidad, seguridad y escalabilidad. Además, su integración con herramientas de desarrollo de Microsoft, como Visual Studio, puede facilitar el proceso de diseño y desarrollo.
+
+<p align="center">
+  <img src="assets/chapter04/database/logos/microsoft-sql-server-logo.svg" style="width:250px; height:auto;">
+</p>
+
+Su soporte para lenguaje SQL estándar y su capacidad para manejar grandes volúmenes de datos también son puntos a favor. Además, cuenta con características avanzadas como replicación, alta disponibilidad y análisis integrado, lo que puede proporcionar una base sólida para proyectos de cualquier tamaño y complejidad.
+
+### 4.8.1. Database Diagram.
+
+A continuación el diagrama elaborado para la Base de Datos de Psymed.
+
+<p align="center">
+  <img src="assets/chapter04/database/databasediagram.svg" style="width:800px; height:auto;">
+</p>
