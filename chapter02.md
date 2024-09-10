@@ -475,7 +475,7 @@ En la matriz presentada, se pueden observar las siguientes tareas con mayor frec
 Las coincidencias entre los segmentos destacan la importancia de una solución integrada que facilite la gestión tanto para médicos como para pacientes. Las principales diferencias se reflejan en la naturaleza de las tareas, donde los médicos tienen un enfoque más administrativo y clínico, mientras que los pacientes se centran en la gestión personal de su atención médica.
 
 
-### 2.3.4. User Journey Mapping 
+### 2.3.3. User Journey Mapping 
 
 El User Journey Mapping se desarrolló para comprender la experiencia de los usuarios al interactuar con nuestra plataforma. Este mapeo detalla cada paso que el usuario realiza, los obstáculos que puede encontrar, y las emociones que surgen en el proceso. Así, nos ayuda a identificar oportunidades para mejorar la usabilidad y satisfacción del usuario.
 
