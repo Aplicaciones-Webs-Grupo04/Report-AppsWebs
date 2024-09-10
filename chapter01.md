@@ -56,8 +56,8 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
   <th colspan="2">Luza Carhuamaca, Jose Adrian</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/jose-photo.png" style="width:700px; height:auto;"></td>
-    <td> descripción </td>
+    <td><img src="assets/chapter01/jose-photo.jpg" style="width:700px; height:auto;"></td>
+    <td> Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con una profunda pasión por el aprendizaje continuo. Me gusta participar en proyectos que desafíen mi creatividad y habilidades para desarrollar soluciones innovadoras, contribuyendo activamente al trabajo en equipo y al logro de objetivos comunes. Estoy siempre en busca de nuevas oportunidades para mejorar, crecer y marcar una diferencia. </td>
   </tr>
 
   <tr>
@@ -72,7 +72,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
     <th colspan="2">Maita Falckenheiner, Romina Guadalupe</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/ro-photo.png" style="width:700px; height:auto;"></td>
+    <td><img src="assets/chapter01/romina.jpg" style="width:700px; height:auto;"></td>
     <td>Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.</td>
   </tr>
 
@@ -172,6 +172,7 @@ Estas soluciones están diseñadas para abordar de manera integral los desafíos
 Bussiness Assumptions:
 
 1. **Creemos que nuestros clientes tienen la necesidad de:**
+
 
 Organizar y gestionar de manera eficiente la información de los pacientes, citas, y datos clínicos.
 
@@ -311,7 +312,7 @@ Crear un panel de control que permita a los profesionales monitorear el progreso
 
 #### 1.2.2.4. Lean UX Canvas
 
-![Lean UX Canvas](</assets/Lean UX Canvas.png>)
+![Lean UX Canvas](assets/chapter01/LeanUXCanvas.png)
 
 ## 1.3. Segmentos Objetivos
 El segmento objetivo de este análisis se centra en dos grupos principales:
