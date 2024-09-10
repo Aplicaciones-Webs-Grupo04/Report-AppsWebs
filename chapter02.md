@@ -1,8 +1,36 @@
-﻿
+﻿<style>
+  body {
+    font-family: 'Times New Roman', sans-serif;
+    text-align: justify;
+    font-size: 12px;
+    margin-left: 2em;
+    margin-right: 2em;
+    line-height: 2;
+  }
+  
+  p {
+    text-indent: 2em; /* Sangría en el primer renglón de cada párrafo */
+  }
+
+  h1 {
+    margin-left: 0; /* No aplica sangría para el título principal */
+  }
+
+  h2 {
+    margin-left: 0; /* No aplica sangría para subtítulos de nivel 2 */
+  }
+
+  h3 {
+    margin-left: 2em; /* Aplica una sangría de 2em para subtítulos de nivel 3 */
+  }
+
+  h4 {
+    margin-left: 4em; /* Aplica una sangría de 4em para subtítulos de nivel 4 */
+  }
+</style>
+
 # Capítulo II: Requirements Elicitation & Analysis
-
 ## 2.1. Competidores
-
 ### 2.1.1 Análisis Competitivo
 <table>
   <tr>
@@ -14,7 +42,7 @@
   </tr>
   <tr>
     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>PsyMed<br><img src="/assets/chapter02/competidores/PSYMED.png" alt="PsyMed"></td>
+    <td>PsyMed<br><img src="/assets/psymed_logo.svg" alt="PsyMed"></td>
     <td>TherapyNotes<br><img src="/assets/chapter02/competidores/TherapyNotes.png" alt="TherapyNotes"></td>
     <td>Teladoc<br><img src="/assets/chapter02/competidores/Teladoc.png" alt="Teladoc"></td>
     <td>Talkspace<br><img src="/assets/chapter02/competidores/Talkspace.png" alt="Talkspace"></td>
@@ -101,59 +129,53 @@
 </tr>
 </table>
 
-
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 Para fortalecer nuestra posición en el mercado, PsyMed se centrará en aprovechar sus fortalezas clave, como la centralización de la información clínica y la interfaz intuitiva, que facilita la colaboración entre profesionales y ofrece un acceso seguro a los pacientes. Este enfoque nos permitirá diferenciar nuestra plataforma en un mercado competitivo, destacándonos como una solución integral para instituciones de salud mental. Además, buscaremos oportunidades de expansión mediante alianzas con universidades y centros de investigación, lo que no solo mejorará nuestras capacidades tecnológicas, sino que también nos posicionará como un líder en innovación dentro del sector.
 
 En cuanto a nuestras debilidades, como la falta de un historial probado y los recursos limitados en esta etapa inicial, adoptaremos un enfoque estratégico que incluya implementaciones piloto en instituciones clave para demostrar el valor de PsyMed antes de una expansión más amplia. Esto nos permitirá mitigar riesgos y construir una base de confianza con nuestros primeros usuarios. Simultáneamente, abordaremos las amenazas del mercado y los posibles cambios regulatorios mediante prácticas rigurosas de cumplimiento y actualizaciones constantes en nuestras políticas de seguridad, lo que reforzará la confianza de nuestros clientes y nos permitirá competir eficazmente frente a otras plataformas establecidas.
 
 ## 2.2. Entrevistas.
-
 ### 2.2.1. Diseño de entrevistas.
 
-#### Preguntas para el segmento de profesionales de la salud mental:
+**Preguntas para el segmento de profesionales de la salud mental:**
 
-##### _Preguntas Objetivas_
+  - **Preguntas Objetivas:**
+    - ¿Cuál es el navegador que más utilizas?
+    - ¿Ha pagado por herramientas que le ayuden a hacer un seguimiento de sus pacientes en el pasado? ¿Cuáles y por qué?
+    - Actualmente, ¿Cómo manejas la información de tus pacientes?
+    - ¿Qué tipo de información no se puede revelar a los pacientes y cuál sí está permitido?
+    - ¿Qué precio mensual o anual considerarías razonable para un servicio como este?
+  <br><br>
+  - **Preguntas Subjetivas:**
+    - ¿Qué tan familiarizado está con el uso de plataformas digitales?
+    - ¿Cuál es el perfil de pacientes que usted atiende?
+    - ¿Qué dificultades tienes al atender a tus pacientes?
+    - ¿Qué factores determinan que un paciente busque ayuda psicológica y cuál es la diferencia con el manejo con un psiquiatra?
+    - ¿Cómo se lleva a cabo la evaluación de un paciente nuevo?
+    - ¿Cómo se determina un diagnóstico y cuánto tiempo toma?
+    - ¿Cómo se decide el plan de tratamiento para un paciente?
+    - ¿Qué tan importante es hacer un seguimiento del paciente?
+    - ¿Qué funciones crees que la plataforma deba tener además de las mencionadas?
 
-- ¿Cuál es el navegador que más utilizas?
-- ¿Ha pagado por herramientas que le ayuden a hacer un seguimiento de sus pacientes en el pasado? ¿Cuáles y por qué?
-- Actualmente, ¿Cómo manejas la información de tus pacientes?
-- ¿Qué tipo de información no se puede revelar a los pacientes y cuál sí está permitido?
-- ¿Qué precio mensual o anual considerarías razonable para un servicio como este?
+**Preguntas para el segmento de pacientes:**
 
-##### _Preguntas Subjetivas_
-
-- ¿Qué tan familiarizado está con el uso de plataformas digitales?
-- ¿Cuál es el perfil de pacientes que usted atiende?
-- ¿Qué dificultades tienes al atender a tus pacientes?
-- ¿Qué factores determinan que un paciente busque ayuda psicológica y cuál es la diferencia con el manejo con un psiquiatra?
-- ¿Cómo se lleva a cabo la evaluación de un paciente nuevo?
-- ¿Cómo se determina un diagnóstico y cuánto tiempo toma?
-- ¿Cómo se decide el plan de tratamiento para un paciente?
-- ¿Qué tan importante es hacer un seguimiento del paciente?
-- ¿Qué funciones crees que la plataforma deba tener además de las mencionadas?
-
-#### Preguntas para el segmento de pacientes:
-
-#### _Preguntas Objetivas_
-
-- ¿Cuál es el navegador que más utilizas?
-- ¿Qué herramienta usas más seguido? Tablets, celulares, laptops, smartwatch, etc.
-- ¿Qué tan seguido interactúas con tu terapeuta, psicólogo o psiquiatra? (Sesiones, chats, llamadas, etc.)
-- ¿Has utilizado alguna vez una plataforma digital para gestionar tus citas o tratamientos médicos? Si es así, ¿cómo fue tu experiencia? ¿Qué aspectos te resultaron más útiles o frustrantes?
-- ¿Te sentirías cómodo utilizando una plataforma digital para interactuar con tu profesional de la salud mental?
-- ¿Qué información te gustaría tener visible en la plataforma? Por ejemplo, citas, recordatorios de medicamentos, notas de las sesiones, etc.
-- ¿Te gustaría poder comunicarte con tu profesional de salud mental a través de la plataforma? ¿Qué tipo de comunicación preferirías (mensajes, videollamadas, etc.)?
-
-#### _Preguntas Subjetivas_
-
-- ¿Estás familiarizado con las plataformas digitales?
-- ¿Cuándo y por qué motivo decidiste buscar ayuda profesional para tu salud mental?
-- ¿Tienes alguna preocupación en cuanto a la privacidad y seguridad de tu información personal al usar una plataforma digital? ¿Qué te haría sentir más seguro al usarla?
+  - **Preguntas Objetivas:**
+    - ¿Cuál es el navegador que más utilizas?
+    - ¿Qué herramienta usas más seguido? Tablets, celulares, laptops, smartwatch, etc.
+    - ¿Qué tan seguido interactúas con tu terapeuta, psicólogo o psiquiatra? (Sesiones, chats, llamadas, etc.)
+    - ¿Has utilizado alguna vez una plataforma digital para gestionar tus citas o tratamientos médicos? Si es así, ¿cómo fue tu experiencia? ¿Qué aspectos te resultaron más útiles o frustrantes?
+    - ¿Te sentirías cómodo utilizando una plataforma digital para interactuar con tu profesional de la salud mental?
+    - ¿Qué información te gustaría tener visible en la plataforma? Por ejemplo, citas, recordatorios de medicamentos, notas de las sesiones, etc.
+    - ¿Te gustaría poder comunicarte con tu profesional de salud mental a través de la plataforma? ¿Qué tipo de comunicación preferirías (mensajes, videollamadas, etc.)?
+  <br><br>
+  - **Preguntas Subjetivas:**
+    - ¿Estás familiarizado con las plataformas digitales?
+    - ¿Cuándo y por qué motivo decidiste buscar ayuda profesional para tu salud mental?
+    - ¿Tienes alguna preocupación en cuanto a la privacidad y seguridad de tu información personal al usar una plataforma digital? ¿Qué te haría sentir más seguro al usarla?
 
 ### 2.2.2. Registro de entrevistas.
 
-##### Segmento 1: Profesionales de la salud mental.
+**Segmento 1: Profesionales de la salud mental:**
 
 Entrevistado 1:
 
@@ -161,16 +183,16 @@ Entrevistado 1:
   <img src="/assets/chapter02/Interviews/Interview1PR.jpeg">
 </div>
 
-| Nombre               | Luis              |
-|----------------------|-------------------|
-| Apellido             | Mena              |
-| Edad                 | 37                |
-| Distrito             | Magdalena del Mar |
-| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   |
-| Inicio de entrevista | 0:01 minutos      |
-| Fin de entrevista    | 26:45 minutos     |
+| Nombre               | Luis                                                                                                                                                                                                                                                                                                                                  |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Mena                                                                                                                                                                                                                                                                                                                                  |
+| Edad                 | 37                                                                                                                                                                                                                                                                                                                                    |
+| Distrito             | Magdalena del Mar                                                                                                                                                                                                                                                                                                                     |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Inicio de entrevista | 0:01 minutos                                                                                                                                                                                                                                                                                                                          |
+| Fin de entrevista    | 26:45 minutos                                                                                                                                                                                                                                                                                                                         |
 
-Resumen:
+**Resumen:**
 
 El Doctor Mena utiliza plataformas web diariamente y aplicaciones de índole médico que le ayudan en su trabajo, sin embargo, ninguna de esas herramientas le brinda un seguimiento de sus pacientes. Suele atender personas con depresión, ansiedad, esquizofrenia, bipolaridad, etc. Comenta que lo que más le dificulta es agendar sus citas y el registrar la información de manera automatizada. Además, el profesional realiza un examen mental psicopatológico después de sus sesiones para poder realizar un diagnóstico de acuerdo a las normas regidas por la OMS. Considera importante hacerle seguimiento a sus pacientes ya que eso ayuda a ver un progreso real y tangible. El doctor nos brindó feedback sobre el proyecto, aportando las siguientes ideas:
 
@@ -185,14 +207,14 @@ Entrevistado 2:
   <img src="/assets/chapter02/Interviews/Interview2.jpeg">
 </div>
 
-| Nombre               | Alberto                                                                                                                                        |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Casas                                                                                                                                          |
-| Edad                 | 51 años                                                                                                                                        |
-| Distrito             | San Isidro                                                                                                                                     |
+| Nombre               | Alberto                                                                                                                                                                                                                                                                                                                               |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Casas                                                                                                                                                                                                                                                                                                                                 |
+| Edad                 | 51 años                                                                                                                                                                                                                                                                                                                               |
+| Distrito             | San Isidro                                                                                                                                                                                                                                                                                                                            |
 | URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
-| Inicio de entrevista | 26:56 minutos                                                                                                                                  |
-| Fin de entrevista    | 44:43 minutos                                                                                                                                  |
+| Inicio de entrevista | 26:56 minutos                                                                                                                                                                                                                                                                                                                         |
+| Fin de entrevista    | 44:43 minutos                                                                                                                                                                                                                                                                                                                         |
 
 Resumen:
 
@@ -208,14 +230,14 @@ Entrevistado 3:
   <img src="/assets/chapter02/Interviews/Interview3.jpeg">
 </div>
 
-| Nombre               | Karina                                                                                                                                         |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Ramirez                                                                                                                                        |
-| Edad                 | 51 años                                                                                                                                        |
-| Distrito             | Magdalena del Mar                                                                                                                              |
+| Nombre               | Karina                                                                                                                                                                                                                                                                                                                                |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Ramirez                                                                                                                                                                                                                                                                                                                               |
+| Edad                 | 51 años                                                                                                                                                                                                                                                                                                                               |
+| Distrito             | Magdalena del Mar                                                                                                                                                                                                                                                                                                                     |
 | URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
-| Inicio de entrevista | 44:53 minutos                                                                                                                                  |
-| Fin de entrevista    | 1:07:47 minutos                                                                                                                                |
+| Inicio de entrevista | 44:53 minutos                                                                                                                                                                                                                                                                                                                         |
+| Fin de entrevista    | 1:07:47 minutos                                                                                                                                                                                                                                                                                                                       |
 
 Resumen:
 
@@ -235,14 +257,14 @@ Entrevistado 1:
     <img src="/assets/chapter02/Interviews/Interview1.jpeg">
 </div>
 
-| Nombre               | Ximena                                                                                                                                                                                                                                                                                                                                |
-|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Falckenheiner                                                                                                                                                                                                                                                                                                                         |
-| Edad                 | 23 años                                                                                                                                                                                                                                                                                                                               |
-| Distrito             | Jesús María                                                                                                                                                                                                                                                                                                                           |
-| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
-| Inicio de entrevista | 1:08:00 minutos                                                                                                                                                                                                                                                                                                                       |
-| Fin de entrevista    | 1:14:26 minutos                                                                                                                                                                                                                                                                                                                       |
+| Nombre               | Ximena                                                                                                                                                                                                                                                                                                                                                                             |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Falckenheiner                                                                                                                                                                                                                                                                                                                                                                      |
+| Edad                 | 23 años                                                                                                                                                                                                                                                                                                                                                                            |
+| Distrito             | Jesús María                                                                                                                                                                                                                                                                                                                                                                        |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                              |
+| Inicio de entrevista | 1:08:00 minutos                                                                                                                                                                                                                                                                                                                                                                    |
+| Fin de entrevista    | 1:14:26 minutos                                                                                                                                                                                                                                                                                                                                                                    |
 
 Resumen:
 
@@ -260,14 +282,14 @@ Entrevistado 2:
 </div>
 
 
-| Nombre               | Alejandra       |
-|----------------------|-----------------|
-| Apellido             | Chavez          |
-| Edad                 | 20 años         |
-| Distrito             | Lince           |
-| URL                  |   [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)               |
-| Inicio de entrevista | 1:14:27 minutos |
-| Fin de entrevista    | 1:24:13 minutos |
+| Nombre               | Alejandra                                                                                                                                                                                                                                                                                                                             |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Chavez                                                                                                                                                                                                                                                                                                                                |
+| Edad                 | 20 años                                                                                                                                                                                                                                                                                                                               |
+| Distrito             | Lince                                                                                                                                                                                                                                                                                                                                 |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Inicio de entrevista | 1:14:27 minutos                                                                                                                                                                                                                                                                                                                       |
+| Fin de entrevista    | 1:24:13 minutos                                                                                                                                                                                                                                                                                                                       |
 
 **Resumen:**
 
@@ -315,7 +337,7 @@ de la pandemia debido a problemas de sueño, estrés y
 ansiedad. Además, mencionó que su psicólogo le envía
 mensajes de texto para recordarle la información y los
 acuerdos de la sesión anterior. Lleva un control de sus
-sesiones y tratamiento.Finalmente, brindó observaciones
+sesiones y tratamiento. Finalmente, brindó observaciones
 sobre otras plataformas que ha experimentado. Comentó que
 eran accesibles, amigables y buenas para una gestión
 adecuada, pero que eran muy malas en el redireccionamiento
@@ -331,14 +353,9 @@ con las siguientes ideas:
 
 Se procede a recopilar las estadísticas de las respuestas de los
 entrevistados para representarlas mediante gráficos proporcionados
-por las entrevistas
-
-### 2.2.3 Análisis de entrevistas
-
-Se procede a recopilar las estadísticas de las respuestas de los
-entrevistados para representarlas mediante gráficos proporcionados
 por la herramienta, Google Forms.
-- **Segmento 1: Medicos de la salud mental:**
+
+- **Segmento 1: Medicos de la salud mental  **
 
 Según los datos que hemos analizado, se observa que una mayoría
 significativa de los médicos, un 66.7%, son de género masculino.
@@ -350,11 +367,14 @@ lado, es interesante destacar que todos ellos prefieren utilizar
 sus celulares como su herramienta principal para el trabajo y la
 comunicación.
 
-![AL-medic1.jpg](/assets/chapter02/statistics/Mental%20Medic/AL-medic1.jpg)
-![AL-medic2.jpg](/assets/chapter02/statistics/Mental%20Medic/AL-medic2.jpg)
-![AL-medic3.jpg](/assets/chapter02/statistics/Mental%20Medic/AL-medic3.jpg)
-![AL-medic4.jpg](/assets/chapter02/statistics/Mental%20Medic/AL-medic4.jpg)
-![Al-medic5.jpg](/assets/chapter02/statistics/Mental%20Medic/Al-medic5.jpg)
+<p align="center">
+  <img src="assets/chapter02/statistics/Mental%20Medic/AL-medic1.jpg" style="width:800px; height:auto;">
+  <img src="assets/chapter02/statistics/Mental%20Medic/AL-medic2.jpg" style="width:800px; height:auto;">
+  <img src="assets/chapter02/statistics/Mental%20Medic/AL-medic3.jpg" style="width:800px; height:auto;">
+  <img src="assets/chapter02/statistics/Mental%20Medic/AL-medic4.jpg" style="width:800px; height:auto;">
+  <img src="assets/chapter02/statistics/Mental%20Medic/Al-medic5.jpg" style="width:800px; height:auto;">
+</p>
+
 - **Segmento 2: Pacientes**
 
 Según los datos recolectados para el análisis de nuestro segmento
@@ -366,10 +386,12 @@ herramientas tecnológicas que prefieren utilizar, no muestran una
 inclinación marcada hacia un solo dispositivo, ya que usan en gran
 medida celulares y laptops, aunque las tablets también son utilizadas
 con frecuencia.
-![Al-Pat1.png](/assets/chapter02/statistics/Patients/Al-Pat1.png)
-![Al-pat2.png](/assets/chapter02/statistics/Patients/Al-pat2.png)
-![Al-pat3.png](/assets/chapter02/statistics/Patients/Al-pat3.png)
-![Al-pat4.png](/assets/chapter02/statistics/Patients/Al-pat4.png)
+<p align="center">
+  <img src="assets/chapter02/statistics/Patients/Al-Pat1.png" style="width:800px; height:auto;">
+  <img src="assets/chapter02/statistics/Patients/Al-pat2.png" style="width:800px; height:auto;">
+  <img src="assets/chapter02/statistics/Patients/Al-pat3.png" style="width:800px; height:auto;">
+  <img src="assets/chapter02/statistics/Patients/Al-pat4.png" style="width:800px; height:auto;">
+</p>
 
 ## 2.3 Needfinding:
 Después de realizar las entrevistas, logramos recopilar información
@@ -397,13 +419,17 @@ expectativas de nuestros usuarios.
 
 **Segmento Objetivo: Profesional de la salud mental**
 
-![So-Mental Medic.png](/assets/chapter02/Segments/So-Mental%20Medic.png)
+<p align="center">
+  <img src="assets/chapter02/Segments/So-Mental%20Medic.png" style="width:800px; height:auto;">
+</p>
 
 **Segmento Objetivo: Paciente**
 
-![So-Patient.png](/assets/chapter02/Segments/So-patient.png)
+<p align="center">
+  <img src="assets/chapter02/Segments/So-patient.png" style="width:800px; height:auto;">
+</p>
 
-## **User Task Matrix**
+### 2.3.2. User Task Matrix
 
 En esta sección se presenta el **User Task Matrix**, que concentra las tareas que los User Persona (que representan a cada segmento) realizan para cumplir sus objetivos. No se deben confundir tareas (tasks) con opciones o características de software, pues las tareas deben ser realizadas por los segmentos independientemente de la existencia de la solución de software.
 
@@ -434,7 +460,7 @@ En esta sección se presenta el **User Task Matrix**, que concentra las tareas q
 
 ---
 
-### **Análisis de la Matriz**
+**Análisis de la Matriz**
 
 En la matriz presentada, se pueden observar las siguientes tareas con mayor frecuencia e importancia:
 
@@ -449,30 +475,50 @@ En la matriz presentada, se pueden observar las siguientes tareas con mayor frec
 Las coincidencias entre los segmentos destacan la importancia de una solución integrada que facilite la gestión tanto para médicos como para pacientes. Las principales diferencias se reflejan en la naturaleza de las tareas, donde los médicos tienen un enfoque más administrativo y clínico, mientras que los pacientes se centran en la gestión personal de su atención médica.
 
 
-## **User Journey Mapping**
+### 2.3.4. User Journey Mapping 
 
 El User Journey Mapping se desarrolló para comprender la experiencia de los usuarios al interactuar con nuestra plataforma. Este mapeo detalla cada paso que el usuario realiza, los obstáculos que puede encontrar, y las emociones que surgen en el proceso. Así, nos ayuda a identificar oportunidades para mejorar la usabilidad y satisfacción del usuario.
 
 
-### **Segmento 1: Profesionales de la salud mental**
-![UJMMedic](/assets/chapter02/Graphics/UJMMedico.png)
-### **Segmento 2: Pacientes**
-![UJMPatient](/assets/chapter02/Graphics/UJMPaciente.png)
+**Segmento 1: Profesionales de la salud mental**
 
-## **Emphaty Mapping**
+<p align="center">
+  <img src="assets/chapter02/Graphics/UJMMedico.png"  style="width:800px; height:auto;">
+</p>
 
+**Segmento 2: Pacientes**
+
+<p align="center">
+  <img src="assets/chapter02/Graphics/UJMPaciente.png"  style="width:800px; height:auto;">
+</p>
+
+### 2.3.4. Emphaty Mapping
 
 Para la creación del Empathy Map, hemos utilizado la información obtenida de nuestros dos User Personas que representan nuestro segmento objetivo. Este mapa nos permite profundizar en la comprensión de las necesidades, pensamientos, emociones y comportamientos de los usuarios, ayudándonos a diseñar soluciones más alineadas con sus expectativas y experiencias reales.
 
+**Segmento 1: Profesionales de la salud mental**
 
-### **Segmento 1: Profesionales de la salud mental**
-![EMMedic](/assets/chapter02/Graphics/EMMedico.png)
+<p align="center">
+  <img src="assets/chapter02/Graphics/EMMedico.png"  style="width:800px; height:auto;">
+</p>
+
 ### **Segmento 2: Pacientes**
-![EMPatient](/assets/chapter02/Graphics/EMPaciente.png)
 
+<p align="center">
+  <img src="assets/chapter02/Graphics/EMPaciente.png"  style="width:800px; height:auto;">
+</p>
 
 ### 2.3.5 As-is Scenario Mapping
 - **Segmento objetivo:** Profesionales de la salud
-  ![as-is1](/assets/chapter02/Graphics/AS-IS%20Pisquiatra.jpg)
+
+<p align="center">
+  <img src="assets/chapter02/Graphics/AS-IS%20Pisquiatra.jpg"  style="width:800px; height:auto;">
+</p>
+
 - **Segmento objetivo:** Pacientes    
-  ![as-is2](/assets/chapter02/Graphics/AS-IS%20Cliente.jpg)
+
+<p align="center">
+  <img src="assets/chapter02/Graphics/AS-IS%20Cliente.jpg"  style="width:800px; height:auto;">
+</p>
+
+## 2.4. Ubiquitous Language
