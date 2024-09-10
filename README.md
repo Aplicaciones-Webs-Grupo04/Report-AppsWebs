@@ -242,7 +242,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         insert text here
         <br><br>
         Javier, Mathias:
-        insert text here
+        Colaboré desarrollando los diseños de la web application, de esta manera dandonos un enfoque a como nos orientaremos para nuestra web application  poder entrear un mejor producto a nuestros usuarios y/o clentes. Todo por medio de la herramiento Figma, desarrollando los wiireframes, mock-ups yy sus respectivos wiireflows.
         <br><br>
         Luza, Jose:
         Colaboré estrechamente con el equipo para definir estrategias de desarrollo y asumir roles de liderazgo compartido, asegurando que todos participaran en la planificación y ejecución de cada etapa del proyecto. Esto incluyó facilitar discusiones, coordinar reuniones y tomar decisiones conjuntas sobre la implementación de herramientas como el Lean UX Canvas, lo que nos permitió alinear objetivos y optimizar nuestro enfoque de diseño.
@@ -266,7 +266,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         insert text here
         <br><br>
         Javier, Mathias:
-        insert text here
+        Cree un ambiente de trabajo inclusivo y colaborativo, apoyando con ideas en las reuniones de revision de avances, de igual manera apoyando a mis compañeros de equipo cuando no podian realizar alguna actividad o se les dificultaba, brindandoles mi apoyo. De esta manera garantizando calidad y eficiencia al proyecto que realizamos como equipo.
         <br><br>
         Luza, Jose:
         Creé un ambiente de trabajo inclusivo y dinámico al establecer objetivos claros y dividir las tareas según las fortalezas de cada miembro del equipo. Me encargué de especificar los requisitos en el Product Backlog, diseñar los sistemas de organización, etiquetado, SEO, búsqueda y navegación, y de proporcionar evidencias del desarrollo, pruebas y despliegue de software durante las revisiones de cada sprint, garantizando así que alcanzáramos los resultados esperados con calidad y eficiencia.
