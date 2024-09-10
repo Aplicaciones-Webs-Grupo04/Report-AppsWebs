@@ -139,9 +139,9 @@ Para acceder al contenido de la organización en GitHub, haz clic en el siguient
     - [1.2.2.4. Lean UX Canvas](/chapter01.md#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](/chapter01.md#13-segmentos-objetivos)
 
-### [Capítulo II: Requirements Elicitation & Analysis](#capc3adtulo-ii-requirements-elicitation--analysis-1)
-- [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+### [Capítulo II: Requirements Elicitation & Analysis](/chapter02.md)
+- [2.1. Competidores](/chapter02.md#21-competidores)
+    - [2.1.1. Análisis competitivo](/chapter02.md#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
 - [2.2. Entrevistas](#22-entrevistas)
     - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
@@ -154,11 +154,11 @@ Para acceder al contenido de la organización en GitHub, haz clic en el siguient
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 
-### [Capítulo III: Requirements Specification](#capc3adtulo-iii-requirements-specification-1)
-- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-- [3.2. User Stories](#32-user-stories)
-- [3.3. Impact Mapping](#33-impact-mapping)
-- [3.4. Product Backlog](#34-product-backlog)
+### [Capítulo III: Requirements Specification](/chapter03.md)
+- [3.1. To-Be Scenario Mapping](/chapter03.md#31-to-be-scenario-mapping)
+- [3.2. User Stories](/chapter03.md#32-user-stories)
+- [3.3. Impact Mapping](/chapter03.md#33-impact-mapping)
+- [3.4. Product Backlog](/chapter03.md#34-product-backlog)
 
 ### [Capítulo IV: Product Design](#capc3adtulo-iv-product-design-1)
 - [4.1. Style Guidelines](#41-style-guidelines)
@@ -211,7 +211,6 @@ Para acceder al contenido de la organización en GitHub, haz clic en el siguient
 
 ### [Bibliografía](#bibliografc3ada-1)
 ### [Anexos](#anexos-1)
-
 
 ---
 # Student Outcome
