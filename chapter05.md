@@ -500,7 +500,7 @@ Para este primer entregable, hemos elaborado la Landing Page del proyecto de "Ps
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-En el presente sprint solo se desarrollo la Landing Page.
+En el presente sprint solo se desarrolló la Landing Page.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -517,5 +517,15 @@ Después de crear el repositorio, accedemos a la configuración y seleccionamos 
 ## Conclusiones
 
 ## Referencias bibliográficas
+
+Contributors, M. o. J. T. A. B. (s. f.). Bootstrap. https://getbootstrap.com/
+
+Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/
+
+Figma Community: Explore templates, plugins, and widgets published by the community. (s. f.). Figma. https://www.figma.com/community
+
+Free Line Icons for Designers and Developers - Lineicons. (2021, 23 mayo). Lineicons. https://lineicons.com/
+
+Pallerols, X. M. (2022, 18 noviembre). Qué es el Responsive Design y por qué tu web debería serlo. Thinking For Innovation. https://www.iebschool.com/blog/que-es-responsive-web-design-analitica-usabilidad/
 
 ## Anexos
