@@ -270,7 +270,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         Lizano, Fernando: 
         Fomenté un entorno colaborativo e inclusivo al diseñar la landing page, integrando las opiniones y sugerencias de los miembros del equipo para asegurar una representación coherente y consensuada del proyecto. También apliqué el formato APA en todo el proyecto, estandarizando y organizando el contenido del informe, lo que facilitó la revisión y comprensión del trabajo por parte de todos los integrantes, asegurando el cumplimiento de las metas y la planificación eficiente de las tareas.        Maita, Romina:
-        insert text here
+        Realicé las entrevistas a los segmentos objetivos, aporté en el diseño de los mock ups, diseñe el Impact Mapping y diseñe el diagrama de clases, base de datos y finalmente el Software Development Environment Configuration.
         <br><br>
         Riega, José:
         insert text here
