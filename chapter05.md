@@ -452,6 +452,94 @@ una de las tareas identificadas para el sprint.
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit ID</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="10"><a href="https://github.com/Aplicaciones-Webs-Grupo04/Landing-Page_AppsWebs" target="_blank" rel="noopener noreferrer">https://github.com/Aplicaciones-Webs-Grupo04/Landing-Page_AppsWebs</a></td>
+      <td>main</td>
+      <td>5822f1b</td>
+      <td>refactor: change the icon font</td>
+      <td>Updated the icon font across the project for consistency</td>
+      <td>09/09/2024</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>61ec5e7</td>
+      <td>Merge branch 'develop'</td>
+      <td>Merged latest changes from 'develop' into the main branch</td>
+      <td>07/09/2024</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>532624b</td>
+      <td>refactor: change the icon color</td>
+      <td>Adjusted icon colors for better accessibility</td>
+      <td>06/09/2024</td>
+    </tr>
+    <tr>
+      <td>animated</td>
+      <td>04ffc4b</td>
+      <td>fix(animated): fix charge bug</td>
+      <td>Resolved the charge bug affecting animations</td>
+      <td>05/09/2024</td>
+    </tr>
+    <tr>
+      <td>index</td>
+      <td>199dd7a</td>
+      <td>fix(index): fixed document not found error in the contact section</td>
+      <td>Corrected the error caused by missing documents in the contact section</td>
+      <td>03/09/2024</td>
+    </tr>
+    <tr>
+      <td>index</td>
+      <td>e8327d</td>
+      <td>fix(index): fixed error when sending a message in the contact section</td>
+      <td>Fixed the bug that prevented messages from being sent</td>
+      <td>03/09/2024</td>
+    </tr>
+    <tr>
+      <td>index</td>
+      <td>0782e0</td>
+      <td>fix(index): fixed error when searching for a file in the blog section</td>
+      <td>Resolved file search issues in the blog section</td>
+      <td>03/09/2024</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>dfd1456</td>
+      <td>refactor(main): remove unnecessary code from script</td>
+      <td>Cleaned up and optimized JavaScript code</td>
+      <td>02/09/2024</td>
+    </tr>
+    <tr>
+      <td>animated</td>
+      <td>73b7cf0</td>
+      <td>style(animated): change the order</td>
+      <td>Modified the order of animated elements</td>
+      <td>02/09/2024</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>0f91ee4</td>
+      <td>style(main): add styles for contact area</td>
+      <td>Added CSS styles for the contact area</td>
+      <td>02/09/2024</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 Para la entrega de este primer Sprint se realizó el desarrollo de la Landing Page. Por ello, en esta sección se centro en la implementación de los archivos feature, basados en User Stories, que contiene nuestro landing page.
