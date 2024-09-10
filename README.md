@@ -241,12 +241,12 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         insert text here
         <br><br>
         Luza, Jose:
-        insert text here
+        Colaboré estrechamente con el equipo para definir estrategias de desarrollo y asumir roles de liderazgo compartido, asegurando que todos participaran en la planificación y ejecución de cada etapa del proyecto. Esto incluyó facilitar discusiones, coordinar reuniones y tomar decisiones conjuntas sobre la implementación de herramientas como el Lean UX Canvas, lo que nos permitió alinear objetivos y optimizar nuestro enfoque de diseño.
         <br><br>
         Lizano, Fernando: 
         Preparé la estructura organizativa en GitHub, encargándome de la creación de repositorios y ramas, lo que estableció un marco sólido y ordenado para el desarrollo del proyecto. Además, apoyé en la coordinación y avance de los capítulos 3 y 4, asegurando que el equipo cumpliera con los objetivos establecidos dentro de los plazos acordados, contribuyendo así a un liderazgo compartido y eficaz dentro del grupo.        <br><br>
         Maita, Romina:
-        insert text here
+        Colaboré con el equipo manteniendo una comunicación activa y ayude a planificar las tareas designadas para cada integrante.
         <br><br>
         Riega, José:
         insert text here
@@ -265,13 +265,13 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         insert text here
         <br><br>
         Luza, Jose:
-        insert text here
+        Creé un ambiente de trabajo inclusivo y dinámico al establecer objetivos claros y dividir las tareas según las fortalezas de cada miembro del equipo. Me encargué de especificar los requisitos en el Product Backlog, diseñar los sistemas de organización, etiquetado, SEO, búsqueda y navegación, y de proporcionar evidencias del desarrollo, pruebas y despliegue de software durante las revisiones de cada sprint, garantizando así que alcanzáramos los resultados esperados con calidad y eficiencia.
         <br><br>
         Lizano, Fernando: 
         Fomenté un entorno colaborativo e inclusivo al diseñar la landing page, integrando las opiniones y sugerencias de los miembros del equipo para asegurar una representación coherente y consensuada del proyecto. También apliqué el formato APA en todo el proyecto, estandarizando y organizando el contenido del informe, lo que facilitó la revisión y comprensión del trabajo por parte de todos los integrantes, asegurando el cumplimiento de las metas y la planificación eficiente de las tareas.       
         <br><br>
         Maita, Romina:
-        Realicé las entrevistas a los segmentos objetivos, aporté en el diseño de los mock ups, diseñe el Impact Mapping y diseñe el diagrama de clases, base de datos y finalmente el Software Development Environment Configuration.
+        Cumplí con los objetivos individuales planificados realizando las siguientes tareas: realicé las entrevistas a los segmentos objetivos, aporté en el diseño de los mock ups, diseñe el Impact Mapping y diseñe el diagrama de clases, base de datos y finalmente el Software Development Environment Configuration.
         <br><br>
         Riega, José:
         insert text here
