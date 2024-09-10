@@ -532,3 +532,15 @@ Free Line Icons for Designers and Developers - Lineicons. (2021, 23 mayo). Linei
 Pallerols, X. M. (2022, 18 noviembre). Qué es el Responsive Design y por qué tu web debería serlo. Thinking For Innovation. https://www.iebschool.com/blog/que-es-responsive-web-design-analitica-usabilidad/
 
 ## Anexos
+
+[Entrevistas: Aquí se encuentran las entrevistas realizadas para cada segmento](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+[Video: Aquí se encuentra el video]()
+
+[Landing Page Desplegada: Link de la landing page desplegada en GitHub Pages](https://aplicaciones-webs-grupo04.github.io/Landing-Page_AppsWebs/)
+
+Github:
+
+Trello:
+
+Figma:
