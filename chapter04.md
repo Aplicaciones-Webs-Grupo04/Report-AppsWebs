@@ -436,9 +436,42 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 <img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/8fda27faaba09aec0db60ecd63de4db12d4080dd/assets/WireflowWireframe.PNG" style="width:100%">
+
 ### 4.4.2. Web Applications Mock-ups
 
+**MockUp del Home:**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/HOME.png" style="width:100%">
+**MockUp del Register:**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/REGISTER.png" style="width:100%">
+**MockUp del Login:**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/LOGIN.png" style="width:100%">
+**MockUp del Cambio de Contraseña:**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/Cambio%20de%20contrase%C3%B1a.png" style="width:100%">
+**MockUp del Home Psiquiatras**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/Group%2025.png" style="width:100%">
+**MockUp del Perfil**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/Perfil.png" style="width:100%">
+**MockUp del Agregar Pacientes**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/Agregar%20paciente.png" style="width:100%">
+**MockUp del Lista Pacientes**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/Group%2024.png" style="width:100%">
+**MockUp del Configuracion de Pacientes**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/Group%2026.png" style="width:100%">
+**MockUp del Citas**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/Citas-1.png" style="width:100%">
+**MockUp del Agenda**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/Agenda.png" style="width:100%">
+**MockUp del Citas**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/Citas.png" style="width:100%">
+**MockUp del Datos del Paciente**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/datos%20del%20paciente.png" style="width:100%">
+**MockUp de la lista**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/Group%2024.png" style="width:100%">
+**MockUp del Test Interdiario**
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/4767846804f615668c43cdec357c1187d73288bd/assets/Test%20Interidario.png" style="width:100%">
+
 ### 4.4.3. Web Applications User Flow Diagrams
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/49f2d9297c53286fc885cd7ae5a9012c17c3eab4/assets/WireflowMockUps.PNG" style="width:100%">
 
 ## 4.5. Web Applications Prototyping
 
