@@ -142,17 +142,17 @@ Para acceder al contenido de la organización en GitHub, haz clic en el siguient
 ### [Capítulo II: Requirements Elicitation & Analysis](/chapter02.md)
 - [2.1. Competidores](/chapter02.md#21-competidores)
     - [2.1.1. Análisis competitivo](/chapter02.md#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-- [2.2. Entrevistas](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-- [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2. User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+    - [2.1.2. Estrategias y tácticas frente a competidores](/chapter02.md#212-estrategias-y-tácticas-frente-a-competidores)
+- [2.2. Entrevistas](/chapter02.md#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](/chapter02.md#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](/chapter02.md#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](/chapter02.md#223-análisis-de-entrevistas)
+- [2.3. Needfinding](/chapter02.md#23-needfinding)
+    - [2.3.1. User Personas](/chapter02.md#231-user-persona)
+    - [2.3.2. User Task Matrix](/chapter02.md#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](/chapter02.md#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](/chapter02.md#234-emphaty-mapping)
+    - [2.3.5. As-is Scenario Mapping](/chapter02.md#235-as-is-scenario-mapping)
 
 ### [Capítulo III: Requirements Specification](/chapter03.md)
 - [3.1. To-Be Scenario Mapping](/chapter03.md#31-to-be-scenario-mapping)
@@ -206,11 +206,15 @@ Para acceder al contenido de la organización en GitHub, haz clic en el siguient
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](/chapter05.md#5218-team-collaboration-insights-during-sprint)
 
-### [Conclusiones](#conclusiones-1)
-- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+### [Conclusiones](/chapter05.md)
+- [Conclusiones y recomendaciones](/chapter05.md#conclusiones)
+- [Video About the Team](/chapter05.md)
 
-### [Bibliografía](#bibliografc3ada-1)
-### [Anexos](#anexos-1)
+### [Bibliografía](/chapter05.md)
+- [Referencias bibliográficas](/chapter05.md#referencias-bibliográficas)
+
+### [Anexos](/chapter05.md)
+- [Anexos](/chapter05.md#anexos)
 
 ---
 # Student Outcome
