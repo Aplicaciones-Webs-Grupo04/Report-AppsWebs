@@ -489,7 +489,7 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 La siguiente imagen representa el diagrama de clases, junto con la relación entre clases en función al proyecto.
 
 <p align="center">
-  <img src="assets/chapter04/database/classdiagram.jpeg" style="width:800px; height:auto;">
+  <img src="assets/chapter04/classdiagrams/classdiagram.jpeg" style="width:800px; height:auto;">
 </p>
 
 A continuación, una descripción detallada de las tablas y relaciones en la base de datos:
