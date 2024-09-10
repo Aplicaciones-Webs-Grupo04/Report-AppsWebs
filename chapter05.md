@@ -539,8 +539,8 @@ Pallerols, X. M. (2022, 18 noviembre). Qué es el Responsive Design y por qué t
 
 [Landing Page Desplegada: Link de la landing page desplegada en GitHub Pages](https://aplicaciones-webs-grupo04.github.io/Landing-Page_AppsWebs/)
 
-Github:
+[Github: Link de la Organización del proyecto creada en GitHub:](https://github.com/orgs/Aplicaciones-Webs-Grupo04/repositories)
 
-Trello:
+[Trello: Link del trello para la repartición de tareas](https://trello.com/invite/b/66c7b03600da2cf712927e84/ATTIbadabe6159d90d2f615ab9ae602eb3763DC0AF14/app-web)
 
-Figma:
+[Figma: Link del figma, donde se elaboró todos los wireframes, mockups, etc.](https://www.figma.com/design/WdMYexswCo2IFZE3tdsAJs/Open-Source-y-App-Web?node-id=2001-1221&t=TaobC3sKlo2d1Iqs-1)
