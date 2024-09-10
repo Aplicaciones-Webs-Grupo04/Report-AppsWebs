@@ -514,6 +514,8 @@ Después de crear el repositorio, accedemos a la configuración y seleccionamos 
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-# Conclusiones 
+## Conclusiones
 
-# Bibliografia
+## Referencias bibliográficas
+
+## Anexos
