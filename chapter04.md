@@ -435,7 +435,7 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 <img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/ce9cc67f9beb003f0cb8bb7f615355c3328783f2/assets/Test%20Interidario.png" style="width:100%">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-
+<img src="https://github.com/Aplicaciones-Webs-Grupo04/Report-AppsWebs/blob/8fda27faaba09aec0db60ecd63de4db12d4080dd/assets/WireflowWireframe.PNG" style="width:100%">
 ### 4.4.2. Web Applications Mock-ups
 
 ### 4.4.3. Web Applications User Flow Diagrams
