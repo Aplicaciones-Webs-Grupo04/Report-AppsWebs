@@ -487,7 +487,35 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 ![C4Model](assets/ContainerDiagram.png)
 
-### 4.6.3. Software Architecture Components Diagrams.
+### 4.6.3. Software Architecture Components Diagrams
+
+#### Bounded Context Access Diagram
+
+![C4Model](assets/ComponentDiagramAccess.png)
+
+#### Bounded Context Sessions Management Diagram
+
+![C4Model](assets/ComponentDiagramSession.png)
+
+#### Bounded Context Task Management Diagram
+
+![C4Model](assets/ComponentDiagramTask.png)
+
+#### Bounded Context Clinical Management Diagram
+
+![C4Model](assets/ComponentDiagramClinical.png)
+
+#### Bounded Context Tracking Diagram
+
+![C4Model](assets/ComponentDiagramTracking.png)
+
+#### Bounded Context Payment Diagram
+
+![C4Model](assets/ComponentDiagramPayment.png)
+
+#### Bounded Context Communication Diagram
+
+![C4Model](assets/ComponentDiagramCommunication.png)
 
 ## 4.7. Software Object-Oriented Design.
 
