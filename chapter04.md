@@ -480,9 +480,12 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 #### System Context Diagram
 
 ![C4Model](assets/ContextDiagram.png  )
-### 4.6.1. Software Architecture Context Diagram.
 
-### 4.6.2. Software Architecture Container Diagrams.
+### 4.6.2. Software Architecture Container Diagrams
+
+#### Container Diagram
+
+![C4Model](assets/ContainerDiagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
