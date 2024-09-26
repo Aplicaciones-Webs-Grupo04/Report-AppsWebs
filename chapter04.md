@@ -475,8 +475,11 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 ## 4.5. Web Applications Prototyping
 
-## 4.6. Domain-Driven Software Architecture
+### 4.6.1. Software Architecture Context Diagram
 
+#### System Context Diagram
+
+![C4Model](assets/ContextDiagram.png  )
 ### 4.6.1. Software Architecture Context Diagram.
 
 ### 4.6.2. Software Architecture Container Diagrams.
