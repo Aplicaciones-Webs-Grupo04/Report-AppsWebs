@@ -296,7 +296,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         En este proyecto, trabajé en equipo para proporcionar un liderazgo compartido que beneficiara a todos. Contribuí al desarrollo del dashboard, una herramienta clave que facilitó la comunicación y el seguimiento del progreso del proyecto, promoviendo un enfoque colaborativo entre los miembros del equipo.  
         <br><br>
         Maita, Romina:
-        insert text here 
+        Aporté usando mi habilidad de liderazgo en esta entrega ya que estuve pendiente del equipo y orgnizando las reuniones para asignas las tareas pendientes. 
         <br><br>
         Riega, José:
         insert text here
@@ -342,7 +342,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         Para fomentar un entorno colaborativo e inclusivo, reorganicé el informe del Sprint 2 y elaboré la presentación en Canva. Estas acciones ayudaron a establecer metas claras y facilitaron la planificación de tareas, asegurando que todos los integrantes del equipo estuvieran alineados y comprometidos con nuestros objetivos.         
         <br><br>
         Maita, Romina:
-        insert text here 
+        En el transcurso del proyecto utilicé herramientas como Trello o Discord para organizar los avances y planificar el código de acuerdo a nuestros Bounded Context. 
         <br><br>
         Riega, José:
         insert text here
