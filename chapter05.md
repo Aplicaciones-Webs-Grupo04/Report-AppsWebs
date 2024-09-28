@@ -887,6 +887,9 @@ Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y
 
 **Commits:**
 
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint2/insights_front.png"  style="width:800px; height:auto;" alt="">
+</p>
 
 ## Conclusiones
 
