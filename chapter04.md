@@ -475,13 +475,50 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 ## 4.5. Web Applications Prototyping
 
+
 ## 4.6. Domain-Driven Software Architecture
 
-### 4.6.1. Software Architecture Context Diagram.
+### 4.6.1. Software Architecture Context Diagram
 
-### 4.6.2. Software Architecture Container Diagrams.
+#### System Context Diagram
 
-### 4.6.3. Software Architecture Components Diagrams.
+![C4Model](assets/ContextDiagram.png  )
+
+### 4.6.2. Software Architecture Container Diagrams
+
+#### Container Diagram
+
+![C4Model](assets/ContainerDiagram.png)
+
+### 4.6.3. Software Architecture Components Diagrams
+
+#### Bounded Context Access Diagram
+
+![C4Model](assets/ComponentDiagramAccess.png)
+
+#### Bounded Context Sessions Management Diagram
+
+![C4Model](assets/ComponentDiagramSession.png)
+
+#### Bounded Context Task Management Diagram
+
+![C4Model](assets/ComponentDiagramTask.png)
+
+#### Bounded Context Clinical Management Diagram
+
+![C4Model](assets/ComponentDiagramClinical.png)
+
+#### Bounded Context Tracking Diagram
+
+![C4Model](assets/ComponentDiagramTracking.png)
+
+#### Bounded Context Payment Diagram
+
+![C4Model](assets/ComponentDiagramPayment.png)
+
+#### Bounded Context Communication Diagram
+
+![C4Model](assets/ComponentDiagramCommunication.png)
 
 ## 4.7. Software Object-Oriented Design.
 
