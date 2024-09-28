@@ -261,7 +261,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         Colaboré con el equipo manteniendo una comunicación activa y ayude a planificar las tareas designadas para cada integrante.
         <br><br>
         Riega, José:
-        insert text here
+        Colaboré desde la estructura del primer capitulo, asi como en el 3 y 4, teniendo en cuentas los plazos designados para cada integrante del equipo.
  TB1:   
         <br><br>
         Ccotarma, Sihuar:
@@ -279,7 +279,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         Colaboré con el equipo manteniendo una comunicación activa y ayude a planificar las tareas designadas para cada integrante.
         <br><br>
         Riega, José:
-        insert text here
+        Seguí y acote las ordenes designadas a mi persona durante esta entrega, planificando con eficacia y ayudando a demás integrantes del grupo.
         <br><br>
         TP1:   
         <br><br>
@@ -299,7 +299,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         Aporté usando mi habilidad de liderazgo en esta entrega ya que estuve pendiente del equipo y orgnizando las reuniones para asignas las tareas pendientes. 
         <br><br>
         Riega, José:
-        insert text here
+       En esta entrega, me encargue del task-management y realicé las tares que se me tenian asignadas en el tiempo de plazo correcto, haciendo asi eñ task-dashboard con la mejor eficiencia.
       </td>
       <td>TB1: En esta primera entrega del proyecto Psymed, el equipo demostró una capacidad efectiva de liderazgo compartido al colaborar en la definición de la solución propuesta y en el desarrollo de los cuatro primeros capítulos del proyecto. La organización y gestión a través de GitHub, utilizando la metodología Gitflow y Conventional Commits, permitieron mantener un control riguroso sobre el progreso del proyecto. La colaboración en la planificación y ejecución de tareas, como la creación de repositorios y ramas, y la definición de herramientas clave como User Stories y Product Backlog, fueron esenciales para asegurar que el equipo trabajara de manera cohesiva, alcanzando los objetivos dentro de los plazos establecidos. <br><br> 
           TP1: El trabajo en equipo ha sido fundamental para el éxito del proyecto, ya que se ha fomentado un ambiente de colaboración en el que cada miembro aporta sus fortalezas y habilidades. A través de una comunicación abierta y efectiva, se ha logrado establecer un liderazgo compartido que impulsa la innovación y la creatividad. Este enfoque ha permitido no solo abordar los desafíos de manera más eficiente, sino también construir un sentido de pertenencia y compromiso entre todos los integrantes del equipo.</td>
@@ -325,7 +325,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         Cumplí con los objetivos individuales planificados realizando las siguientes tareas: realicé las entrevistas a los segmentos objetivos, aporté en el diseño de los mock ups, diseñe el Impact Mapping y diseñe el diagrama de clases, base de datos y finalmente el Software Development Environment Configuration.
         <br><br>
         Riega, José:
-        insert text here
+        as
         <br><br>
         TP1:   
         <br><br>
@@ -345,7 +345,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         En el transcurso del proyecto utilicé herramientas como Trello o Discord para organizar los avances y planificar el código de acuerdo a nuestros Bounded Context. 
         <br><br>
         Riega, José:
-        insert text here
+        Para poder lograr el entorno deseado, oeganié mis tareas desde el primer dia de ser asignadas en tiempos coherentes para cada una, usando herramientas como trello para asegurarme de tener un seguimiento efectivo en las mismas. Así logramos poder tener una armoniosa convivencia.
       </td>
       <td>TB1: El equipo de Psymed logró crear un entorno colaborativo e inclusivo mediante la integración de diversas perspectivas en el diseño y desarrollo de los mockups y prototipos de la página de inicio. A través del análisis Lean UX y la definición del segmento objetivo, se establecieron metas claras que guiaron la planificación de tareas. La implementación de la landing page utilizando tecnologías como HTML, CSS, JS y herramientas de apoyo como Bootstrap y LineIcons, demostró la capacidad del equipo para cumplir con los objetivos planteados. Además, el uso del Sprint Backlog permitió un seguimiento efectivo del progreso, asegurando que cada tarea se completara según lo planificado, lo que resultó en una entrega exitosa y bien organizada del proyecto. <br><br> 
           TP1: Se ha trabajado diligentemente para crear un entorno colaborativo e inclusivo que valore la diversidad de ideas y perspectivas. Al establecer metas claras y específicas, se ha facilitado la planificación de tareas, permitiendo que cada miembro del equipo comprenda su rol en el logro de los objetivos comunes. Este enfoque estructurado ha promovido la responsabilidad individual y colectiva, asegurando que todos contribuyan al avance del proyecto de manera efectiva y sinérgica. </td>
