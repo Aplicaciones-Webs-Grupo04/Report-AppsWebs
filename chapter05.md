@@ -447,7 +447,6 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
 </tr>
 </table>
 
-
 ### 5.2.1.3. Development Evidence for Sprint Review
 
 <table>
@@ -658,6 +657,56 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
 
     
 ### 5.2.2.2. Sprint Backlog 2
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">US02</td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Añadir información relevante de la aplicación</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Fernando,Romina,Sihuar,Jose, Mathias,Jose Miguel</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US03</td>
+    <td colspan="2">Visualización de imágenes y gráficos relevantes</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Añadir imágenes y gráficos relevantes</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Sihuar,Fernando,Romina</td>
+    <td colspan="1">Done</td>
+<tr>
+    <td colspan="1">US04</td>
+    <td colspan="2">Tipografía cómoda y agradable estéticamente</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir una tipografía fácil de leer y con un tamaño adecuado</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Jose, Mathias,Jose Miguel</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
 ### 5.2.2.3. Development Evidence for Sprint Review
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
 ### 5.2.1.5. Execution Evidence for Sprint Review
