@@ -287,7 +287,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         En este entregable, colaboré con el equipo en la definición de segmentos objetivos, journey mapping y empathy maps, creando un entorno inclusivo. Contribuí al desarrollo de user personas, wireframes, mockups, prototipos y user flows. También planificamos y cumplimos metas mediante la creación del labeling y organization system, y participé en el Sprint 1 para lograr los objetivos establecidos.
         <br><br>
         Javier, Mathias:
-        insert text here
+        En este entregable, colaboré con la implementacion de componentes relacionados con el manejo del usuario para la web application, asumi un rol de apoyo para mi equipo, apoyandolos en lo que necesitaran. 
         <br><br>
         Luza, Jose:
         En las actividades que desarrollé, como la implementación de los componentes relacionados con las funciones biológicas y el perfil del paciente, asumí un rol de liderazgo en la toma de decisiones técnicas y en la forma de abordar los problemas que surgieron. A través de mi participación activa, guié ciertas etapas del proceso y proporcioné soluciones que ayudaron a que el desarrollo avanzara de manera efectiva, demostrando mi capacidad para liderar y contribuir al progreso del proyecto.
@@ -333,7 +333,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         insert text here
         <br><br>
         Javier, Mathias:
-        insert text here
+        Cree un ambiente de trabajo inclusivo y colaborativo, apoyando con ideas en las reuniones de revision de avances, de igual manera apoyando a mis compañeros de equipo cuando no podian realizar alguna actividad o se les dificultaba, brindandoles mi apoyo. De esta manera garantizando calidad y eficiencia al proyecto que realizamos como equipo.
         <br><br>
         Luza, Jose:
         Al desarrollar mis tareas, me aseguré de establecer metas claras y organizar mi trabajo de manera eficiente para cumplir con los objetivos del proyecto. Compartí mis avances y resultados con el equipo, lo que permitió integrar mis aportaciones de forma colaborativa. Esta planificación y enfoque inclusivo no solo me permitió cumplir con mis responsabilidades, sino que también contribuyó al logro de los objetivos generales del proyecto.
