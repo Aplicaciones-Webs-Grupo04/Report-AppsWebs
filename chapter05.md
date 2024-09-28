@@ -882,6 +882,32 @@ Se puede acceder a la API desplegada, pulsando sobre la siguiente imagen.
 </table>
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
+**Evidencias del deploy:**
+
+Primero usamos los comandos correspondientes:
+
+    npm run build
+    npm install -g firebase-tools
+    firebase login
+    firebase init
+    firebase deploy
+
+Evidencia:
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint2/deploy2.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Evidencias deL link:
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint2/deploy.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Evidencias del deploy:
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint2/deploy3.png"  style="width:800px; height:auto;" alt="">
+</p>
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo. 
 
@@ -930,3 +956,7 @@ Dashboard. (s.f.). Vercel. https://vercel.com/guardiandeitys-projects
 [Trello: Link del trello para la repartición de tareas](https://trello.com/invite/b/66c7b03600da2cf712927e84/ATTIbadabe6159d90d2f615ab9ae602eb3763DC0AF14/app-web)
 
 [Figma: Link del figma, donde se elaboró todos los wireframes, mockups, etc.](https://www.figma.com/design/WdMYexswCo2IFZE3tdsAJs/Open-Source-y-App-Web?node-id=2001-1221&t=TaobC3sKlo2d1Iqs-1)
+
+[FrontEnd: Link del firebase, donde se encuentra desplegado el front end](psymed-6b637.firebaseapp.com)
+
+[API: Link de la API desplegada](https://alurageek-api-peach.vercel.app)
