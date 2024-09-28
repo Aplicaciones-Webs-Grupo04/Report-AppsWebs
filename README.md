@@ -228,11 +228,9 @@ Para acceder al contenido de la organización en GitHub, haz clic en el siguient
 
 ---
 # Student Outcome
-El curso tiene el Student Outcome 5, el cual consiste en la capacidad de funcionar efectivamente en un equipo cuyos miembros
-juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
-establecen objetivos, planifican tareas y cumplen objetivos.
+El curso tiene el Student Outcome 5, el cual consiste en la capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 
-En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuyen al cumplimiento de los aspectos que maneja el Outcome y las conclusiones reralizadas de manera grupal.
+En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuyen al cumplimiento de los aspectos que maneja el Outcome y las conclusiones realizadas de manera grupal.
 
 <table>
   <thead>
@@ -264,8 +262,47 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         Riega, José:
         insert text here
+ TB1:   
+        <br><br>
+        Ccotarma, Sihuar:
+        insert text here
+        <br><br>
+        Javier, Mathias:
+        Colaboré desarrollando los diseños de la web application, de esta manera dandonos un enfoque a como nos orientaremos para nuestra web application  poder entrear un mejor producto a nuestros usuarios y/o clentes. Todo por medio de la herramiento Figma, desarrollando los wiireframes, mock-ups yy sus respectivos wiireflows.
+        <br><br>
+        Luza, Jose:
+        Colaboré estrechamente con el equipo para definir estrategias de desarrollo y asumir roles de liderazgo compartido, asegurando que todos participaran en la planificación y ejecución de cada etapa del proyecto. Esto incluyó facilitar discusiones, coordinar reuniones y tomar decisiones conjuntas sobre la implementación de herramientas como el Lean UX Canvas, lo que nos permitió alinear objetivos y optimizar nuestro enfoque de diseño.
+        <br><br>
+        Lizano, Fernando: 
+        Preparé la estructura organizativa en GitHub, encargándome de la creación de repositorios y ramas, lo que estableció un marco sólido y ordenado para el desarrollo del proyecto. Además, apoyé en la coordinación y avance de los capítulos 3 y 4, asegurando que el equipo cumpliera con los objetivos establecidos dentro de los plazos acordados, contribuyendo así a un liderazgo compartido y eficaz dentro del grupo.        <br><br>
+        Maita, Romina:
+        Colaboré con el equipo manteniendo una comunicación activa y ayude a planificar las tareas designadas para cada integrante.
+        <br><br>
+        Riega, José:
+        insert text here
+        <br><br>
+        TP1:   
+        <br><br>
+        Ccotarma, Sihuar:
+        insert text here
+        <br><br>
+        Javier, Mathias:
+        insert text here
+        <br><br>
+        Luza, Jose:
+        insert text here
+        <br><br>
+        Lizano, Fernando:  
+        En este proyecto, trabajé en equipo para proporcionar un liderazgo compartido que beneficiara a todos. Contribuí al desarrollo del dashboard, una herramienta clave que facilitó la comunicación y el seguimiento del progreso del proyecto, promoviendo un enfoque colaborativo entre los miembros del equipo.  
+        <br><br>
+        Maita, Romina:
+        insert text here 
+        <br><br>
+        Riega, José:
+        insert text here
       </td>
-      <td>En esta primera entrega del proyecto Psymed, el equipo demostró una capacidad efectiva de liderazgo compartido al colaborar en la definición de la solución propuesta y en el desarrollo de los cuatro primeros capítulos del proyecto. La organización y gestión a través de GitHub, utilizando la metodología Gitflow y Conventional Commits, permitieron mantener un control riguroso sobre el progreso del proyecto. La colaboración en la planificación y ejecución de tareas, como la creación de repositorios y ramas, y la definición de herramientas clave como User Stories y Product Backlog, fueron esenciales para asegurar que el equipo trabajara de manera cohesiva, alcanzando los objetivos dentro de los plazos establecidos.</td>
+      <td>TB1: En esta primera entrega del proyecto Psymed, el equipo demostró una capacidad efectiva de liderazgo compartido al colaborar en la definición de la solución propuesta y en el desarrollo de los cuatro primeros capítulos del proyecto. La organización y gestión a través de GitHub, utilizando la metodología Gitflow y Conventional Commits, permitieron mantener un control riguroso sobre el progreso del proyecto. La colaboración en la planificación y ejecución de tareas, como la creación de repositorios y ramas, y la definición de herramientas clave como User Stories y Product Backlog, fueron esenciales para asegurar que el equipo trabajara de manera cohesiva, alcanzando los objetivos dentro de los plazos establecidos. <br><br> 
+          TP1: El trabajo en equipo ha sido fundamental para el éxito del proyecto, ya que se ha fomentado un ambiente de colaboración en el que cada miembro aporta sus fortalezas y habilidades. A través de una comunicación abierta y efectiva, se ha logrado establecer un liderazgo compartido que impulsa la innovación y la creatividad. Este enfoque ha permitido no solo abordar los desafíos de manera más eficiente, sino también construir un sentido de pertenencia y compromiso entre todos los integrantes del equipo.</td>
     </tr>
       <tr>
       <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
@@ -289,8 +326,29 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         Riega, José:
         insert text here
+        <br><br>
+        TP1:   
+        <br><br>
+        Ccotarma, Sihuar:
+        insert text here
+        <br><br>
+        Javier, Mathias:
+        insert text here
+        <br><br>
+        Luza, Jose:
+        insert text here
+        <br><br>
+        Lizano, Fernando:   
+        Para fomentar un entorno colaborativo e inclusivo, reorganicé el informe del Sprint 2 y elaboré la presentación en Canva. Estas acciones ayudaron a establecer metas claras y facilitaron la planificación de tareas, asegurando que todos los integrantes del equipo estuvieran alineados y comprometidos con nuestros objetivos.         
+        <br><br>
+        Maita, Romina:
+        insert text here 
+        <br><br>
+        Riega, José:
+        insert text here
       </td>
-      <td>El equipo de Psymed logró crear un entorno colaborativo e inclusivo mediante la integración de diversas perspectivas en el diseño y desarrollo de los mockups y prototipos de la página de inicio. A través del análisis Lean UX y la definición del segmento objetivo, se establecieron metas claras que guiaron la planificación de tareas. La implementación de la landing page utilizando tecnologías como HTML, CSS, JS y herramientas de apoyo como Bootstrap y LineIcons, demostró la capacidad del equipo para cumplir con los objetivos planteados. Además, el uso del Sprint Backlog permitió un seguimiento efectivo del progreso, asegurando que cada tarea se completara según lo planificado, lo que resultó en una entrega exitosa y bien organizada del proyecto.</td>
+      <td>TB1: El equipo de Psymed logró crear un entorno colaborativo e inclusivo mediante la integración de diversas perspectivas en el diseño y desarrollo de los mockups y prototipos de la página de inicio. A través del análisis Lean UX y la definición del segmento objetivo, se establecieron metas claras que guiaron la planificación de tareas. La implementación de la landing page utilizando tecnologías como HTML, CSS, JS y herramientas de apoyo como Bootstrap y LineIcons, demostró la capacidad del equipo para cumplir con los objetivos planteados. Además, el uso del Sprint Backlog permitió un seguimiento efectivo del progreso, asegurando que cada tarea se completara según lo planificado, lo que resultó en una entrega exitosa y bien organizada del proyecto. <br><br> 
+          TP1: Se ha trabajado diligentemente para crear un entorno colaborativo e inclusivo que valore la diversidad de ideas y perspectivas. Al establecer metas claras y específicas, se ha facilitado la planificación de tareas, permitiendo que cada miembro del equipo comprenda su rol en el logro de los objetivos comunes. Este enfoque estructurado ha promovido la responsabilidad individual y colectiva, asegurando que todos contribuyan al avance del proyecto de manera efectiva y sinérgica. </td>
     </tr>   
   </tbody>
 </table>
