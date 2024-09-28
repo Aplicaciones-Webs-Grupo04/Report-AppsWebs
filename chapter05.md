@@ -898,9 +898,9 @@ En esta segunda entrega, se logró implementar una mejora continua basada en las
 
 ## Referencias bibliográficas
 
-Contributors, M. o. J. T. A. B. (s. f.). Bootstrap. https://getbootstrap.com/
+Contributors, M. o. J. T. A. B. (s.f.). Bootstrap. https://getbootstrap.com/
 
-Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/
+Conventional commits. (s.f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/
 
 Figma Community: Explore templates, plugins, and widgets published by the community. (s. f.). Figma. https://www.figma.com/community
 
@@ -908,6 +908,11 @@ Free Line Icons for Designers and Developers - Lineicons. (2021, 23 mayo). Linei
 
 Pallerols, X. M. (2022, 18 noviembre). Qué es el Responsive Design y por qué tu web debería serlo. Thinking For Innovation. https://www.iebschool.com/blog/que-es-responsive-web-design-analitica-usabilidad/
 
+Vue.js. (s.f.). The Progressive JavaScript Framework | Vue.js. https://vuejs.org/
+
+npm: json-server. (s.f.). Npm. https://www.npmjs.com/package/json-server
+
+Dashboard. (s.f.). Vercel. https://vercel.com/guardiandeitys-projects
 
 ## Anexos
 
