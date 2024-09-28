@@ -103,6 +103,16 @@ FECHA: AGOSTO 2024
       </td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <td>Segunda Entrega TP1</td>
+      <td>28/09/2024</td>
+      <td>Todos los integrantes del equipo</td>
+      <td> 
+        En esta versión, se llevaron a cabo mejoras continuas basadas en los comentarios y observaciones de la primera entrega. Se planificó y ejecutó el Sprint 2, que permitió avanzar en el diseño y la implementación de la primera versión del frontend. Además, se realizó el deploy tanto del frontend como de la API utilizando json-server, lo que facilitó la validación de las funcionalidades sin la necesidad de un backend completo. Estos avances representaron un paso significativo en la evolución del proyecto, garantizando un desarrollo eficiente y adaptable a las necesidades planteadas.
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
