@@ -792,6 +792,25 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
 </table>
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Se realizaron pruebas unitarias para el "db.json". A continuación, se muestran imágenes de estas pruebas unitarias.
+
+A través del siguiente comando, se ejecuta el servidor json.
+
+    json-server --watch server/db.json
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint2/db.json_evidence.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Luego, podemos observar que este ha sido alojado en la dirección:
+
+    http://localhost:3000/
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint2/db.json_evidence2.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+
 ### 5.2.1.5. Execution Evidence for Sprint Review
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
