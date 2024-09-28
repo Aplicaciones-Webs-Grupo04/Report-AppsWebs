@@ -341,9 +341,7 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 
 ### 5.2.1.1. Sprint Planning 1
 
-Para este primer sprint nos enfocaremos en los tasks para la
-elaboración de la Landing Page. Nos dividiremos entre nosotros cada
-una de las tareas identificadas para el sprint.
+Para este primer sprint nos enfocaremos en los tasks para la elaboración de la Landing Page. Nos dividiremos entre nosotros cada una de las tareas identificadas para el sprint.
 <table>
 <tr>
     <th colspan="5">Sprint #</th>
@@ -598,7 +596,67 @@ Después de crear el repositorio, accedemos a la configuración y seleccionamos 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ### 5.2.2. Sprint 2
+
 ### 5.2.2.1. Sprint Planning 2
+En este sprint, nos enfocaremos en corregir los errores detectados en el sprint anterior y nos dedicaremos a la implementación del frontend para los bounded contexts identificados en el proyecto.
+
+<table>
+  <thead>
+    <tr>
+      <td colspan="2">Sprint 2</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>28/07/24</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>8:00 PM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Via Discord</td>
+    </tr>
+    <tr>
+      <td><strong>Prepared By</strong></td>
+      <td>Romina Maita</td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (to planning meeting)</strong></td>
+      <td>Fernando Lizano, Romina Maita, Sihuar Ccotarma, Jose Riega, Jose Luza y Mathias Javier</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Review Summary</strong></td>
+      <td>En esta primera sección se presentó el avance del frontend de la aplicación y sus respectivos bounded contexts.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Retrospective Summary</strong></td>
+      <td>En esta reunión, todos los integrantes tuvieron aciertos en la creación y la implementación del código. Además, todos colaboraron en el diseño y la implementación del frontend, contribuyendo a un desarrollo más ágil y efectivo del proyecto.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Goal</strong></td>
+      <td>Implementar los Bounded Contexts y diseñar cada uno de ellos.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Velocity</strong></td>
+      <td>2 story points</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>11 Story Points</td>
+    </tr>
+  </tbody>
+</table>
+
+    
 ### 5.2.2.2. Sprint Backlog 2
 ### 5.2.2.3. Development Evidence for Sprint Review
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
