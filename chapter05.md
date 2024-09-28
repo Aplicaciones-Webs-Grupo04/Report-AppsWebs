@@ -657,11 +657,11 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
 
 ### 5.2.2.2. Sprint Backlog 2
 <table>
-<tr>
+  <tr>
     <th colspan="3">Sprint #</th>
     <th colspan="10">Sprint 2</th>
   </tr>
-      <tr>
+  <tr>
     <td colspan="3">User Story</td>
     <td colspan="10">Work-Item/Task</td>
   </tr>
@@ -671,40 +671,52 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
     <td colspan="1">Id</td>
     <td colspan="2">Title</td>
     <td colspan="3">Description</td>
-    <td colspan="1"> Estimation</td>
+    <td colspan="1">Estimation</td>
     <td colspan="2">Assigned To</td>
-    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
-</tr>
+    <td colspan="1">Status (To-do/InProcess/To-Review/Done)</td>
+  </tr>
   <tr>
-    <td colspan="1">US02</td>
-    <td colspan="2">Encontrar información del propósito de la aplicación</td>
+    <td colspan="1">US14</td>
+    <td colspan="2">Registro de medicamentos del paciente</td>
     <td colspan="1">1</td>
-    <td colspan="2">Añadir información relevante de la aplicación</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.</td>
+    <td colspan="2">Añadir función de registro de medicamentos</td>
+    <td colspan="3">Como profesional de la salud mental, quiero registrar los medicamentos del paciente para seguir adecuadamente su tratamiento farmacológico.</td>
     <td colspan="1">2</td>
-    <td colspan="2">Fernando,Romina,Sihuar,Jose, Mathias,Jose Miguel</td>
+    <td colspan="2">Romina</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">US03</td>
-    <td colspan="2">Visualización de imágenes y gráficos relevantes</td>
+    <td colspan="1">US19</td>
+    <td colspan="2">Visualización de los estados de ánimo del paciente</td>
     <td colspan="1">2</td>
-    <td colspan="2">Añadir imágenes y gráficos relevantes</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Sihuar,Fernando,Romina</td>
-    <td colspan="1">Done</td>
-<tr>
-    <td colspan="1">US04</td>
-    <td colspan="2">Tipografía cómoda y agradable estéticamente</td>
+    <td colspan="2">Añadir función de visualización de estados de ánimo</td>
+    <td colspan="3">Como profesional de la salud mental, quiero visualizar un registro de los estados de ánimo históricos del paciente para evaluar su progreso emocional.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Añadir una tipografía fácil de leer y con un tamaño adecuado</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Jose, Mathias,Jose Miguel</td>
+    <td colspan="2">Jose Luza</td>
     <td colspan="1">Done</td>
-</tr>
+  </tr>
+  <tr>
+    <td colspan="1">US20</td>
+    <td colspan="2">Visualizar información del consumo de medicamentos</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir función de visualización de consumo de medicamentos</td>
+    <td colspan="3">Como profesional de la salud mental, quiero visualizar registros del cumplimiento del paciente con el consumo de la medicación asignada.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US33</td>
+    <td colspan="2">Registro de estado de ánimo</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Añadir función de registro de estado de ánimo</td>
+    <td colspan="3">Como paciente, quiero comunicarle a mi profesional mi estado de ánimo para ver el progreso de mi tratamiento.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Jose Luza</td>
+    <td colspan="1">Done</td>
+  </tr>
 </table>
+
 
 ### 5.2.2.3. Development Evidence for Sprint Review
 <table>
@@ -717,76 +729,76 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <th colspan="2">Commited on (Date)</th>
     </tr>
         <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">e82274c</td>
-        <td colspan="2">chore: first commit</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">master</td>
+        <td colspan="2">a3c2552</td>
+        <td colspan="2">initial commit</td>
         <td colspan="2">-</td>
-        <td colspan="2">03/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
         <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">50b05f3</td>
-        <td colspan="2">feat(html): hero created</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">master</td>
+        <td colspan="2">a3b0753</td>
+        <td colspan="2">feat: added db.json.</td>
         <td colspan="2">-</td>
-        <td colspan="2">03/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
      <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">515afa7</td>
-        <td colspan="2">feat(html): structure of about us created</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">usermng</td>
+        <td colspan="2">b6be4b4</td>
+        <td colspan="2">feat: add user-mng.component.vue component into src\BC_user-management\pages</td>
         <td colspan="2">-</td>
-        <td colspan="2">04/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">2ec2ab5</td>
-        <td colspan="2">refactor(html): members html restructured</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">tasks</td>
+        <td colspan="2">bc26cba</td>
+        <td colspan="2">feat: add content for task.management.component.vue</td>
         <td colspan="2">-</td>
-        <td colspan="2">04/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">6efcffd</td>
-        <td colspan="2">add div PSYMED</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">entrys</td>
+        <td colspan="2">1a9235f</td>
+        <td colspan="2">feat: add Patient-Entrys</td>
         <td colspan="2">-</td>
-        <td colspan="2">04/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">ec63485</td>
-        <td colspan="2">feat: added the 3 suscriptions plans.</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">home</td>
+        <td colspan="2">e0f3333</td>
+        <td colspan="2">feat: add home content</td>
         <td colspan="2">-</td>
-        <td colspan="2">04/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">d9bf7cb</td>
-        <td colspan="2">feat(about-us): added about us section</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">master</td>
+        <td colspan="2">fc5ca74</td>
+        <td colspan="2">feat: deploy json server</td>
         <td colspan="2">-</td>
-        <td colspan="2">04/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">c325e96</td>
-        <td colspan="2">feat(about-the-product): added about the product section</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">medications</td>
+        <td colspan="2">23e076d</td>
+        <td colspan="2">feat: added medication entity variables</td>
         <td colspan="2">-</td>
-        <td colspan="2">04/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">c152499</td>
-        <td colspan="2">refactor: updating Images</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">31e81a8</td>
+        <td colspan="2">add: add router</td>
         <td colspan="2">-</td>
-        <td colspan="2">04/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
 </table>
 
