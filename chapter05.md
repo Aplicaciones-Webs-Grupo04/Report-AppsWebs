@@ -655,7 +655,6 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
   </tbody>
 </table>
 
-    
 ### 5.2.2.2. Sprint Backlog 2
 <table>
 <tr>
@@ -820,8 +819,15 @@ Para el uso de la plataforma vía el siguiente comando:
   <img src="assets/chapter05/sprints/sprint2/dev_evidence.png"  style="width:800px; height:auto;" alt="">
 </p>
 
-    
 ### 5.2.1.5. Execution Evidence for Sprint Review
+- **Gestión de Usuarios:** Permite administrar las cuentas de los usuarios, sus permisos y accesos.
+- **Gestión de Notas de Sección:** Facilita el registro y seguimiento de notas clínicas importantes por cada sesión o visita.
+- **Gestión de Administración de Citas:** Optimiza la organización de citas, recordatorios y disponibilidad del personal médico.
+- **Gestión de Dashboards de Analytics:** Proporciona visualizaciones y análisis de datos relevantes para la toma de decisiones.
+- **Gestión de Seguimiento de Síntomas y Estado:** Permite monitorear y registrar los síntomas y la evolución del estado de los pacientes.
+- **Gestión de Medicación:** Administra las prescripciones médicas, recordatorios de dosis y actualizaciones de medicación.
+
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 ### 5.2.1.8. Team Collaboration Insights during Sprint
