@@ -957,6 +957,7 @@ Dashboard. (s.f.). Vercel. https://vercel.com/guardiandeitys-projects
 
 [Figma: Link del figma, donde se elaboró todos los wireframes, mockups, etc.](https://www.figma.com/design/WdMYexswCo2IFZE3tdsAJs/Open-Source-y-App-Web?node-id=2001-1221&t=TaobC3sKlo2d1Iqs-1)
 
-[FrontEnd: Link del firebase, donde se encuentra desplegado el front end](psymed-6b637.firebaseapp.com)
+[FrontEnd: Link del firebase, donde se encuentra desplegado el front end](psymed-6b637.firebaseapp.com) 
+<br> psymed-6b637.firebaseapp.com
 
 [API: Link de la API desplegada](https://alurageek-api-peach.vercel.app)
