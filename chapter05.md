@@ -827,8 +827,61 @@ Para el uso de la plataforma vía el siguiente comando:
 - **Gestión de Seguimiento de Síntomas y Estado:** Permite monitorear y registrar los síntomas y la evolución del estado de los pacientes.
 - **Gestión de Medicación:** Administra las prescripciones médicas, recordatorios de dosis y actualizaciones de medicación.
 
-
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Este servicio base facilita las operaciones CRUD utilizando la API vercel.app. Inicialmente, se utilizó json-server para pruebas locales, migrando luego a Beeceptor y finalmente a la API desplegada. Este enfoque validó el frontend sin necesidad de un backend completo, asegurando una integración eficiente y consistente.
+
+Se puede acceder a la API desplegada, pulsando sobre la siguiente imagen.
+<p align="center">
+  <a href="https://alurageek-api-peach.vercel.app">
+    <img src="assets/chapter05/sprints/sprint2/json_server.png" style="width:250px; height:auto;" alt="">
+  </a>
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Elemento</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Archivo</strong></td>
+      <td>http-common.js</td>
+    </tr>
+    <tr>
+      <td><strong>Propósito</strong></td>
+      <td>Configurar una instancia de axios para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en recursos a través de una API en una aplicación Vue.</td>
+    </tr>
+    <tr>
+      <td><strong>Dependencias</strong></td>
+      <td>
+        <code>axios</code> para manejar solicitudes HTTP en Vue. <br/>
+        <code>API_BASE_URL</code> configurado mediante <code>import.meta.env.VITE_API_BASE_URL</code>.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Propiedades</strong></td>
+      <td>
+        <ul>
+          <li><code>http</code>: Instancia de <code>axios</code> para realizar solicitudes HTTP, configurada con <code>API_BASE_URL</code>.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Métodos</strong></td>
+      <td>
+        <ul>
+          <li><code>obtenerSessions(): Promise&lt;T[]&gt;</code>: Recupera todas las sesiones desde el endpoint <code>/sessions</code>.</li>
+          <li><code>agregarSesion(sesion: any): Promise&lt;T&gt;</code>: Agrega una nueva sesión enviando un objeto <code>sesion</code> a la API.</li>
+          <li><code>handleError(error: any): void</code>: Maneja errores en las solicitudes HTTP e imprime información del error en la consola de Vue.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
