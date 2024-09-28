@@ -40,7 +40,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
   <th colspan="2">Ccotarma Ttito, Eduardo Sihuar</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/sihuar-photo.png" style="width:700px; height:auto;"></td>
+    <td><img src="assets/chapter01/sihuar.jpg" style="width:700px; height:auto;"></td>
     <td>Me gusta mucho el mundo de la informática, tecnología y los videojuegos. Me gustan los shooters y mobas. De vez en cuando diseño pequeños proyectos de juegos como replicar mecánicas o interfaces que me parecen interesantes. También me gusta viajar y la música. Estoy comprometido a apoyar al grupo lo mejor posible.</td>
   </tr>
 
@@ -72,7 +72,7 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
     <th colspan="2">Maita Falckenheiner, Romina Guadalupe</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/ro-photo.png" style="width:700px; height:auto;"></td>
+    <td><img src="/assets/chapter01/romina-photo.jpeg" style="width:700px; height:auto;"></td>
     <td>Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.</td>
   </tr>
 
@@ -172,6 +172,7 @@ Estas soluciones están diseñadas para abordar de manera integral los desafíos
 Bussiness Assumptions:
 
 1. **Creemos que nuestros clientes tienen la necesidad de:**
+
 
 Organizar y gestionar de manera eficiente la información de los pacientes, citas, y datos clínicos.
 
