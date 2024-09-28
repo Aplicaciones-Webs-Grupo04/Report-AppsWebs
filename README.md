@@ -247,7 +247,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         TB1:   
         <br><br>
         Ccotarma, Sihuar:
-        insert text here
+        En este entregable, participé en la definición de los segmentos objetivos del capítulo 1 y colaboré en la creación del journey mapping y empathy maps, lo que permitió una comprensión más profunda de los usuarios. También contribuí al desarrollo de los user personas, wireframes, mockups y el prototipo, así como a los user flows que describen la navegación de la aplicación. Además, apoyé en la elaboración de las historias de usuario y en la definición del labeling system y el organization system para asegurar una estructura clara. Finalmente, participé en el diseño del documento y en las actividades del Sprint 1
         <br><br>
         Javier, Mathias:
         Colaboré desarrollando los diseños de la web application, de esta manera dandonos un enfoque a como nos orientaremos para nuestra web application  poder entrear un mejor producto a nuestros usuarios y/o clentes. Todo por medio de la herramiento Figma, desarrollando los wiireframes, mock-ups yy sus respectivos wiireflows.
@@ -265,7 +265,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
  TB1:   
         <br><br>
         Ccotarma, Sihuar:
-        insert text here
+        En este entregable, participé en la definición de los segmentos objetivos del capítulo 1 y colaboré en la creación del journey mapping y empathy maps, lo que permitió una comprensión más profunda de los usuarios. También contribuí al desarrollo de los user personas, wireframes, mockups y el prototipo, así como a los user flows que describen la navegación de la aplicación. Además, apoyé en la elaboración de las historias de usuario y en la definición del labeling system y el organization system para asegurar una estructura clara. Finalmente, participé en el diseño del documento y en las actividades del Sprint 1
         <br><br>
         Javier, Mathias:
         Colaboré desarrollando los diseños de la web application, de esta manera dandonos un enfoque a como nos orientaremos para nuestra web application  poder entrear un mejor producto a nuestros usuarios y/o clentes. Todo por medio de la herramiento Figma, desarrollando los wiireframes, mock-ups yy sus respectivos wiireflows.
@@ -284,7 +284,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         TP1:   
         <br><br>
         Ccotarma, Sihuar:
-        insert text here
+        En este entregable, colaboré con el equipo en la definición de segmentos objetivos, journey mapping y empathy maps, creando un entorno inclusivo. Contribuí al desarrollo de user personas, wireframes, mockups, prototipos y user flows. También planificamos y cumplimos metas mediante la creación del labeling y organization system, y participé en el Sprint 1 para lograr los objetivos establecidos.
         <br><br>
         Javier, Mathias:
         insert text here
@@ -310,7 +310,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         TB1:   
         <br><br>
         Ccotarma, Sihuar:
-        insert text here
+        En este entregable, colaboré con el equipo en la definición de segmentos objetivos, journey mapping y empathy maps, creando un entorno inclusivo. Contribuí al desarrollo de user personas, wireframes, mockups, prototipos y user flows. También planificamos y cumplimos metas mediante la creación del labeling y organization system, y participé en el Sprint 1 para lograr los objetivos establecidos.
         <br><br>
         Javier, Mathias:
         Cree un ambiente de trabajo inclusivo y colaborativo, apoyando con ideas en las reuniones de revision de avances, de igual manera apoyando a mis compañeros de equipo cuando no podian realizar alguna actividad o se les dificultaba, brindandoles mi apoyo. De esta manera garantizando calidad y eficiencia al proyecto que realizamos como equipo.
