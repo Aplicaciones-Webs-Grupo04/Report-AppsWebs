@@ -290,7 +290,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         insert text here
         <br><br>
         Luza, Jose:
-        insert text here
+        En las actividades que desarrollé, como la implementación de los componentes relacionados con las funciones biológicas y el perfil del paciente, asumí un rol de liderazgo en la toma de decisiones técnicas y en la forma de abordar los problemas que surgieron. A través de mi participación activa, guié ciertas etapas del proceso y proporcioné soluciones que ayudaron a que el desarrollo avanzara de manera efectiva, demostrando mi capacidad para liderar y contribuir al progreso del proyecto.
         <br><br>
         Lizano, Fernando:  
         En este proyecto, trabajé en equipo para proporcionar un liderazgo compartido que beneficiara a todos. Contribuí al desarrollo del dashboard, una herramienta clave que facilitó la comunicación y el seguimiento del progreso del proyecto, promoviendo un enfoque colaborativo entre los miembros del equipo.  
@@ -336,7 +336,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         insert text here
         <br><br>
         Luza, Jose:
-        insert text here
+        Al desarrollar mis tareas, me aseguré de establecer metas claras y organizar mi trabajo de manera eficiente para cumplir con los objetivos del proyecto. Compartí mis avances y resultados con el equipo, lo que permitió integrar mis aportaciones de forma colaborativa. Esta planificación y enfoque inclusivo no solo me permitió cumplir con mis responsabilidades, sino que también contribuyó al logro de los objetivos generales del proyecto.
         <br><br>
         Lizano, Fernando:   
         Para fomentar un entorno colaborativo e inclusivo, reorganicé el informe del Sprint 2 y elaboré la presentación en Canva. Estas acciones ayudaron a establecer metas claras y facilitaron la planificación de tareas, asegurando que todos los integrantes del equipo estuvieran alineados y comprometidos con nuestros objetivos.         
