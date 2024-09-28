@@ -810,7 +810,17 @@ Luego, podemos observar que este ha sido alojado en la dirección:
   <img src="assets/chapter05/sprints/sprint2/db.json_evidence2.png"  style="width:800px; height:auto;" alt="">
 </p>
 
+---
 
+Para el uso de la plataforma vía el siguiente comando:
+
+    npm run dev
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint2/dev_evidence.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+    
 ### 5.2.1.5. Execution Evidence for Sprint Review
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
