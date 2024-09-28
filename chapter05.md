@@ -341,9 +341,7 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 
 ### 5.2.1.1. Sprint Planning 1
 
-Para este primer sprint nos enfocaremos en los tasks para la
-elaboración de la Landing Page. Nos dividiremos entre nosotros cada
-una de las tareas identificadas para el sprint.
+Para este primer sprint nos enfocaremos en los tasks para la elaboración de la Landing Page. Nos dividiremos entre nosotros cada una de las tareas identificadas para el sprint.
 <table>
 <tr>
     <th colspan="5">Sprint #</th>
@@ -448,7 +446,6 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Done</td>
 </tr>
 </table>
-
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
@@ -598,30 +595,324 @@ Después de crear el repositorio, accedemos a la configuración y seleccionamos 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ### 5.2.2. Sprint 2
+
 ### 5.2.2.1. Sprint Planning 2
+En este sprint, nos enfocaremos en corregir los errores detectados en el sprint anterior y nos dedicaremos a la implementación del frontend para los bounded contexts identificados en el proyecto.
+
+<table>
+  <thead>
+    <tr>
+      <td colspan="2">Sprint 2</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>28/07/24</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>8:00 PM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Via Discord</td>
+    </tr>
+    <tr>
+      <td><strong>Prepared By</strong></td>
+      <td>Romina Maita</td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (to planning meeting)</strong></td>
+      <td>Fernando Lizano, Romina Maita, Sihuar Ccotarma, Jose Riega, Jose Luza y Mathias Javier</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Review Summary</strong></td>
+      <td>En esta primera sección se presentó el avance del frontend de la aplicación y sus respectivos bounded contexts.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Retrospective Summary</strong></td>
+      <td>En esta reunión, todos los integrantes tuvieron aciertos en la creación y la implementación del código. Además, todos colaboraron en el diseño y la implementación del frontend, contribuyendo a un desarrollo más ágil y efectivo del proyecto.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Goal</strong></td>
+      <td>Implementar los Bounded Contexts y diseñar cada uno de ellos.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Velocity</strong></td>
+      <td>2 story points</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>11 Story Points</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 5.2.2.2. Sprint Backlog 2
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">US02</td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Añadir información relevante de la aplicación</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Fernando,Romina,Sihuar,Jose, Mathias,Jose Miguel</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US03</td>
+    <td colspan="2">Visualización de imágenes y gráficos relevantes</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Añadir imágenes y gráficos relevantes</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Sihuar,Fernando,Romina</td>
+    <td colspan="1">Done</td>
+<tr>
+    <td colspan="1">US04</td>
+    <td colspan="2">Tipografía cómoda y agradable estéticamente</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir una tipografía fácil de leer y con un tamaño adecuado</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Jose, Mathias,Jose Miguel</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
 ### 5.2.2.3. Development Evidence for Sprint Review
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">e82274c</td>
+        <td colspan="2">chore: first commit</td>
+        <td colspan="2">-</td>
+        <td colspan="2">03/09/2024</td>
+    </tr>
+        <tr>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">50b05f3</td>
+        <td colspan="2">feat(html): hero created</td>
+        <td colspan="2">-</td>
+        <td colspan="2">03/09/2024</td>
+    </tr>
+     <tr>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">515afa7</td>
+        <td colspan="2">feat(html): structure of about us created</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">2ec2ab5</td>
+        <td colspan="2">refactor(html): members html restructured</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">6efcffd</td>
+        <td colspan="2">add div PSYMED</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">ec63485</td>
+        <td colspan="2">feat: added the 3 suscriptions plans.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">d9bf7cb</td>
+        <td colspan="2">feat(about-us): added about us section</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">c325e96</td>
+        <td colspan="2">feat(about-the-product): added about the product section</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">c152499</td>
+        <td colspan="2">refactor: updating Images</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+</table>
+
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Se realizaron pruebas unitarias para el "db.json". A continuación, se muestran imágenes de estas pruebas unitarias.
+
+A través del siguiente comando, se ejecuta el servidor json.
+
+    json-server --watch server/db.json
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint2/db.json_evidence.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Luego, podemos observar que este ha sido alojado en la dirección:
+
+    http://localhost:3000/
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint2/db.json_evidence2.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+---
+
+Para el uso de la plataforma vía el siguiente comando:
+
+    npm run dev
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint2/dev_evidence.png"  style="width:800px; height:auto;" alt="">
+</p>
+
 ### 5.2.1.5. Execution Evidence for Sprint Review
+- **Gestión de Usuarios:** Permite administrar las cuentas de los usuarios, sus permisos y accesos.
+- **Gestión de Notas de Sección:** Facilita el registro y seguimiento de notas clínicas importantes por cada sesión o visita.
+- **Gestión de Administración de Citas:** Optimiza la organización de citas, recordatorios y disponibilidad del personal médico.
+- **Gestión de Dashboards de Analytics:** Proporciona visualizaciones y análisis de datos relevantes para la toma de decisiones.
+- **Gestión de Seguimiento de Síntomas y Estado:** Permite monitorear y registrar los síntomas y la evolución del estado de los pacientes.
+- **Gestión de Medicación:** Administra las prescripciones médicas, recordatorios de dosis y actualizaciones de medicación.
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Este servicio base facilita las operaciones CRUD utilizando la API vercel.app. Inicialmente, se utilizó json-server para pruebas locales, migrando luego a Beeceptor y finalmente a la API desplegada. Este enfoque validó el frontend sin necesidad de un backend completo, asegurando una integración eficiente y consistente.
+
+Se puede acceder a la API desplegada, pulsando sobre la siguiente imagen.
+<p align="center">
+  <a href="https://alurageek-api-peach.vercel.app">
+    <img src="assets/chapter05/sprints/sprint2/json_server.png" style="width:250px; height:auto;" alt="">
+  </a>
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Elemento</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Archivo</strong></td>
+      <td>http-common.js</td>
+    </tr>
+    <tr>
+      <td><strong>Propósito</strong></td>
+      <td>Configurar una instancia de axios para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en recursos a través de una API en una aplicación Vue.</td>
+    </tr>
+    <tr>
+      <td><strong>Dependencias</strong></td>
+      <td>
+        <code>axios</code> para manejar solicitudes HTTP en Vue. <br/>
+        <code>API_BASE_URL</code> configurado mediante <code>import.meta.env.VITE_API_BASE_URL</code>.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Propiedades</strong></td>
+      <td>
+        <ul>
+          <li><code>http</code>: Instancia de <code>axios</code> para realizar solicitudes HTTP, configurada con <code>API_BASE_URL</code>.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Métodos</strong></td>
+      <td>
+        <ul>
+          <li><code>obtenerSessions(): Promise&lt;T[]&gt;</code>: Recupera todas las sesiones desde el endpoint <code>/sessions</code>.</li>
+          <li><code>agregarSesion(sesion: any): Promise&lt;T&gt;</code>: Agrega una nueva sesión enviando un objeto <code>sesion</code> a la API.</li>
+          <li><code>handleError(error: any): void</code>: Maneja errores en las solicitudes HTTP e imprime información del error en la consola de Vue.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 ### 5.2.1.8. Team Collaboration Insights during Sprint
+Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo. 
+
+**Commits:**
+
 
 ## Conclusiones
 
+**TB1:**
 La primera entrega del proyecto Psymed ha permitido establecer una base sólida tanto conceptual como técnica para el desarrollo del sistema. Se logró identificar claramente la problemática y necesidades del usuario mediante entrevistas y análisis, lo que guió la creación de historias de usuario y un product backlog bien estructurado. El equipo implementó un flujo de trabajo eficiente con Gitflow y Conventional Commits, asegurando orden en el desarrollo y colaboración a través de GitHub. Además, se avanzó en el diseño visual y la funcionalidad inicial de la landing page, con una propuesta centrada en la experiencia del usuario. La documentación fue realizada cuidadosamente siguiendo el formato APA, garantizando coherencia y claridad en todo el informe. Esto proporciona una dirección clara para las próximas etapas del proyecto.
+
+**TP1:**
+En esta segunda entrega, se logró implementar una mejora continua basada en las observaciones y aprendizajes obtenidos durante la primera entrega. A partir de dichas consideraciones, se diseñó y ejecutó el Sprint 2, lo cual permitió avanzar en la creación y diseño de la primera versión del frontend. Asimismo, se completó exitosamente el deploy tanto del frontend como de la API mediante json-server, lo que permitió validar la funcionalidad y la comunicación entre los componentes sin depender de un backend completo. Este enfoque ágil contribuyó a una evolución efectiva del proyecto, manteniendo la calidad y la eficiencia en cada etapa del desarrollo.
 
 ## Referencias bibliográficas
 
-Contributors, M. o. J. T. A. B. (s. f.). Bootstrap. https://getbootstrap.com/
+Contributors, M. o. J. T. A. B. (s.f.). Bootstrap. https://getbootstrap.com/
 
-Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/
+Conventional commits. (s.f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/
 
 Figma Community: Explore templates, plugins, and widgets published by the community. (s. f.). Figma. https://www.figma.com/community
 
 Free Line Icons for Designers and Developers - Lineicons. (2021, 23 mayo). Lineicons. https://lineicons.com/
 
 Pallerols, X. M. (2022, 18 noviembre). Qué es el Responsive Design y por qué tu web debería serlo. Thinking For Innovation. https://www.iebschool.com/blog/que-es-responsive-web-design-analitica-usabilidad/
+
+Vue.js. (s.f.). The Progressive JavaScript Framework | Vue.js. https://vuejs.org/
+
+npm: json-server. (s.f.). Npm. https://www.npmjs.com/package/json-server
+
+Dashboard. (s.f.). Vercel. https://vercel.com/guardiandeitys-projects
 
 ## Anexos
 
