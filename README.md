@@ -262,7 +262,8 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         Riega, José:
         Colaboré desde la estructura del primer capitulo, asi como en el 3 y 4, teniendo en cuentas los plazos designados para cada integrante del equipo.
- TB1:   
+        <br><br>
+        TP1:   
         <br><br>
         Ccotarma, Sihuar:
         En este entregable, participé en la definición de los segmentos objetivos del capítulo 1 y colaboré en la creación del journey mapping y empathy maps, lo que permitió una comprensión más profunda de los usuarios. También contribuí al desarrollo de los user personas, wireframes, mockups y el prototipo, así como a los user flows que describen la navegación de la aplicación. Además, apoyé en la elaboración de las historias de usuario y en la definición del labeling system y el organization system para asegurar una estructura clara. Finalmente, participé en el diseño del documento y en las actividades del Sprint 1
@@ -300,6 +301,27 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         Riega, José:
        En esta entrega, me encargue del task-management y realicé las tares que se me tenian asignadas en el tiempo de plazo correcto, haciendo asi eñ task-dashboard con la mejor eficiencia.
+       <br><br>
+        TB2:   
+        <br><br>
+        Ccotarma, Sihuar:
+        insert text here
+        <br><br>
+        Javier, Mathias:
+        insert text here
+        <br><br>
+        Luza, Jose:
+        insert text here
+        <br><br>
+        Lizano, Fernando:
+        insert text here
+        <br><br>
+        Maita, Romina:
+        insert text here
+        <br><br>
+        Riega, Jose:
+        insert text here
+        <br><br>
       </td>
       <td>TB1: En esta primera entrega del proyecto Psymed, el equipo demostró una capacidad efectiva de liderazgo compartido al colaborar en la definición de la solución propuesta y en el desarrollo de los cuatro primeros capítulos del proyecto. La organización y gestión a través de GitHub, utilizando la metodología Gitflow y Conventional Commits, permitieron mantener un control riguroso sobre el progreso del proyecto. La colaboración en la planificación y ejecución de tareas, como la creación de repositorios y ramas, y la definición de herramientas clave como User Stories y Product Backlog, fueron esenciales para asegurar que el equipo trabajara de manera cohesiva, alcanzando los objetivos dentro de los plazos establecidos. <br><br> 
           TP1: El trabajo en equipo ha sido fundamental para el éxito del proyecto, ya que se ha fomentado un ambiente de colaboración en el que cada miembro aporta sus fortalezas y habilidades. A través de una comunicación abierta y efectiva, se ha logrado establecer un liderazgo compartido que impulsa la innovación y la creatividad. Este enfoque ha permitido no solo abordar los desafíos de manera más eficiente, sino también construir un sentido de pertenencia y compromiso entre todos los integrantes del equipo.</td>
@@ -346,6 +368,27 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         Riega, José:
         Para poder lograr el entorno deseado, oeganié mis tareas desde el primer dia de ser asignadas en tiempos coherentes para cada una, usando herramientas como trello para asegurarme de tener un seguimiento efectivo en las mismas. Así logramos poder tener una armoniosa convivencia.
+        <br><br>
+        TB2:   
+        <br><br>
+        Ccotarma, Sihuar:
+        insert text here
+        <br><br>
+        Javier, Mathias:
+        insert text here
+        <br><br>
+        Luza, Jose:
+        insert text here
+        <br><br>
+        Lizano, Fernando:
+        insert text here
+        <br><br>
+        Maita, Romina:
+        insert text here
+        <br><br>
+        Riega, Jose:
+        insert text here
+        <br><br>
       </td>
       <td>TB1: El equipo de Psymed logró crear un entorno colaborativo e inclusivo mediante la integración de diversas perspectivas en el diseño y desarrollo de los mockups y prototipos de la página de inicio. A través del análisis Lean UX y la definición del segmento objetivo, se establecieron metas claras que guiaron la planificación de tareas. La implementación de la landing page utilizando tecnologías como HTML, CSS, JS y herramientas de apoyo como Bootstrap y LineIcons, demostró la capacidad del equipo para cumplir con los objetivos planteados. Además, el uso del Sprint Backlog permitió un seguimiento efectivo del progreso, asegurando que cada tarea se completara según lo planificado, lo que resultó en una entrega exitosa y bien organizada del proyecto. <br><br> 
           TP1: Se ha trabajado diligentemente para crear un entorno colaborativo e inclusivo que valore la diversidad de ideas y perspectivas. Al establecer metas claras y específicas, se ha facilitado la planificación de tareas, permitiendo que cada miembro del equipo comprenda su rol en el logro de los objetivos comunes. Este enfoque estructurado ha promovido la responsabilidad individual y colectiva, asegurando que todos contribuyan al avance del proyecto de manera efectiva y sinérgica. </td>
