@@ -311,7 +311,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         insert text here
         <br><br>
         Luza, Jose:
-        insert text here
+        Trabajé en equipo para liderar el desarrollo del backend de las funciones del sistema Patient Entry. Me aseguré de coordinar las tareas y mantener una comunicación fluida, apoyando a mis compañeros en la implementación de las soluciones y asegurando que todos tuviéramos claro nuestro rol y objetivos.
         <br><br>
         Lizano, Fernando:
         insert text here
@@ -378,7 +378,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         insert text here
         <br><br>
         Luza, Jose:
-        insert text here
+        Fomenté un ambiente inclusivo y organizado, donde todos pudieran aportar ideas y colaborar. Planifiqué las tareas de forma clara, estableciendo metas   alcanzables y siguiendo el progreso a través de herramientas de gestión. Gracias a esto, logramos cumplir con los plazos establecidos y entregar un producto de calidad.
         <br><br>
         Lizano, Fernando:
         insert text here
