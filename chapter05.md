@@ -917,6 +917,22 @@ Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y
   <img src="assets/chapter05/sprints/sprint2/insights_front.png"  style="width:800px; height:auto;" alt="">
 </p>
 
+### 5.2.3. Sprint 3
+### 5.2.3.1.Spring Planning 3.
+### 5.2.3.2.Sprint Backlog 3.
+### 5.2.3.3.Development Evidence for Sprint Review.
+### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+### 5.2.3.5.Execution Evidence for Sprint Review.
+### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+### 5.2.3.8.Team Collaboration Insights during Sprint.
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+### 5.3.2. Registro de Entrevistas.
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product.
+
 ## Conclusiones
 
 **TB1:**
@@ -925,7 +941,9 @@ La primera entrega del proyecto Psymed ha permitido establecer una base sólida 
 **TP1:**
 En esta segunda entrega, se logró implementar una mejora continua basada en las observaciones y aprendizajes obtenidos durante la primera entrega. A partir de dichas consideraciones, se diseñó y ejecutó el Sprint 2, lo cual permitió avanzar en la creación y diseño de la primera versión del frontend. Asimismo, se completó exitosamente el deploy tanto del frontend como de la API mediante json-server, lo que permitió validar la funcionalidad y la comunicación entre los componentes sin depender de un backend completo. Este enfoque ágil contribuyó a una evolución efectiva del proyecto, manteniendo la calidad y la eficiencia en cada etapa del desarrollo.
 
-## Referencias bibliográficas
+**TB2:**
+En esta tercera etapa del proyecto, se avanzó significativamente en la implementación de los bounded contexts identificados, logrando una mayor claridad en las funcionalidades y los requerimientos de cada sección. Se implementaron los servicios correspondientes y se desarrolló una documentación detallada, facilitando la integración y el despliegue tanto de la API como del frontend. Además, se realizó una revisión exhaustiva de los procesos y resultados obtenidos, identificando oportunidades de mejora y ajustes necesarios para la siguiente fase del proyecto. Referencias bibliográficas.
+
 
 Contributors, M. o. J. T. A. B. (s.f.). Bootstrap. https://getbootstrap.com/
 
