@@ -717,7 +717,7 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <th colspan="2">Commited on (Date)</th>
     </tr>
         <tr>
-        <td colspan="2">Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">e82274c</td>
         <td colspan="2">chore: first commit</td>
@@ -725,7 +725,7 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <td colspan="2">03/09/2024</td>
     </tr>
         <tr>
-        <td colspan="2">Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">50b05f3</td>
         <td colspan="2">feat(html): hero created</td>
@@ -733,7 +733,7 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <td colspan="2">03/09/2024</td>
     </tr>
      <tr>
-        <td colspan="2">Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">515afa7</td>
         <td colspan="2">feat(html): structure of about us created</td>
@@ -741,7 +741,7 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">2ec2ab5</td>
         <td colspan="2">refactor(html): members html restructured</td>
@@ -749,7 +749,7 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">6efcffd</td>
         <td colspan="2">add div PSYMED</td>
@@ -919,7 +919,7 @@ Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y
 
 ### 5.2.3. Sprint 3
 ### 5.2.3.1.Spring Planning 3.
-    En este sprint, nos enfocaremos en corregir los errores
+En este sprint, nos enfocaremos en corregir los errores
 detectados en el sprint anterior y nos dedicaremos a la
 implementación del Backend para los bounded contexts
 identificados en el proyecto.
@@ -972,7 +972,9 @@ del proyecto.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Goal</td>
-    <td colspan="8">Nuestro enfoque es crear una versión integrada del landing page, el front end y ofrecer una versión del back end que gestione las entidades principales de la base de datos.   Creemos que ayudará a que los visitantes tengan acceso a la aplicación web de PsyMed desde el Landing Page. Además, desarrollaremos una primera versión del back end para que los desarrolladores administren con la base de datos la creación de usuarios de ambos segmentos y administrar los tratamientos de cada paciente. (medicamentos, tareas, notas y sesiones, funciones biológicas y estados de ánimo).  Sabremos que hemos logrado nuestra meta cuando los usuarios ingresan al Landing Page y el botón de “Log In” genere un evento que los re dirija hacia la aplicación web y adicionalmente los desarrolladores puedan hacer consultas a la base de datos mediante el back end.</td>
+    <td colspan="8">
+El objetivo de este sprint fue implementar el Backend de la web API, enfocándose en los bounded contexts para estructurar la aplicación de manera modular. Se desarrollaron servicios, se integraron con la base de datos y se documentó la API, asegurando la escalabilidad y facilidad de mantenimiento en el tiempo asignado.
+</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Velocity</td>
