@@ -459,7 +459,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <th colspan="2">Commited on (Date)</th>
     </tr>
         <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">e82274c</td>
         <td colspan="2">chore: first commit</td>
@@ -467,7 +467,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">03/09/2024</td>
     </tr>
         <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">50b05f3</td>
         <td colspan="2">feat(html): hero created</td>
@@ -475,7 +475,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">03/09/2024</td>
     </tr>
      <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">515afa7</td>
         <td colspan="2">feat(html): structure of about us created</td>
@@ -483,7 +483,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">2ec2ab5</td>
         <td colspan="2">refactor(html): members html restructured</td>
@@ -491,7 +491,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">6efcffd</td>
         <td colspan="2">add div PSYMED</td>
@@ -499,7 +499,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">ec63485</td>
         <td colspan="2">feat: added the 3 suscriptions plans.</td>
@@ -507,7 +507,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">d9bf7cb</td>
         <td colspan="2">feat(about-us): added about us section</td>
@@ -515,7 +515,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">c325e96</td>
         <td colspan="2">feat(about-the-product): added about the product section</td>
@@ -523,7 +523,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">c152499</td>
         <td colspan="2">refactor: updating Images</td>
@@ -717,7 +717,7 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <th colspan="2">Commited on (Date)</th>
     </tr>
         <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">e82274c</td>
         <td colspan="2">chore: first commit</td>
@@ -725,7 +725,7 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <td colspan="2">03/09/2024</td>
     </tr>
         <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">50b05f3</td>
         <td colspan="2">feat(html): hero created</td>
@@ -733,7 +733,7 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <td colspan="2">03/09/2024</td>
     </tr>
      <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">515afa7</td>
         <td colspan="2">feat(html): structure of about us created</td>
@@ -741,7 +741,7 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">2ec2ab5</td>
         <td colspan="2">refactor(html): members html restructured</td>
@@ -749,7 +749,7 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">6efcffd</td>
         <td colspan="2">add div PSYMED</td>
@@ -757,7 +757,7 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">ec63485</td>
         <td colspan="2">feat: added the 3 suscriptions plans.</td>
@@ -765,7 +765,7 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">d9bf7cb</td>
         <td colspan="2">feat(about-us): added about us section</td>
@@ -773,7 +773,7 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">c325e96</td>
         <td colspan="2">feat(about-the-product): added about the product section</td>
@@ -781,7 +781,7 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">SW52-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">c152499</td>
         <td colspan="2">refactor: updating Images</td>
@@ -919,6 +919,71 @@ Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y
 
 ### 5.2.3. Sprint 3
 ### 5.2.3.1.Spring Planning 3.
+    En este sprint, nos enfocaremos en corregir los errores
+detectados en el sprint anterior y nos dedicaremos a la
+implementación del Backend para los bounded contexts
+identificados en el proyecto.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 3</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8"> 8/10/24  </td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8"> 9:00 PM </td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Fernando</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Fernando,Romina,Sihuar,Jose, Mathias,Jose Miguel</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Review Summary</td>
+    <td colspan="8">
+En esta primera sección se presentó el progreso continuo del frontend de la aplicación y sus respectivos bounded contexts. Ademas de la primera version del Backend
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Retrospective Summary</td>
+    <td colspan="8">
+En esta reunión, todos los integrantes tuvieron aciertos 
+en la creación y la implementación del código. Además, 
+todos colaboraron en el diseño y la implementación del 
+frontend y Backend, contribuyendo a un desarrollo más ágil y
+efectivo, Aplicando convenciones de Domain Driven Design
+del proyecto.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+    <td colspan="8">Nuestro enfoque es crear una versión integrada del landing page, el front end y ofrecer una versión del back end que gestione las entidades principales de la base de datos.   Creemos que ayudará a que los visitantes tengan acceso a la aplicación web de PsyMed desde el Landing Page. Además, desarrollaremos una primera versión del back end para que los desarrolladores administren con la base de datos la creación de usuarios de ambos segmentos y administrar los tratamientos de cada paciente. (medicamentos, tareas, notas y sesiones, funciones biológicas y estados de ánimo).  Sabremos que hemos logrado nuestra meta cuando los usuarios ingresan al Landing Page y el botón de “Log In” genere un evento que los re dirija hacia la aplicación web y adicionalmente los desarrolladores puedan hacer consultas a la base de datos mediante el back end.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Velocity</td>
+    <td colspan="8"> 8 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8"> 23 Story Points</td>
+</tr>
+</table>
+
 ### 5.2.3.2.Sprint Backlog 3.
 ### 5.2.3.3.Development Evidence for Sprint Review.
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
