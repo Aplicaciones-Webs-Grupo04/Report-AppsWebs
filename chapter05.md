@@ -1425,8 +1425,67 @@ En esta sección se explica y presenta los avances en implementación con relaci
     </tr>
 </table>
 
-
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+Para el sprint 3, se realizaron pruebas unitarias y de integración para los servicios y controladores del Backend. A continuación, se presenta una tabla con los resultados de las pruebas realizadas:
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Committed on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">master</td>
+        <td colspan="2">f833752</td>
+        <td colspan="2">Merge branch 'develop'</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">95a8cd6</td>
+        <td colspan="2">merge branch 'feature/tasks' into develop</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">e4da271</td>
+        <td colspan="2">merge branch 'master' into develop</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">173ed5e</td>
+        <td colspan="2">chore: update Program.cs to /weatherforecast</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">master</td>
+        <td colspan="2">44df4bf</td>
+        <td colspan="2">Merge branch 'develop' into master</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">f585195</td>
+        <td colspan="2">Merge branch 'feature/login' into develop</td>
+        <td colspan="2">-</td>
+        <td colspan="2">05/11/2024</td>
+    </tr>
+</table>
+
 
 ### 5.2.3.5.Execution Evidence for Sprint Review.
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
