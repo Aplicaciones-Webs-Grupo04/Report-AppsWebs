@@ -320,7 +320,8 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         En esta entrega logré organizar y cumplir las metas planteadas al liderar y ayudar a planificar las tareas para cada integrante con la finalidad de tener una primera versión funcional del backend.
         <br><br>
         Riega, Jose:
-        insert text here
+        En esta entrega consegui realizar los objetivos mentalizados para poder realizar la proyeccion del proyecto, asi pudiendo ayudar al equipo con mi parte del frontend, teniendo claro los objetivos y desarrollos de 
+        todos los integrantes del equipo.
         <br><br>
       </td>
       <td>TB1: En esta primera entrega del proyecto Psymed, el equipo demostró una capacidad efectiva de liderazgo compartido al colaborar en la definición de la solución propuesta y en el desarrollo de los cuatro primeros capítulos del proyecto. La organización y gestión a través de GitHub, utilizando la metodología Gitflow y Conventional Commits, permitieron mantener un control riguroso sobre el progreso del proyecto. La colaboración en la planificación y ejecución de tareas, como la creación de repositorios y ramas, y la definición de herramientas clave como User Stories y Product Backlog, fueron esenciales para asegurar que el equipo trabajara de manera cohesiva, alcanzando los objetivos dentro de los plazos establecidos. <br><br> 
@@ -347,7 +348,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         Cumplí con los objetivos individuales planificados realizando las siguientes tareas: realicé las entrevistas a los segmentos objetivos, aporté en el diseño de los mock ups, diseñe el Impact Mapping y diseñe el diagrama de clases, base de datos y finalmente el Software Development Environment Configuration.
         <br><br>
         Riega, José:
-        as
+        Pude realizar un trabajo dinamico al intervenir en el informe del nuestro proyecto, asegurando el cumplimiento de tareas y proporcionando evidencias del desarrollo del sprint respectivo.
         <br><br>
         TP1:   
         <br><br>
@@ -387,7 +388,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         En esta entrega logré fomentar un ambiente inclusivo al compartir ideas con los demás integrantes y realizar reuniones para observar el progreso del desarrollo del proyecto.
         <br><br>
         Riega, Jose:
-        insert text here
+        Al desarrollar las taras asignadas a mi persona pude evidenciar el entorno colaborativo que queremos demostrar en nuestro proyecto, midiendo las metas y misiones de cada uno de forma responsable, justa y equitativa.
         <br><br>
       </td>
       <td>TB1: El equipo de Psymed logró crear un entorno colaborativo e inclusivo mediante la integración de diversas perspectivas en el diseño y desarrollo de los mockups y prototipos de la página de inicio. A través del análisis Lean UX y la definición del segmento objetivo, se establecieron metas claras que guiaron la planificación de tareas. La implementación de la landing page utilizando tecnologías como HTML, CSS, JS y herramientas de apoyo como Bootstrap y LineIcons, demostró la capacidad del equipo para cumplir con los objetivos planteados. Además, el uso del Sprint Backlog permitió un seguimiento efectivo del progreso, asegurando que cada tarea se completara según lo planificado, lo que resultó en una entrega exitosa y bien organizada del proyecto. <br><br> 
