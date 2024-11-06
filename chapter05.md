@@ -987,8 +987,569 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
 </table>
 
 ### 5.2.3.2.Sprint Backlog 3.
+
+<table border="1">
+  <tr>
+    <th colspan="3">Sprint 3</th>
+    <th colspan="10">Sprint 3</th>
+  </tr>
+  <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">ID</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">ID</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned to</td>
+    <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS24</td>
+    <td colspan="2">Registro de sesión terapéutica a través de un RESTful API</td>
+    <td colspan="1">UT01</td>
+    <td colspan="2">Desarrollo de capa de aplicación</td>
+    <td colspan="3">Crear el servicio de "Registrar Sesión Terapéutica" que procese la información y valide los datos requeridos.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Sihuar y Mathyas</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT02</td>
+    <td colspan="2">Desarrollo de capa de dominio</td>
+    <td colspan="3">Implementar modelos y servicios para registrar una sesión terapéutica, asegurando la integración con entidades de paciente y profesional.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Sihuar y Mathyas</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT03</td>
+    <td colspan="2">Desarrollo de capa de infraestructura</td>
+    <td colspan="3">Crear el endpoint POST para registrar la sesión en el sistema, manejando los errores en caso de datos faltantes o duplicados.</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Sihuar y Mathyas</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT04</td>
+    <td colspan="2">Desarrollo de capa de interfaces</td>
+    <td colspan="3">Crear controladores que reciban y gestionen las solicitudes de creación de sesión terapéutica.</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Sihuar y Mathyas</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS25</td>
+    <td colspan="2">Obtener sesión terapéutica a través de un RESTful API</td>
+    <td colspan="1">UT05</td>
+    <td colspan="2">Desarrollo de capa de aplicación</td>
+    <td colspan="3">Crear el servicio de "Obtener Sesión Terapéutica" que procese la solicitud y recupere los detalles de la sesión según el ID proporcionado.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Sihuar y Mathyas</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT06</td>
+    <td colspan="2">Desarrollo de capa de dominio</td>
+    <td colspan="3">Implementar modelos y servicios para recuperar la información de una sesión terapéutica, validando la existencia de la sesión y su relación con el paciente.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Sihuar y Mathyas</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT07</td>
+    <td colspan="2">Desarrollo de capa de infraestructura</td>
+    <td colspan="3">Crear el endpoint GET que permita obtener los detalles de la sesión terapéutica según el ID de la sesión, incluyendo control de errores para sesiones no encontradas.</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Sihuar y Mathyas</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT08</td>
+    <td colspan="2">Desarrollo de capa de interfaces</td>
+    <td colspan="3">Crear controladores que gestionen las solicitudes de obtención de sesiones, manejando las respuestas y el retorno de errores cuando la sesión no existe.</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Sihuar y Mathyas</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US12</td>
+    <td colspan="2">Ingresar estados de animo</td>
+    <td colspan="1">UT09</td>
+    <td colspan="2">lista de estados emocionales del paciente</td>
+    <td colspan="3">Crear una page donde el profesional pueda ver los estados de ánimo históricos del paciente seleccionado</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US12</td>
+    <td colspan="2">Ingresar estados de animo</td>
+    <td colspan="1">UT10</td>
+    <td colspan="2">componente de estado de ánimo</td>
+    <td colspan="3">Crear una card que almacene un registro de estado de animo</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US13</td>
+    <td colspan="2">Ingresar medicacion del paciente</td>
+    <td colspan="1">UT11</td>
+    <td colspan="2">Desarrollo de card de los elementos de un medicamento</td>
+    <td colspan="3">Crear una card que almacene los elementos de medicacion y que pueda tener los botones de edicion exclusivas para el profesional.</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US11</td>
+    <td colspan="2">Ver Medicacion</td>
+    <td colspan="1">UT12</td>
+    <td colspan="2">Registrar confirmación de cumplimiento de medicación</td>
+    <td colspan="3">Implementar un toogle que pueda cambiar el estatus de una medicacion a eleccion del paciente</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US14</td>
+    <td colspan="2">Regitrar medicacion del paciente</td>
+    <td colspan="1">UT13</td>
+    <td colspan="2">Edicion de medicación</td>
+    <td colspan="3">Crear un botón que permita editar los datos una medicación</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US14</td>
+    <td colspan="2">Regitrar medicacion del paciente</td>
+    <td colspan="1">UT14</td>
+    <td colspan="2">Implementar validaciones reactivas</td>
+    <td colspan="3">Implementar validaciones reactivas que impidan el ingreso de datos invalido como campo para las medicaciones</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US15</td>
+    <td colspan="2">Registrar notas por sesion</td>
+    <td colspan="1">UT15</td>
+    <td colspan="2">Card de notas de sesion</td>
+    <td colspan="3">Crear una card que contenga los elementos de la entidad “Session Notes”</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US15</td>
+    <td colspan="2">Registrar notas por sesion</td>
+    <td colspan="1">UT16</td>
+    <td colspan="2">Formulario de creacion de notas por sesion</td>
+    <td colspan="3">Desarrollar un formulario de creacion de notas por sesion</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US15</td>
+    <td colspan="2">Registrar notas por sesion</td>
+    <td colspan="1">UT17</td>
+    <td colspan="2">Validaciones reactivas para datos inválidos</td>
+    <td colspan="3">Implementar una validación de datos inválidos de forma reactiva al crear notas por sesión</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US16</td>
+    <td colspan="2">Editar notas por sesion</td>
+    <td colspan="1">UT18</td>
+    <td colspan="2">Formulario de edicion de notas</td>
+    <td colspan="3">Crear un formulario de edicion de notas</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US16</td>
+    <td colspan="2">Editar notas por sesion</td>
+    <td colspan="1">UT19</td>
+    <td colspan="2">validaciones reactivas para datos invalidos</td>
+    <td colspan="3">Implementar una validación de datos inválidos de forma reactiva al editar notas.</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US17</td>
+    <td colspan="2">Actualizar diagnostico del paciente</td>
+    <td colspan="1">UT20</td>
+    <td colspan="2">Formulario de edición del diagnostico de paciente</td>
+    <td colspan="3">Crear un formulario de edicion para los diagnósticos del paciente</td>
+    <td colspan="1"></td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US17</td>
+    <td colspan="2">Actualizar diagnostico del paciente</td>
+    <td colspan="1">UT21</td>
+    <td colspan="2">validaciones reactivas para medición del diagnostico</td>
+    <td colspan="3">Implementar una validación de datos inválidos de forma reactiva al editar diagnosticos.</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS11</td>
+    <td colspan="2">Actualizar información de consumo de pastillas del paciente a través de un RESTful API</td>
+    <td colspan="1">UT22</td>
+    <td colspan="2">Desarrollo de capa de aplicación</td>
+    <td colspan="3">Crear el servicio de "Actualizar Consumo de Pastillas".</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">To Do</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT23</td>
+    <td colspan="2">Desarrollo de capa de dominio</td>
+    <td colspan="3">Implementar modelos y servicios para actualizar información de consumo de pastillas.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">To Do</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT24</td>
+    <td colspan="2">Desarrollo de capa de infraestructura</td>
+    <td colspan="3">Crear el endpoint PUT</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">To Do</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT25</td>
+    <td colspan="2">Desarrollo de capa de interfaces</td>
+    <td colspan="3">Crear controladores</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">To Do</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS07</td>
+    <td colspan="2">Añadir medicamentos de un paciente a través de un RESTful API</td>
+    <td colspan="1">UT26</td>
+    <td colspan="2">Desarrollo de capa de aplicación</td>
+    <td colspan="3">Crear el servicio de "Añadir Medicamento a Paciente".</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT27</td>
+    <td colspan="2">Desarrollo de capa de dominio</td>
+    <td colspan="3">Implementar modelos y servicios para añadir medicamentos.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT28</td>
+    <td colspan="2">Desarrollo de capa de infraestructura</td>
+    <td colspan="3">Crear el endpoint POST</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT29</td>
+    <td colspan="2">Desarrollo de capa de interfaces</td>
+    <td colspan="3">Crear controladores</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS10</td>
+    <td colspan="2">Recuperar datos de consumo de medicamentos válidos</td>
+    <td colspan="1">UT30</td>
+    <td colspan="2">Desarrollo de capa de aplicación</td>
+    <td colspan="3">Crear el servicio de "Recuperar Datos de Consumo Válido".</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">To Do</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT31</td>
+    <td colspan="2">Desarrollo de capa de dominio</td>
+    <td colspan="3">Implementar modelos y servicios para recuperar datos de consumo de medicamentos válidos</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">To DO</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT32</td>
+    <td colspan="2">Desarrollo de capa de infraestructura</td>
+    <td colspan="3">Crear el endpoint GET</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">To DO</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT33</td>
+    <td colspan="2">Desarrollo de capa de interfaces</td>
+    <td colspan="3">Crear controladores</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">To Do</td>
+  </tr>
+<tr>
+    <td colspan="1">TS20</td>
+    <td colspan="2">Registro de confirmación de consumo de pastillas a través de un RESTful API</td>
+    <td colspan="1">UT20</td>
+    <td colspan="2">Desarrollo de capa de aplicación</td>
+    <td colspan="3">Crear el servicio de "Confirmación de Consumo de Pastillas".</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT21</td>
+    <td colspan="2">Desarrollo de capa de dominio</td>
+    <td colspan="3">Implementar modelos y servicios para recuperar datos de consumo de medicamentos válidos</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT22</td>
+    <td colspan="2">Desarrollo de capa de infraestructura</td>
+    <td colspan="3">Crear el endpoint POST</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT23</td>
+    <td colspan="2">Desarrollo de capa de interfaces</td>
+    <td colspan="3">Crear controladores</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS05</td>
+    <td colspan="2">Inicio de sesión a través de un RESTful API</td>
+    <td colspan="1">UT24</td>
+    <td colspan="2">Comandos y servicios para sign in</td>
+    <td colspan="3">Desarrollo de comandos y servicios para sign in</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT25</td>
+    <td colspan="2">Controlador para el inicio de sesión</td>
+    <td colspan="3">Desarrollo del controlador para acceder al endpoint de inicio de sesión</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS01</td>
+    <td colspan="2">Añadir paciente a través de un RESTful API</td>
+    <td colspan="1">UT26</td>
+    <td colspan="2">Capa de dominio e infraestructura del paciente</td>
+    <td colspan="3">Desarrollo de la capa de dominio e infraestructura para el perfil del paciente</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT27</td>
+    <td colspan="2">Capa de aplicación e interfaz</td>
+    <td colspan="3">Desarrollo de la capa de aplicación e interfaz para el perfil del paciente</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT28</td>
+    <td colspan="2">Creación de ACL en capa de interfaz</td>
+    <td colspan="3">Desarrollo de ACL para comunicación entre BC</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT29</td>
+    <td colspan="2">Uso de ACL en capa aplicación</td>
+    <td colspan="3">Desarrollo de servicio que usa ACL para comunicación entre BC</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS02</td>
+    <td colspan="2">Añadir profesional de la salud mental a través de un RESTful API</td>
+    <td colspan="1">UT30</td>
+    <td colspan="2">Capa de dominio e infraestructura del profesional</td>
+    <td colspan="3">Desarrollo de la capa de dominio e infraestructura para el perfil del profesional</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT31</td>
+    <td colspan="2">Capa de aplicación e interfaz</td>
+    <td colspan="3">Desarrollo de la capa de aplicación e interfaz para el perfil del profesional</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT32</td>
+    <td colspan="2">Creación de ACL en capa de interfaz</td>
+    <td colspan="3">Desarrollo de ACL para comunicación entre BC</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT33</td>
+    <td colspan="2">Uso de ACL en capa aplicación</td>
+    <td colspan="3">Desarrollo de servicio que usa ACL para comunicación entre BC</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS21</td>
+    <td colspan="2">Registro de funciones biológicas a través de un RESTful API</td>
+    <td colspan="1">UT34</td>
+    <td colspan="2">Capa de dominio e infraestructura del registro de funciones biológicas</td>
+    <td colspan="3">Desarrollo de la capa de dominio e infraestructura para el registro de funciones biológicas</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT35</td>
+    <td colspan="2">Capa de aplicación e interfaz</td>
+    <td colspan="3">Desarrollo de la capa de aplicación e interfaz para el perfil del profesional</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT36</td>
+    <td colspan="2">Creación de ACL en capa de interfaz</td>
+    <td colspan="3">Desarrollo de ACL para comunicación entre BC</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT37</td>
+    <td colspan="2">Uso de ACL en capa aplicación</td>
+    <td colspan="3">Desarrollo de servicio que usa ACL para comunicación entre BC</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS19</td>
+    <td colspan="2">Registro de estado de ánimo del paciente a través de un RESTful API</td>
+    <td colspan="1">UT38</td>
+    <td colspan="2">Capa de dominio e infraestructura del registro de estado de ánimo</td>
+    <td colspan="3">Agregar el registro de estado de ánimo a la capa de dominio e infraestructura para el registro de funciones biológicas</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT39</td>
+    <td colspan="2">Capa de aplicación e interfaz</td>
+    <td colspan="3">Agregar el registro de estados de ánimo del paciente a la capa de aplicación e interfaz para el perfil del profesional</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+  </table>
+
 ### 5.2.3.3.Development Evidence for Sprint Review.
+
+<table>
+<tr>
+</tr>
+</table>
+
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+Se realizaron pruebas unitarias mediante archivos `.Test`
+
+
 ### 5.2.3.5.Execution Evidence for Sprint Review.
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
