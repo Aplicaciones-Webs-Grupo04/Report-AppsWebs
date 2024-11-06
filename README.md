@@ -305,7 +305,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         TB2:   
         <br><br>
         Ccotarma, Sihuar:
-        insert text here
+        Establecí un entorno de trabajo altamente ordenado, en el que cada miembro del equipo tuvo la oportunidad de compartir sus ideas y contribuir al desarrollo del proyecto. Me ocupé de planificar y asignar las tareas de manera detallada, estableciendo metas claras y alcanzables. Utilicé herramientas de gestión para monitorear el progreso, lo cual nos permitió cumplir con los plazos y entregar un producto de calidad     
         <br><br>
         Javier, Mathias:
         Colaboré en el desarrollo del backend para las funcionalidades del sistema Treatment, trabajando estrechamente con el equipo para coordinar tareas y asegurar una implementación exitosa. Fomenté una comunicación efectiva dentro del grupo, apoyando a mis compañeros para resolver problemas técnicos y garantizando que las soluciones fueran implementadas de acuerdo con los requisitos. Mi enfoque estuvo en asegurar que todos tuviéramos claridad en nuestras responsabilidades y trabajáramos de manera colaborativa hacia los objetivos del proyecto.
@@ -373,7 +373,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         TB2:   
         <br><br>
         Ccotarma, Sihuar:
-        insert text here
+        Establecí un entorno de trabajo altamente ordenado, en el que cada miembro del equipo tuvo la oportunidad de compartir sus ideas y contribuir al desarrollo del proyecto. Me ocupé de planificar y asignar las tareas de manera detallada, estableciendo metas claras y alcanzables. Utilicé herramientas de gestión para monitorear el progreso, lo cual nos permitió cumplir con los plazos y entregar un producto de calidad     
         <br><br>
         Javier, Mathias:
         Promoví un entorno de trabajo organizado e inclusivo, donde cada miembro del equipo pudiera compartir ideas y contribuir al desarrollo del proyecto. Me encargué de planificar y dividir las tareas de manera estructurada, estableciendo objetivos claros y alcanzables. Utilicé herramientas de gestión para hacer seguimiento al progreso, lo que nos permitió cumplir con los plazos establecidos y entregar un producto de alta calidad.
