@@ -978,11 +978,11 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Velocity</td>
-    <td colspan="8"> 8 story points</td>
+    <td colspan="8">  story points</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8"> 23 Story Points</td>
+    <td colspan="8">  Story Points</td>
 </tr>
 </table>
 
@@ -1014,7 +1014,7 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Desarrollo de capa de aplicación</td>
     <td colspan="3">Crear el servicio de "Registrar Sesión Terapéutica" que procese la información y valide los datos requeridos.</td>
     <td colspan="1">3h</td>
-    <td colspan="2">Sihuar y Mathyas</td>
+    <td colspan="2">Sihuar s</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
@@ -1024,29 +1024,10 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Desarrollo de capa de dominio</td>
     <td colspan="3">Implementar modelos y servicios para registrar una sesión terapéutica, asegurando la integración con entidades de paciente y profesional.</td>
     <td colspan="1">3h</td>
-    <td colspan="2">Sihuar y Mathyas</td>
+    <td colspan="2">Sihuar </td>
     <td colspan="1">Done</td>
   </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT03</td>
-    <td colspan="2">Desarrollo de capa de infraestructura</td>
-    <td colspan="3">Crear el endpoint POST para registrar la sesión en el sistema, manejando los errores en caso de datos faltantes o duplicados.</td>
-    <td colspan="1">4h</td>
-    <td colspan="2">Sihuar y Mathyas</td>
-    <td colspan="1">Done</td>
-  </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT04</td>
-    <td colspan="2">Desarrollo de capa de interfaces</td>
-    <td colspan="3">Crear controladores que reciban y gestionen las solicitudes de creación de sesión terapéutica.</td>
-    <td colspan="1">4h</td>
-    <td colspan="2">Sihuar y Mathyas</td>
-    <td colspan="1">Done</td>
-  </tr>
+
   <tr>
     <td colspan="1">TS25</td>
     <td colspan="2">Obtener sesión terapéutica a través de un RESTful API</td>
@@ -1054,7 +1035,7 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Desarrollo de capa de aplicación</td>
     <td colspan="3">Crear el servicio de "Obtener Sesión Terapéutica" que procese la solicitud y recupere los detalles de la sesión según el ID proporcionado.</td>
     <td colspan="1">3h</td>
-    <td colspan="2">Sihuar y Mathyas</td>
+    <td colspan="2"> Mathyas</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
@@ -1064,29 +1045,10 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Desarrollo de capa de dominio</td>
     <td colspan="3">Implementar modelos y servicios para recuperar la información de una sesión terapéutica, validando la existencia de la sesión y su relación con el paciente.</td>
     <td colspan="1">3h</td>
-    <td colspan="2">Sihuar y Mathyas</td>
+    <td colspan="2"> Mathyas</td>
     <td colspan="1">Done</td>
   </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT07</td>
-    <td colspan="2">Desarrollo de capa de infraestructura</td>
-    <td colspan="3">Crear el endpoint GET que permita obtener los detalles de la sesión terapéutica según el ID de la sesión, incluyendo control de errores para sesiones no encontradas.</td>
-    <td colspan="1">4h</td>
-    <td colspan="2">Sihuar y Mathyas</td>
-    <td colspan="1">Done</td>
-  </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT08</td>
-    <td colspan="2">Desarrollo de capa de interfaces</td>
-    <td colspan="3">Crear controladores que gestionen las solicitudes de obtención de sesiones, manejando las respuestas y el retorno de errores cuando la sesión no existe.</td>
-    <td colspan="1">4h</td>
-    <td colspan="2">Sihuar y Mathyas</td>
-    <td colspan="1">Done</td>
-  </tr>
+ 
   <tr>
     <td colspan="1">US12</td>
     <td colspan="2">Ingresar estados de animo</td>
@@ -1097,36 +1059,7 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Jose</td>
     <td colspan="1">Done</td>
   </tr>
-  <tr>
-    <td colspan="1">US12</td>
-    <td colspan="2">Ingresar estados de animo</td>
-    <td colspan="1">UT10</td>
-    <td colspan="2">componente de estado de ánimo</td>
-    <td colspan="3">Crear una card que almacene un registro de estado de animo</td>
-    <td colspan="1">1h</td>
-    <td colspan="2">Jose</td>
-    <td colspan="1">Done</td>
-  </tr>
-  <tr>
-    <td colspan="1">US13</td>
-    <td colspan="2">Ingresar medicacion del paciente</td>
-    <td colspan="1">UT11</td>
-    <td colspan="2">Desarrollo de card de los elementos de un medicamento</td>
-    <td colspan="3">Crear una card que almacene los elementos de medicacion y que pueda tener los botones de edicion exclusivas para el profesional.</td>
-    <td colspan="1">1h</td>
-    <td colspan="2">Jose</td>
-    <td colspan="1">Done</td>
-  </tr>
-  <tr>
-    <td colspan="1">US11</td>
-    <td colspan="2">Ver Medicacion</td>
-    <td colspan="1">UT12</td>
-    <td colspan="2">Registrar confirmación de cumplimiento de medicación</td>
-    <td colspan="3">Implementar un toogle que pueda cambiar el estatus de una medicacion a eleccion del paciente</td>
-    <td colspan="1">1h</td>
-    <td colspan="2">Jose</td>
-    <td colspan="1">Done</td>
-  </tr>
+
   <tr>
     <td colspan="1">US14</td>
     <td colspan="2">Regitrar medicacion del paciente</td>
@@ -1137,16 +1070,7 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Jose</td>
     <td colspan="1">Done</td>
   </tr>
-  <tr>
-    <td colspan="1">US14</td>
-    <td colspan="2">Regitrar medicacion del paciente</td>
-    <td colspan="1">UT14</td>
-    <td colspan="2">Implementar validaciones reactivas</td>
-    <td colspan="3">Implementar validaciones reactivas que impidan el ingreso de datos invalido como campo para las medicaciones</td>
-    <td colspan="1">1h</td>
-    <td colspan="2">Jose</td>
-    <td colspan="1">Done</td>
-  </tr>
+ 
   <tr>
     <td colspan="1">US15</td>
     <td colspan="2">Registrar notas por sesion</td>
@@ -1167,16 +1091,7 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Jose</td>
     <td colspan="1">Done</td>
   </tr>
-  <tr>
-    <td colspan="1">US15</td>
-    <td colspan="2">Registrar notas por sesion</td>
-    <td colspan="1">UT17</td>
-    <td colspan="2">Validaciones reactivas para datos inválidos</td>
-    <td colspan="3">Implementar una validación de datos inválidos de forma reactiva al crear notas por sesión</td>
-    <td colspan="1">1h</td>
-    <td colspan="2">Jose</td>
-    <td colspan="1">Done</td>
-  </tr>
+
   <tr>
     <td colspan="1">US16</td>
     <td colspan="2">Editar notas por sesion</td>
@@ -1188,32 +1103,12 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">US16</td>
-    <td colspan="2">Editar notas por sesion</td>
-    <td colspan="1">UT19</td>
-    <td colspan="2">validaciones reactivas para datos invalidos</td>
-    <td colspan="3">Implementar una validación de datos inválidos de forma reactiva al editar notas.</td>
-    <td colspan="1">1h</td>
-    <td colspan="2">Jose</td>
-    <td colspan="1">Done</td>
-  </tr>
-  <tr>
     <td colspan="1">US17</td>
     <td colspan="2">Actualizar diagnostico del paciente</td>
     <td colspan="1">UT20</td>
     <td colspan="2">Formulario de edición del diagnostico de paciente</td>
     <td colspan="3">Crear un formulario de edicion para los diagnósticos del paciente</td>
     <td colspan="1"></td>
-    <td colspan="2">Jose</td>
-    <td colspan="1">Done</td>
-  </tr>
-  <tr>
-    <td colspan="1">US17</td>
-    <td colspan="2">Actualizar diagnostico del paciente</td>
-    <td colspan="1">UT21</td>
-    <td colspan="2">validaciones reactivas para medición del diagnostico</td>
-    <td colspan="3">Implementar una validación de datos inválidos de forma reactiva al editar diagnosticos.</td>
-    <td colspan="1">1h</td>
     <td colspan="2">Jose</td>
     <td colspan="1">Done</td>
   </tr>
@@ -1287,16 +1182,7 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Romina</td>
     <td colspan="1">Done</td>
   </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT29</td>
-    <td colspan="2">Desarrollo de capa de interfaces</td>
-    <td colspan="3">Crear controladores</td>
-    <td colspan="1">4h</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-  </tr>
+ 
   <tr>
     <td colspan="1">TS10</td>
     <td colspan="2">Recuperar datos de consumo de medicamentos válidos</td>
@@ -1307,16 +1193,7 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Romina</td>
     <td colspan="1">To Do</td>
   </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT31</td>
-    <td colspan="2">Desarrollo de capa de dominio</td>
-    <td colspan="3">Implementar modelos y servicios para recuperar datos de consumo de medicamentos válidos</td>
-    <td colspan="1">3h</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">To DO</td>
-  </tr>
+ 
   <tr>
     <td colspan="1"></td>
     <td colspan="2"></td>
@@ -1327,16 +1204,7 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Romina</td>
     <td colspan="1">To DO</td>
   </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT33</td>
-    <td colspan="2">Desarrollo de capa de interfaces</td>
-    <td colspan="3">Crear controladores</td>
-    <td colspan="1">4h</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">To Do</td>
-  </tr>
+ 
 <tr>
     <td colspan="1">TS20</td>
     <td colspan="2">Registro de confirmación de consumo de pastillas a través de un RESTful API</td>
@@ -1367,16 +1235,7 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Romina</td>
     <td colspan="1">Done</td>
 </tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT23</td>
-    <td colspan="2">Desarrollo de capa de interfaces</td>
-    <td colspan="3">Crear controladores</td>
-    <td colspan="1">4h</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-</tr>
+
 <tr>
     <td colspan="1">TS05</td>
     <td colspan="2">Inicio de sesión a través de un RESTful API</td>
@@ -1387,16 +1246,7 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Fernando</td>
     <td colspan="1">Done</td>
 </tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT25</td>
-    <td colspan="2">Controlador para el inicio de sesión</td>
-    <td colspan="3">Desarrollo del controlador para acceder al endpoint de inicio de sesión</td>
-    <td colspan="1">1h</td>
-    <td colspan="2">Fernando</td>
-    <td colspan="1">Done</td>
-</tr>
+
 <tr>
     <td colspan="1">TS01</td>
     <td colspan="2">Añadir paciente a través de un RESTful API</td>
@@ -1407,36 +1257,7 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Fernando</td>
     <td colspan="1">Done</td>
 </tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT27</td>
-    <td colspan="2">Capa de aplicación e interfaz</td>
-    <td colspan="3">Desarrollo de la capa de aplicación e interfaz para el perfil del paciente</td>
-    <td colspan="1">2h</td>
-    <td colspan="2">Fernando</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT28</td>
-    <td colspan="2">Creación de ACL en capa de interfaz</td>
-    <td colspan="3">Desarrollo de ACL para comunicación entre BC</td>
-    <td colspan="1">1h</td>
-    <td colspan="2">Fernando</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT29</td>
-    <td colspan="2">Uso de ACL en capa aplicación</td>
-    <td colspan="3">Desarrollo de servicio que usa ACL para comunicación entre BC</td>
-    <td colspan="1">1h</td>
-    <td colspan="2">Fernando</td>
-    <td colspan="1">Done</td>
-</tr>
+
 <tr>
     <td colspan="1">TS02</td>
     <td colspan="2">Añadir profesional de la salud mental a través de un RESTful API</td>
@@ -1457,26 +1278,7 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Fernando</td>
     <td colspan="1">Done</td>
 </tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT32</td>
-    <td colspan="2">Creación de ACL en capa de interfaz</td>
-    <td colspan="3">Desarrollo de ACL para comunicación entre BC</td>
-    <td colspan="1">1h</td>
-    <td colspan="2">Fernando</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT33</td>
-    <td colspan="2">Uso de ACL en capa aplicación</td>
-    <td colspan="3">Desarrollo de servicio que usa ACL para comunicación entre BC</td>
-    <td colspan="1">1h</td>
-    <td colspan="2">Fernando</td>
-    <td colspan="1">Done</td>
-</tr>
+
 <tr>
     <td colspan="1">TS21</td>
     <td colspan="2">Registro de funciones biológicas a través de un RESTful API</td>
@@ -1484,36 +1286,6 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
     <td colspan="2">Capa de dominio e infraestructura del registro de funciones biológicas</td>
     <td colspan="3">Desarrollo de la capa de dominio e infraestructura para el registro de funciones biológicas</td>
     <td colspan="1">2h</td>
-    <td colspan="2">Fernando</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT35</td>
-    <td colspan="2">Capa de aplicación e interfaz</td>
-    <td colspan="3">Desarrollo de la capa de aplicación e interfaz para el perfil del profesional</td>
-    <td colspan="1">2h</td>
-    <td colspan="2">Fernando</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT36</td>
-    <td colspan="2">Creación de ACL en capa de interfaz</td>
-    <td colspan="3">Desarrollo de ACL para comunicación entre BC</td>
-    <td colspan="1">1h</td>
-    <td colspan="2">Fernando</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">UT37</td>
-    <td colspan="2">Uso de ACL en capa aplicación</td>
-    <td colspan="3">Desarrollo de servicio que usa ACL para comunicación entre BC</td>
-    <td colspan="1">1h</td>
     <td colspan="2">Fernando</td>
     <td colspan="1">Done</td>
 </tr>
@@ -1547,8 +1319,6 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
 </table>
 
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
-Se realizaron pruebas unitarias mediante archivos `.Test`
-
 
 ### 5.2.3.5.Execution Evidence for Sprint Review.
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
