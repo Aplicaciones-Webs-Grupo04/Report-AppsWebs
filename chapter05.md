@@ -459,7 +459,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <th colspan="2">Commited on (Date)</th>
     </tr>
         <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">e82274c</td>
         <td colspan="2">chore: first commit</td>
@@ -467,7 +467,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">03/09/2024</td>
     </tr>
         <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">50b05f3</td>
         <td colspan="2">feat(html): hero created</td>
@@ -475,7 +475,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">03/09/2024</td>
     </tr>
      <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">515afa7</td>
         <td colspan="2">feat(html): structure of about us created</td>
@@ -483,7 +483,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">2ec2ab5</td>
         <td colspan="2">refactor(html): members html restructured</td>
@@ -491,7 +491,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">6efcffd</td>
         <td colspan="2">add div PSYMED</td>
@@ -499,7 +499,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">ec63485</td>
         <td colspan="2">feat: added the 3 suscriptions plans.</td>
@@ -507,7 +507,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">d9bf7cb</td>
         <td colspan="2">feat(about-us): added about us section</td>
@@ -515,7 +515,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">c325e96</td>
         <td colspan="2">feat(about-the-product): added about the product section</td>
@@ -523,7 +523,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">c152499</td>
         <td colspan="2">refactor: updating Images</td>
