@@ -1647,8 +1647,16 @@ Documentación de los servicios implementados en el Sprint 3:
     </tr>
 </table>
 
-
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+Despliegue del FrontEnd en firebase:
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/deploy.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Despliegue del BackEnd aún no implementado:
+
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
