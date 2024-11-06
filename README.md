@@ -382,7 +382,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         Fomenté un ambiente inclusivo y organizado, donde todos pudieran aportar ideas y colaborar. Planifiqué las tareas de forma clara, estableciendo metas   alcanzables y siguiendo el progreso a través de herramientas de gestión. Gracias a esto, logramos cumplir con los plazos establecidos y entregar un producto de calidad.
         <br><br>
         Lizano, Fernando:
-        insert text here
+        Como líder, Fernando fomentó un ambiente inclusivo y organizado, alentando la participación y colaboración de todos los miembros del equipo. Planificó las tareas de manera clara, estableciendo metas alcanzables y manteniendo un seguimiento constante del progreso mediante herramientas de gestión. Además, asumió la responsabilidad de todo lo relacionado con los perfiles del proyecto. Gracias a su liderazgo, el equipo logró cumplir con los plazos y entregar un producto de alta calidad.
         <br><br>
         Maita, Romina:
         En esta entrega logré fomentar un ambiente inclusivo al compartir ideas con los demás integrantes y realizar reuniones para observar el progreso del desarrollo del proyecto.

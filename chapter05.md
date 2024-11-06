@@ -1798,6 +1798,10 @@ Evaluación de la aplicación de salud mental utilizando las 10 heurísticas de 
 
 ## 5.4. Video About-the-Product
 
+El video sobre el producto Psymed se encuentra en el siguiente enlace:
+
+[About the Product](https://youtu.be/BBMiFoOHhKI)
+
 ## Conclusiones:
 
 **TB1:**
@@ -1807,7 +1811,7 @@ La primera entrega del proyecto Psymed ha permitido establecer una base sólida 
 En esta segunda entrega, se logró implementar una mejora continua basada en las observaciones y aprendizajes obtenidos durante la primera entrega. A partir de dichas consideraciones, se diseñó y ejecutó el Sprint 2, lo cual permitió avanzar en la creación y diseño de la primera versión del frontend. Asimismo, se completó exitosamente el deploy tanto del frontend como de la API mediante json-server, lo que permitió validar la funcionalidad y la comunicación entre los componentes sin depender de un backend completo. Este enfoque ágil contribuyó a una evolución efectiva del proyecto, manteniendo la calidad y la eficiencia en cada etapa del desarrollo.
 
 **TB2:**
-En esta tercera etapa del proyecto, se avanzó significativamente en la implementación de los bounded contexts identificados, logrando una mayor claridad en las funcionalidades y los requerimientos de cada sección. Se implementaron los servicios correspondientes y se desarrolló una documentación detallada, facilitando la integración y el despliegue tanto de la API como del frontend. Además, se realizó una revisión exhaustiva de los procesos y resultados obtenidos, identificando oportunidades de mejora y ajustes necesarios para la siguiente fase del proyecto. } 
+En esta tercera etapa del proyecto, se avanzó significativamente en la implementación de los bounded contexts identificados, logrando una mayor claridad en las funcionalidades y los requerimientos de cada sección. Se implementaron los servicios correspondientes y se desarrolló una documentación detallada, facilitando la integración y el despliegue tanto de la API como del frontend. Además, se realizó una revisión exhaustiva de los procesos y resultados obtenidos, identificando oportunidades de mejora y ajustes necesarios para la siguiente fase del proyecto. 
 
 ## Referencias bibliográficas:
 
@@ -1846,3 +1850,7 @@ Dashboard. (s.f.). Vercel. https://vercel.com/guardiandeitys-projects
 [FrontEnd: Link del firebase, donde se encuentra desplegado el front end](psymed-6b637.firebaseapp.com): psymed-6b637.firebaseapp.com
 
 [API: Link de la API desplegada](https://alurageek-api-peach.vercel.app)
+
+[About the Product](https://youtu.be/BBMiFoOHhKI)
+
+[About the Team](https://youtu.be/X3sjvwBDlXs)
