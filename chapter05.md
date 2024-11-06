@@ -1529,6 +1529,125 @@ Carpetas creadas:
 </p>
 
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+Documentación de los servicios implementados en el Sprint 3:
+
+<table>
+    <tr>
+        <th colspan="2">Método</th>
+        <th colspan="2">Descripción</th>
+        <th colspan="2">Endpoint</th>
+        <th colspan="2">Parámetros</th>
+        <th colspan="2">Respuesta</th>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene todas las citas</td>
+        <td colspan="2">/api/v1/Appointments</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Lista de citas</td>
+    </tr>
+    <tr>
+        <td colspan="2">POST</td>
+        <td colspan="2">Crea una nueva cita</td>
+        <td colspan="2">/api/v1/Appointments</td>
+        <td colspan="2">Datos de la cita (fecha, hora, etc.)</td>
+        <td colspan="2">Cita creada</td>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene un medicamento por ID</td>
+        <td colspan="2">/api/v1/Medications/{medicationId}</td>
+        <td colspan="2">medicationId</td>
+        <td colspan="2">Detalles del medicamento</td>
+    </tr>
+    <tr>
+        <td colspan="2">POST</td>
+        <td colspan="2">Crea un nuevo medicamento</td>
+        <td colspan="2">/api/v1/Medications</td>
+        <td colspan="2">Datos del medicamento</td>
+        <td colspan="2">Medicamento creado</td>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene todos los medicamentos</td>
+        <td colspan="2">/api/v1/Medications</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Lista de medicamentos</td>
+    </tr>
+    <tr>
+        <td colspan="2">POST</td>
+        <td colspan="2">Crea un perfil nuevo</td>
+        <td colspan="2">/api/v1/Profiles</td>
+        <td colspan="2">Datos del perfil</td>
+        <td colspan="2">Perfil creado</td>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene todos los perfiles</td>
+        <td colspan="2">/api/v1/Profiles</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Lista de perfiles</td>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene un perfil por ID</td>
+        <td colspan="2">/api/v1/Profiles/{profileId}</td>
+        <td colspan="2">profileId</td>
+        <td colspan="2">Detalles del perfil</td>
+    </tr>
+    <tr>
+        <td colspan="2">PUT</td>
+        <td colspan="2">Actualiza un perfil por ID</td>
+        <td colspan="2">/api/v1/Profiles/{profileId}</td>
+        <td colspan="2">profileId y datos a actualizar</td>
+        <td colspan="2">Perfil actualizado</td>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene el pronóstico del clima</td>
+        <td colspan="2">/weatherforecast</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Datos del clima</td>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene todas las tareas</td>
+        <td colspan="2">/api/Tasks</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Lista de tareas</td>
+    </tr>
+    <tr>
+        <td colspan="2">POST</td>
+        <td colspan="2">Crea una nueva tarea</td>
+        <td colspan="2">/api/Tasks</td>
+        <td colspan="2">Datos de la tarea</td>
+        <td colspan="2">Tarea creada</td>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene una tarea por ID</td>
+        <td colspan="2">/api/Tasks/{id}</td>
+        <td colspan="2">id</td>
+        <td colspan="2">Detalles de la tarea</td>
+    </tr>
+    <tr>
+        <td colspan="2">PUT</td>
+        <td colspan="2">Actualiza una tarea por ID</td>
+        <td colspan="2">/api/Tasks/{id}</td>
+        <td colspan="2">id y datos a actualizar</td>
+        <td colspan="2">Tarea actualizada</td>
+    </tr>
+    <tr>
+        <td colspan="2">DELETE</td>
+        <td colspan="2">Elimina una tarea por ID</td>
+        <td colspan="2">/api/Tasks/{id}</td>
+        <td colspan="2">id</td>
+        <td colspan="2">Tarea eliminada</td>
+    </tr>
+</table>
+
+
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 ## 5.3. Validation Interviews.
