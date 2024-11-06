@@ -1031,6 +1031,32 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
 5. ¿Qué aspecto de la app consideras que más contribuye a tu comodidad o progreso en las sesiones? ¿Cómo podría potenciarse aún más?
 
 ### 5.3.2. Registro de Entrevistas.
+
+<div align="center">
+  <img src="assets/Entrevista.png">
+</div>
+
+| Nombre               | Andrés Cieza de León                                                                                                                                                                                                                                                                                                                       |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Edad                 | 27                                                                                                                                                                                                                                                                                                                                          |
+| Distrito             | Miraflores                                                                                                                                                                                                                                                                                                                                  |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022211_upc_edu_pe/EZO2orefyulCgGdPe9u4UR4BJFVk8tzp3JPXMGzpXtnhow?e=mGyGZu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Inicio de entrevista | 0:01 minutos                                                                                                                                                                                                                                                                                                                                |
+| Fin de entrevista    | 03:32 minutos                                                                                                                                                                                                                                                                                                                               |
+
+**Resumen:** Andrés Cieza de León, un profesional de 27 años, utiliza herramientas digitales para gestionar su trabajo. Utiliza principalmente la agenda de citas y las notas de pacientes dentro de la aplicación, aunque menciona que el sistema de estadísticas no es tan útil para su flujo de trabajo actual. Le resultó confuso configurar los recordatorios automáticos y sugiere una guía de ayuda en este aspecto.
+
+Andrés considera que el acceso a la información de sus pacientes es adecuado, pero menciona que sería útil contar con una búsqueda avanzada que le permita filtrar por tipo de sesión o fecha. Por lo general, tarda de 5 a 10 minutos en completar una consulta en la app y sugiere la incorporación de plantillas predefinidas para acelerar el proceso en notas repetitivas. 
+
+Respecto a la seguridad, Andrés está conforme con las medidas actuales, aunque opina que la inclusión de autenticación de dos factores incrementaría su confianza en la protección de los datos de sus pacientes.
+
+A continuación, se resumen algunas ideas de mejora proporcionadas por Andrés:
+- Incluir una guía de ayuda para configurar recordatorios automáticos.
+- Mejorar la funcionalidad de búsqueda avanzada para filtrar información de los pacientes.
+- Incorporar plantillas predefinidas para registrar consultas repetitivas rápidamente.
+- Añadir autenticación de dos factores para reforzar la seguridad de la plataforma.
+
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 ## 5.4. Video About-the-Product.
@@ -1066,6 +1092,8 @@ Dashboard. (s.f.). Vercel. https://vercel.com/guardiandeitys-projects
 ## Anexos
 
 [Entrevistas: Aquí se encuentran las entrevistas realizadas para cada segmento](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+[Entrevistas: Aquí se encuentras la entrevista del Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022211_upc_edu_pe/EZO2orefyulCgGdPe9u4UR4BJFVk8tzp3JPXMGzpXtnhow?e=mGyGZu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 [Video: Aquí se encuentra el video](https://www.canva.com/design/DAGQHfqF3Sw/M0xtiMXMvVNsw0XeZymGVg/view?utm_content=DAGQHfqF3Sw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
