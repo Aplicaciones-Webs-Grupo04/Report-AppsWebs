@@ -1658,6 +1658,17 @@ Despliegue del FrontEnd en firebase:
 Despliegue del BackEnd aún no implementado:
 
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/pulse.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/commits.png"  style="width:800px; height:auto;" alt="">
+</p>
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 Para validar la aplicación y recopilar feedback de los usuarios, se diseñaron entrevistas estructuradas para profesionales de la salud mental y pacientes. Estas entrevistas se centraron en aspectos clave de la aplicación, como la usabilidad, funcionalidades más utilizadas, dificultades encontradas, sugerencias de mejora y percepción de la seguridad de la información. A continuación, se presentan las preguntas diseñadas para cada grupo de usuarios:
