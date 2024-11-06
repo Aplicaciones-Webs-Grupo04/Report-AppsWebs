@@ -1556,8 +1556,121 @@ Se realizaron pruebas unitarias mediante archivos `.Test`
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
+
+# Preguntas de Mejora para la Aplicación de Salud Mental
+
+## Preguntas para Profesionales de la Salud Mental
+
+### Preguntas Objetivas:
+1. ¿Qué funcionalidades usas más en la aplicación? ¿Cuáles usas menos o te resultan innecesarias?
+2. ¿Hay alguna funcionalidad que hayas intentado usar pero encontraste difícil o confusa?
+3. ¿Te resulta fácil acceder y gestionar la información de tus pacientes desde la app? Si no, ¿qué aspecto mejorarías?
+4. ¿Cuánto tiempo promedio te toma completar una consulta o registro dentro de la app? ¿Crees que puede reducirse?
+5. ¿Consideras que el sistema de seguridad y privacidad de la app cumple con tus necesidades? ¿Qué mejorarías en este aspecto?
+
+### Preguntas Subjetivas:
+1. ¿Qué añadirías o mejorarías en el sistema de seguimiento y gestión de pacientes?
+2. ¿Qué tan intuitivo es el flujo de trabajo en la app? ¿Qué aspectos consideras que podrían simplificarse?
+3. ¿Hay alguna funcionalidad adicional que creas importante para facilitar tu labor con los pacientes?
+4. ¿Qué tan útil sería para ti un sistema de recordatorios o notificaciones automáticas? ¿Qué tipo de recordatorios preferirías recibir?
+5. ¿Qué cambiarías en la interfaz de usuario para hacer la experiencia más agradable o eficiente?
+
+## Preguntas para Pacientes
+
+### Preguntas Objetivas:
+1. ¿Qué sección de la app usas más (ejemplo: citas, mensajes, notas de sesión)?
+2. ¿Cuán fácil te resulta acceder a la información que necesitas, como horarios de citas o notas de las sesiones?
+3. ¿Consideras que la aplicación facilita tus interacciones con el profesional? Si no, ¿qué mejorarías?
+4. ¿Has experimentado dificultades técnicas al usar la app? Si es así, ¿cuáles?
+5. ¿Sientes que tu información personal está segura en la aplicación? ¿Qué te haría sentir aún más seguro?
+
+### Preguntas Subjetivas:
+1. ¿Qué funciones te gustaría agregar a la app para mejorar tu experiencia?
+2. ¿Te gustaría recibir notificaciones para recordarte citas o tareas asignadas en sesión? ¿De qué tipo?
+3. ¿Qué tan intuitiva y fácil de usar te parece la interfaz? ¿Qué parte cambiarías para mejorarla?
+4. ¿Cómo te gustaría que evolucionara la app para mejorar la comunicación con tu profesional?
+5. ¿Qué aspecto de la app consideras que más contribuye a tu comodidad o progreso en las sesiones? ¿Cómo podría potenciarse aún más?
+
 ### 5.3.2. Registro de Entrevistas.
+
+<div align="center">
+  <img src="assets/Entrevista.png">
+</div>
+
+| Nombre               | Andrés Cieza de León                                                                                                                                                                                                                                                                                                                       |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Edad                 | 27                                                                                                                                                                                                                                                                                                                                          |
+| Distrito             | Miraflores                                                                                                                                                                                                                                                                                                                                  |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022211_upc_edu_pe/EZO2orefyulCgGdPe9u4UR4BJFVk8tzp3JPXMGzpXtnhow?e=mGyGZu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Inicio de entrevista | 0:01 minutos                                                                                                                                                                                                                                                                                                                                |
+| Fin de entrevista    | 03:32 minutos                                                                                                                                                                                                                                                                                                                               |
+
+**Resumen:** Andrés Cieza de León, un profesional de 27 años, utiliza herramientas digitales para gestionar su trabajo. Utiliza principalmente la agenda de citas y las notas de pacientes dentro de la aplicación, aunque menciona que el sistema de estadísticas no es tan útil para su flujo de trabajo actual. Le resultó confuso configurar los recordatorios automáticos y sugiere una guía de ayuda en este aspecto.
+
+Andrés considera que el acceso a la información de sus pacientes es adecuado, pero menciona que sería útil contar con una búsqueda avanzada que le permita filtrar por tipo de sesión o fecha. Por lo general, tarda de 5 a 10 minutos en completar una consulta en la app y sugiere la incorporación de plantillas predefinidas para acelerar el proceso en notas repetitivas. 
+
+Respecto a la seguridad, Andrés está conforme con las medidas actuales, aunque opina que la inclusión de autenticación de dos factores incrementaría su confianza en la protección de los datos de sus pacientes.
+
+A continuación, se resumen algunas ideas de mejora proporcionadas por Andrés:
+- Incluir una guía de ayuda para configurar recordatorios automáticos.
+- Mejorar la funcionalidad de búsqueda avanzada para filtrar información de los pacientes.
+- Incorporar plantillas predefinidas para registrar consultas repetitivas rápidamente.
+- Añadir autenticación de dos factores para reforzar la seguridad de la plataforma.
+
+
 ### 5.3.3. Evaluaciones según heurísticas.
+
+Evaluación de la aplicación de salud mental utilizando las 10 heurísticas de usabilidad de Jakob Nielsen. Para cada heurística se incluyen observaciones específicas y sugerencias de mejora.
+
+## 1. Visibilidad del estado del sistema
+**Descripción:** La aplicación debe mantener al usuario informado sobre el estado de cada acción realizada.
+- **Observaciones:** La aplicación muestra un indicador de carga al guardar registros de pacientes, pero no siempre se muestra al agendar citas, lo cual puede generar confusión.
+- **Sugerencias de mejora:** Añadir indicadores de progreso en todos los procesos, especialmente al agendar y guardar información, para mejorar la visibilidad.
+
+## 2. Concordancia entre el sistema y el mundo real
+**Descripción:** Los términos y conceptos en la app deben ser familiares y fáciles de entender para el usuario.
+- **Observaciones:** Algunos términos médicos pueden ser difíciles de entender para pacientes que usan la app.
+- **Sugerencias de mejora:** Incluir un glosario de términos médicos o explicaciones contextuales para ayudar a los pacientes a comprender mejor la información.
+
+## 3. Control y libertad del usuario
+**Descripción:** Permitir que el usuario deshaga o rehaga acciones fácilmente.
+- **Observaciones:** No existe una opción para deshacer cambios en notas o registros, lo cual limita la flexibilidad en la gestión de datos.
+- **Sugerencias de mejora:** Incluir un botón de "Deshacer" o una opción de confirmar antes de guardar cambios importantes.
+
+## 4. Consistencia y estándares
+**Descripción:** Los usuarios deben reconocer fácilmente patrones y estilos consistentes en toda la aplicación.
+- **Observaciones:** Algunos botones de navegación están ubicados de forma inconsistente entre pantallas, lo cual puede confundir a los usuarios.
+- **Sugerencias de mejora:** Asegurarse de que todos los elementos de navegación tengan una ubicación y estilo consistentes.
+
+## 5. Prevención de errores
+**Descripción:** Diseñar la app para evitar errores del usuario, siempre que sea posible.
+- **Observaciones:** No hay alertas para prevenir la eliminación accidental de información importante.
+- **Sugerencias de mejora:** Implementar ventanas de confirmación para acciones críticas, como eliminar o modificar registros de pacientes.
+
+## 6. Reconocimiento antes que recuerdo
+**Descripción:** Minimizar la carga de memoria del usuario al mostrar opciones de manera visible y contextual.
+- **Observaciones:** Los usuarios deben navegar varios menús para acceder a información de citas y notas.
+- **Sugerencias de mejora:** Implementar un menú rápido o accesos directos a las secciones de uso frecuente.
+
+## 7. Flexibilidad y eficiencia de uso
+**Descripción:** La app debe permitir accesos rápidos y opciones avanzadas para usuarios expertos.
+- **Observaciones:** No hay atajos de teclado ni opciones para registrar notas rápidamente.
+- **Sugerencias de mejora:** Agregar atajos de teclado y plantillas de registro para usuarios avanzados, lo que podría hacer el flujo de trabajo más eficiente.
+
+## 8. Estética y diseño minimalista
+**Descripción:** Evitar la sobrecarga de información y mantener el diseño simple.
+- **Observaciones:** La pantalla de inicio presenta demasiados elementos que podrían distraer al usuario.
+- **Sugerencias de mejora:** Simplificar la interfaz inicial y mostrar solo las funciones más importantes para que la navegación sea más clara.
+
+## 9. Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores
+**Descripción:** Ofrecer mensajes claros y comprensibles cuando se produce un error.
+- **Observaciones:** Los mensajes de error son técnicos y no indican pasos para solucionar el problema.
+- **Sugerencias de mejora:** Redactar mensajes de error en un lenguaje sencillo e incluir instrucciones para resolverlos, si es posible.
+
+## 10. Ayuda y documentación
+**Descripción:** Facilitar documentación accesible para que los usuarios encuentren ayuda fácilmente.
+- **Observaciones:** La app carece de una sección de ayuda clara para explicar funcionalidades clave.
+- **Sugerencias de mejora:** Añadir una sección de ayuda y guías paso a paso dentro de la app, junto con una opción de contacto directo para soporte.
 
 ## 5.4. Video About-the-Product.
 
@@ -1592,6 +1705,8 @@ Dashboard. (s.f.). Vercel. https://vercel.com/guardiandeitys-projects
 ## Anexos
 
 [Entrevistas: Aquí se encuentran las entrevistas realizadas para cada segmento](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+[Entrevistas: Aquí se encuentras la entrevista del Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022211_upc_edu_pe/EZO2orefyulCgGdPe9u4UR4BJFVk8tzp3JPXMGzpXtnhow?e=mGyGZu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 [Video: Aquí se encuentra el video](https://www.canva.com/design/DAGQHfqF3Sw/M0xtiMXMvVNsw0XeZymGVg/view?utm_content=DAGQHfqF3Sw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
