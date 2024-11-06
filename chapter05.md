@@ -1324,10 +1324,107 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
 
 ### 5.2.3.3.Development Evidence for Sprint Review.
 
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint 3 referente a los Web Services. Aquí se dejará alguno de los commits ya implementados dentro del repositorio de Github, junto a toda la información referente y a los cambios concluidos.
+
 <table>
-<tr>
-</tr>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Committed on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">f2ce51c</td>
+        <td colspan="2">chore: add model builder extensions and string extensions</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">c2e517f</td>
+        <td colspan="2">chore: add kebabcase naming convention</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">1b569ac</td>
+        <td colspan="2">chore: add kebabcase naming convention</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d971c01</td>
+        <td colspan="2">chore: add extensions</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d5cdca2</td>
+        <td colspan="2">chore: added repositories to shared file</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">3e373f2</td>
+        <td colspan="2">feat: create task repository</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">a7936c2</td>
+        <td colspan="2">feat: create task query service</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">db9bb85</td>
+        <td colspan="2">feat: create task query</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">aa7b7f1</td>
+        <td colspan="2">feat: create command service for task</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">b6f1811</td>
+        <td colspan="2">feat: create task.cs</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d760e97</td>
+        <td colspan="2">feat: aggregate tasks</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
 </table>
+
 
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 
@@ -1497,7 +1594,7 @@ Dashboard. (s.f.). Vercel. https://vercel.com/guardiandeitys-projects
 
 [Entrevistas: Aquí se encuentran las entrevistas realizadas para cada segmento](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-[Entrevistas: Aquí se encuentras la entrevista del Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022211_upc_edu_pe/EZO2orefyulCgGdPe9u4UR4BJFVk8tzp3JPXMGzpXtnhow?e=mGyGZu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Entrevistas: Aquí se encuentra la entrevista del Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022211_upc_edu_pe/EZO2orefyulCgGdPe9u4UR4BJFVk8tzp3JPXMGzpXtnhow?e=mGyGZu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 [Video: Aquí se encuentra el video](https://www.canva.com/design/DAGQHfqF3Sw/M0xtiMXMvVNsw0XeZymGVg/view?utm_content=DAGQHfqF3Sw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
@@ -1509,7 +1606,6 @@ Dashboard. (s.f.). Vercel. https://vercel.com/guardiandeitys-projects
 
 [Figma: Link del figma, donde se elaboró todos los wireframes, mockups, etc.](https://www.figma.com/design/WdMYexswCo2IFZE3tdsAJs/Open-Source-y-App-Web?node-id=2001-1221&t=TaobC3sKlo2d1Iqs-1)
 
-[FrontEnd: Link del firebase, donde se encuentra desplegado el front end](psymed-6b637.firebaseapp.com) 
-<br> psymed-6b637.firebaseapp.com
+[FrontEnd: Link del firebase, donde se encuentra desplegado el front end](psymed-6b637.firebaseapp.com): psymed-6b637.firebaseapp.com
 
 [API: Link de la API desplegada](https://alurageek-api-peach.vercel.app)
