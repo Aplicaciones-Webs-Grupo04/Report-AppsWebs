@@ -995,6 +995,41 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
+
+# Preguntas de Mejora para la Aplicación de Salud Mental
+
+## Preguntas para Profesionales de la Salud Mental
+
+### Preguntas Objetivas:
+1. ¿Qué funcionalidades usas más en la aplicación? ¿Cuáles usas menos o te resultan innecesarias?
+2. ¿Hay alguna funcionalidad que hayas intentado usar pero encontraste difícil o confusa?
+3. ¿Te resulta fácil acceder y gestionar la información de tus pacientes desde la app? Si no, ¿qué aspecto mejorarías?
+4. ¿Cuánto tiempo promedio te toma completar una consulta o registro dentro de la app? ¿Crees que puede reducirse?
+5. ¿Consideras que el sistema de seguridad y privacidad de la app cumple con tus necesidades? ¿Qué mejorarías en este aspecto?
+
+### Preguntas Subjetivas:
+1. ¿Qué añadirías o mejorarías en el sistema de seguimiento y gestión de pacientes?
+2. ¿Qué tan intuitivo es el flujo de trabajo en la app? ¿Qué aspectos consideras que podrían simplificarse?
+3. ¿Hay alguna funcionalidad adicional que creas importante para facilitar tu labor con los pacientes?
+4. ¿Qué tan útil sería para ti un sistema de recordatorios o notificaciones automáticas? ¿Qué tipo de recordatorios preferirías recibir?
+5. ¿Qué cambiarías en la interfaz de usuario para hacer la experiencia más agradable o eficiente?
+
+## Preguntas para Pacientes
+
+### Preguntas Objetivas:
+1. ¿Qué sección de la app usas más (ejemplo: citas, mensajes, notas de sesión)?
+2. ¿Cuán fácil te resulta acceder a la información que necesitas, como horarios de citas o notas de las sesiones?
+3. ¿Consideras que la aplicación facilita tus interacciones con el profesional? Si no, ¿qué mejorarías?
+4. ¿Has experimentado dificultades técnicas al usar la app? Si es así, ¿cuáles?
+5. ¿Sientes que tu información personal está segura en la aplicación? ¿Qué te haría sentir aún más seguro?
+
+### Preguntas Subjetivas:
+1. ¿Qué funciones te gustaría agregar a la app para mejorar tu experiencia?
+2. ¿Te gustaría recibir notificaciones para recordarte citas o tareas asignadas en sesión? ¿De qué tipo?
+3. ¿Qué tan intuitiva y fácil de usar te parece la interfaz? ¿Qué parte cambiarías para mejorarla?
+4. ¿Cómo te gustaría que evolucionara la app para mejorar la comunicación con tu profesional?
+5. ¿Qué aspecto de la app consideras que más contribuye a tu comodidad o progreso en las sesiones? ¿Cómo podría potenciarse aún más?
+
 ### 5.3.2. Registro de Entrevistas.
 ### 5.3.3. Evaluaciones según heurísticas.
 
