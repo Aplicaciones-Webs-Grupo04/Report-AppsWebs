@@ -317,7 +317,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         insert text here
         <br><br>
         Maita, Romina:
-        insert text here
+        En esta entrega logré organizar y cumplir las metas planteadas al liderar y ayudar a planificar las tareas para cada integrante con la finalidad de tener una primera versión funcional del backend.
         <br><br>
         Riega, Jose:
         insert text here
@@ -384,7 +384,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         insert text here
         <br><br>
         Maita, Romina:
-        insert text here
+        En esta entrega logré fomentar un ambiente inclusivo al compartir ideas con los demás integrantes y realizar reuniones para observar el progreso del desarrollo del proyecto.
         <br><br>
         Riega, Jose:
         insert text here
