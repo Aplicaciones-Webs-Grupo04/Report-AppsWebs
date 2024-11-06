@@ -1337,35 +1337,34 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
+Para validar la aplicación y recopilar feedback de los usuarios, se diseñaron entrevistas estructuradas para profesionales de la salud mental y pacientes. Estas entrevistas se centraron en aspectos clave de la aplicación, como la usabilidad, funcionalidades más utilizadas, dificultades encontradas, sugerencias de mejora y percepción de la seguridad de la información. A continuación, se presentan las preguntas diseñadas para cada grupo de usuarios:
 
-# Preguntas de Mejora para la Aplicación de Salud Mental
+* Preguntas para Profesionales de la Salud Mental
 
-## Preguntas para Profesionales de la Salud Mental
-
-### Preguntas Objetivas:
+Preguntas Objetivas:
 1. ¿Qué funcionalidades usas más en la aplicación? ¿Cuáles usas menos o te resultan innecesarias?
 2. ¿Hay alguna funcionalidad que hayas intentado usar pero encontraste difícil o confusa?
 3. ¿Te resulta fácil acceder y gestionar la información de tus pacientes desde la app? Si no, ¿qué aspecto mejorarías?
 4. ¿Cuánto tiempo promedio te toma completar una consulta o registro dentro de la app? ¿Crees que puede reducirse?
 5. ¿Consideras que el sistema de seguridad y privacidad de la app cumple con tus necesidades? ¿Qué mejorarías en este aspecto?
 
-### Preguntas Subjetivas:
+Preguntas Subjetivas:
 1. ¿Qué añadirías o mejorarías en el sistema de seguimiento y gestión de pacientes?
 2. ¿Qué tan intuitivo es el flujo de trabajo en la app? ¿Qué aspectos consideras que podrían simplificarse?
 3. ¿Hay alguna funcionalidad adicional que creas importante para facilitar tu labor con los pacientes?
 4. ¿Qué tan útil sería para ti un sistema de recordatorios o notificaciones automáticas? ¿Qué tipo de recordatorios preferirías recibir?
 5. ¿Qué cambiarías en la interfaz de usuario para hacer la experiencia más agradable o eficiente?
 
-## Preguntas para Pacientes
+* Preguntas para Pacientes
 
-### Preguntas Objetivas:
+Preguntas Objetivas:
 1. ¿Qué sección de la app usas más (ejemplo: citas, mensajes, notas de sesión)?
 2. ¿Cuán fácil te resulta acceder a la información que necesitas, como horarios de citas o notas de las sesiones?
 3. ¿Consideras que la aplicación facilita tus interacciones con el profesional? Si no, ¿qué mejorarías?
 4. ¿Has experimentado dificultades técnicas al usar la app? Si es así, ¿cuáles?
 5. ¿Sientes que tu información personal está segura en la aplicación? ¿Qué te haría sentir aún más seguro?
 
-### Preguntas Subjetivas:
+Preguntas Subjetivas:
 1. ¿Qué funciones te gustaría agregar a la app para mejorar tu experiencia?
 2. ¿Te gustaría recibir notificaciones para recordarte citas o tareas asignadas en sesión? ¿De qué tipo?
 3. ¿Qué tan intuitiva y fácil de usar te parece la interfaz? ¿Qué parte cambiarías para mejorarla?
@@ -1463,9 +1462,9 @@ Evaluación de la aplicación de salud mental utilizando las 10 heurísticas de 
     - **Sugerencias de mejora:** Añadir una sección de ayuda y guías paso a paso dentro de la app, junto con una opción de contacto directo para soporte.
     
 
-## 5.4. Video About-the-Product.
+## 5.4. Video About-the-Product
 
-## Conclusiones
+## Conclusiones:
 
 **TB1:**
 La primera entrega del proyecto Psymed ha permitido establecer una base sólida tanto conceptual como técnica para el desarrollo del sistema. Se logró identificar claramente la problemática y necesidades del usuario mediante entrevistas y análisis, lo que guió la creación de historias de usuario y un product backlog bien estructurado. El equipo implementó un flujo de trabajo eficiente con Gitflow y Conventional Commits, asegurando orden en el desarrollo y colaboración a través de GitHub. Además, se avanzó en el diseño visual y la funcionalidad inicial de la landing page, con una propuesta centrada en la experiencia del usuario. La documentación fue realizada cuidadosamente siguiendo el formato APA, garantizando coherencia y claridad en todo el informe. Esto proporciona una dirección clara para las próximas etapas del proyecto.
@@ -1474,8 +1473,9 @@ La primera entrega del proyecto Psymed ha permitido establecer una base sólida 
 En esta segunda entrega, se logró implementar una mejora continua basada en las observaciones y aprendizajes obtenidos durante la primera entrega. A partir de dichas consideraciones, se diseñó y ejecutó el Sprint 2, lo cual permitió avanzar en la creación y diseño de la primera versión del frontend. Asimismo, se completó exitosamente el deploy tanto del frontend como de la API mediante json-server, lo que permitió validar la funcionalidad y la comunicación entre los componentes sin depender de un backend completo. Este enfoque ágil contribuyó a una evolución efectiva del proyecto, manteniendo la calidad y la eficiencia en cada etapa del desarrollo.
 
 **TB2:**
-En esta tercera etapa del proyecto, se avanzó significativamente en la implementación de los bounded contexts identificados, logrando una mayor claridad en las funcionalidades y los requerimientos de cada sección. Se implementaron los servicios correspondientes y se desarrolló una documentación detallada, facilitando la integración y el despliegue tanto de la API como del frontend. Además, se realizó una revisión exhaustiva de los procesos y resultados obtenidos, identificando oportunidades de mejora y ajustes necesarios para la siguiente fase del proyecto. Referencias bibliográficas.
+En esta tercera etapa del proyecto, se avanzó significativamente en la implementación de los bounded contexts identificados, logrando una mayor claridad en las funcionalidades y los requerimientos de cada sección. Se implementaron los servicios correspondientes y se desarrolló una documentación detallada, facilitando la integración y el despliegue tanto de la API como del frontend. Además, se realizó una revisión exhaustiva de los procesos y resultados obtenidos, identificando oportunidades de mejora y ajustes necesarios para la siguiente fase del proyecto. } 
 
+## Referencias bibliográficas:
 
 Contributors, M. o. J. T. A. B. (s.f.). Bootstrap. https://getbootstrap.com/
 
