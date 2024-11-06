@@ -308,7 +308,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         insert text here
         <br><br>
         Javier, Mathias:
-        insert text here
+        Colaboré en el desarrollo del backend para las funcionalidades del sistema Treatment, trabajando estrechamente con el equipo para coordinar tareas y asegurar una implementación exitosa. Fomenté una comunicación efectiva dentro del grupo, apoyando a mis compañeros para resolver problemas técnicos y garantizando que las soluciones fueran implementadas de acuerdo con los requisitos. Mi enfoque estuvo en asegurar que todos tuviéramos claridad en nuestras responsabilidades y trabajáramos de manera colaborativa hacia los objetivos del proyecto.
         <br><br>
         Luza, Jose:
         Trabajé en equipo para liderar el desarrollo del backend de las funciones del sistema Patient Entry. Me aseguré de coordinar las tareas y mantener una comunicación fluida, apoyando a mis compañeros en la implementación de las soluciones y asegurando que todos tuviéramos claro nuestro rol y objetivos.
@@ -376,7 +376,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         insert text here
         <br><br>
         Javier, Mathias:
-        insert text here
+        Promoví un entorno de trabajo organizado e inclusivo, donde cada miembro del equipo pudiera compartir ideas y contribuir al desarrollo del proyecto. Me encargué de planificar y dividir las tareas de manera estructurada, estableciendo objetivos claros y alcanzables. Utilicé herramientas de gestión para hacer seguimiento al progreso, lo que nos permitió cumplir con los plazos establecidos y entregar un producto de alta calidad.
         <br><br>
         Luza, Jose:
         Fomenté un ambiente inclusivo y organizado, donde todos pudieran aportar ideas y colaborar. Planifiqué las tareas de forma clara, estableciendo metas   alcanzables y siguiendo el progreso a través de herramientas de gestión. Gracias a esto, logramos cumplir con los plazos establecidos y entregar un producto de calidad.
