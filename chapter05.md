@@ -1403,55 +1403,65 @@ A continuación, se resumen algunas ideas de mejora proporcionadas por Andrés:
 
 Evaluación de la aplicación de salud mental utilizando las 10 heurísticas de usabilidad de Jakob Nielsen. Para cada heurística se incluyen observaciones específicas y sugerencias de mejora.
 
-## 1. Visibilidad del estado del sistema
+1. Visibilidad del estado del sistema
 **Descripción:** La aplicación debe mantener al usuario informado sobre el estado de cada acción realizada.
-- **Observaciones:** La aplicación muestra un indicador de carga al guardar registros de pacientes, pero no siempre se muestra al agendar citas, lo cual puede generar confusión.
-- **Sugerencias de mejora:** Añadir indicadores de progreso en todos los procesos, especialmente al agendar y guardar información, para mejorar la visibilidad.
+   - **Observaciones:** La aplicación muestra un indicador de carga al guardar registros de pacientes, pero no siempre se muestra al agendar citas, lo cual puede generar confusión.
+   - **Sugerencias de mejora:** Añadir indicadores de progreso en todos los procesos, especialmente al agendar y guardar información, para mejorar la visibilidad.
 
-## 2. Concordancia entre el sistema y el mundo real
+
+2. Concordancia entre el sistema y el mundo real
 **Descripción:** Los términos y conceptos en la app deben ser familiares y fáciles de entender para el usuario.
-- **Observaciones:** Algunos términos médicos pueden ser difíciles de entender para pacientes que usan la app.
-- **Sugerencias de mejora:** Incluir un glosario de términos médicos o explicaciones contextuales para ayudar a los pacientes a comprender mejor la información.
+   - **Observaciones:** Algunos términos médicos pueden ser difíciles de entender para pacientes que usan la app.
+   - **Sugerencias de mejora:** Incluir un glosario de términos médicos o explicaciones contextuales para ayudar a los pacientes a comprender mejor la información.
 
-## 3. Control y libertad del usuario
+
+3. Control y libertad del usuario
 **Descripción:** Permitir que el usuario deshaga o rehaga acciones fácilmente.
-- **Observaciones:** No existe una opción para deshacer cambios en notas o registros, lo cual limita la flexibilidad en la gestión de datos.
-- **Sugerencias de mejora:** Incluir un botón de "Deshacer" o una opción de confirmar antes de guardar cambios importantes.
+    - **Observaciones:** No existe una opción para deshacer cambios en notas o registros, lo cual limita la flexibilidad en la gestión de datos.
+    - **Sugerencias de mejora:** Incluir un botón de "Deshacer" o una opción de confirmar antes de guardar cambios importantes.
 
-## 4. Consistencia y estándares
+    
+4. Consistencia y estándares
 **Descripción:** Los usuarios deben reconocer fácilmente patrones y estilos consistentes en toda la aplicación.
-- **Observaciones:** Algunos botones de navegación están ubicados de forma inconsistente entre pantallas, lo cual puede confundir a los usuarios.
-- **Sugerencias de mejora:** Asegurarse de que todos los elementos de navegación tengan una ubicación y estilo consistentes.
+   - **Observaciones:** Algunos botones de navegación están ubicados de forma inconsistente entre pantallas, lo cual puede confundir a los usuarios.
+   - **Sugerencias de mejora:** Asegurarse de que todos los elementos de navegación tengan una ubicación y estilo consistentes.
 
-## 5. Prevención de errores
+
+5. Prevención de errores
 **Descripción:** Diseñar la app para evitar errores del usuario, siempre que sea posible.
-- **Observaciones:** No hay alertas para prevenir la eliminación accidental de información importante.
-- **Sugerencias de mejora:** Implementar ventanas de confirmación para acciones críticas, como eliminar o modificar registros de pacientes.
+   - **Observaciones:** No hay alertas para prevenir la eliminación accidental de información importante.
+   - **Sugerencias de mejora:** Implementar ventanas de confirmación para acciones críticas, como eliminar o modificar registros de pacientes.
 
-## 6. Reconocimiento antes que recuerdo
+
+6. Reconocimiento antes que recuerdo
 **Descripción:** Minimizar la carga de memoria del usuario al mostrar opciones de manera visible y contextual.
-- **Observaciones:** Los usuarios deben navegar varios menús para acceder a información de citas y notas.
-- **Sugerencias de mejora:** Implementar un menú rápido o accesos directos a las secciones de uso frecuente.
+   - **Observaciones:** Los usuarios deben navegar varios menús para acceder a información de citas y notas.
+   - **Sugerencias de mejora:** Implementar un menú rápido o accesos directos a las secciones de uso frecuente.
 
-## 7. Flexibilidad y eficiencia de uso
+
+7. Flexibilidad y eficiencia de uso
 **Descripción:** La app debe permitir accesos rápidos y opciones avanzadas para usuarios expertos.
-- **Observaciones:** No hay atajos de teclado ni opciones para registrar notas rápidamente.
-- **Sugerencias de mejora:** Agregar atajos de teclado y plantillas de registro para usuarios avanzados, lo que podría hacer el flujo de trabajo más eficiente.
+   - **Observaciones:** No hay atajos de teclado ni opciones para registrar notas rápidamente.
+   - **Sugerencias de mejora:** Agregar atajos de teclado y plantillas de registro para usuarios avanzados, lo que podría hacer el flujo de trabajo más eficiente.
 
-## 8. Estética y diseño minimalista
+
+8. Estética y diseño minimalista
 **Descripción:** Evitar la sobrecarga de información y mantener el diseño simple.
-- **Observaciones:** La pantalla de inicio presenta demasiados elementos que podrían distraer al usuario.
-- **Sugerencias de mejora:** Simplificar la interfaz inicial y mostrar solo las funciones más importantes para que la navegación sea más clara.
+   - **Observaciones:** La pantalla de inicio presenta demasiados elementos que podrían distraer al usuario.
+   - **Sugerencias de mejora:** Simplificar la interfaz inicial y mostrar solo las funciones más importantes para que la navegación sea más clara.
+    
 
-## 9. Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores
+9. Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores
 **Descripción:** Ofrecer mensajes claros y comprensibles cuando se produce un error.
-- **Observaciones:** Los mensajes de error son técnicos y no indican pasos para solucionar el problema.
-- **Sugerencias de mejora:** Redactar mensajes de error en un lenguaje sencillo e incluir instrucciones para resolverlos, si es posible.
+   - **Observaciones:** Los mensajes de error son técnicos y no indican pasos para solucionar el problema.
+   - **Sugerencias de mejora:** Redactar mensajes de error en un lenguaje sencillo e incluir instrucciones para resolverlos, si es posible.
 
-## 10. Ayuda y documentación
+
+10. Ayuda y documentación
 **Descripción:** Facilitar documentación accesible para que los usuarios encuentren ayuda fácilmente.
-- **Observaciones:** La app carece de una sección de ayuda clara para explicar funcionalidades clave.
-- **Sugerencias de mejora:** Añadir una sección de ayuda y guías paso a paso dentro de la app, junto con una opción de contacto directo para soporte.
+    - **Observaciones:** La app carece de una sección de ayuda clara para explicar funcionalidades clave.
+    - **Sugerencias de mejora:** Añadir una sección de ayuda y guías paso a paso dentro de la app, junto con una opción de contacto directo para soporte.
+    
 
 ## 5.4. Video About-the-Product.
 
