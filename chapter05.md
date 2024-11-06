@@ -459,7 +459,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <th colspan="2">Commited on (Date)</th>
     </tr>
         <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">e82274c</td>
         <td colspan="2">chore: first commit</td>
@@ -467,7 +467,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">03/09/2024</td>
     </tr>
         <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">50b05f3</td>
         <td colspan="2">feat(html): hero created</td>
@@ -475,7 +475,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">03/09/2024</td>
     </tr>
      <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">515afa7</td>
         <td colspan="2">feat(html): structure of about us created</td>
@@ -483,7 +483,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">2ec2ab5</td>
         <td colspan="2">refactor(html): members html restructured</td>
@@ -491,7 +491,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">6efcffd</td>
         <td colspan="2">add div PSYMED</td>
@@ -499,7 +499,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">ec63485</td>
         <td colspan="2">feat: added the 3 suscriptions plans.</td>
@@ -507,7 +507,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">d9bf7cb</td>
         <td colspan="2">feat(about-us): added about us section</td>
@@ -515,7 +515,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">c325e96</td>
         <td colspan="2">feat(about-the-product): added about the product section</td>
@@ -523,7 +523,7 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
         <td colspan="2">c152499</td>
         <td colspan="2">refactor: updating Images</td>
@@ -676,32 +676,43 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>
   <tr>
-    <td colspan="1">US02</td>
-    <td colspan="2">Encontrar información del propósito de la aplicación</td>
+    <td colspan="1">US14</td>
+    <td colspan="2">Registro de medicamentos del paciente</td>
     <td colspan="1">1</td>
-    <td colspan="2">Añadir información relevante de la aplicación</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.</td>
+    <td colspan="2">Añadir función de registro de medicamentos</td>
+    <td colspan="3">Como profesional de la salud mental, quiero registrar los medicamentos del paciente para seguir adecuadamente su tratamiento farmacológico.</td>
     <td colspan="1">2</td>
-    <td colspan="2">Fernando,Romina,Sihuar,Jose, Mathias,Jose Miguel</td>
+    <td colspan="2">Romina</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">US03</td>
-    <td colspan="2">Visualización de imágenes y gráficos relevantes</td>
+    <td colspan="1">US19</td>
+    <td colspan="2">Visualización de los estados de ánimo del paciente</td>
     <td colspan="1">2</td>
-    <td colspan="2">Añadir imágenes y gráficos relevantes</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Sihuar,Fernando,Romina</td>
-    <td colspan="1">Done</td>
-<tr>
-    <td colspan="1">US04</td>
-    <td colspan="2">Tipografía cómoda y agradable estéticamente</td>
+    <td colspan="2">Añadir función de visualización de estados de ánimo</td>
+    <td colspan="3">Como profesional de la salud mental, quiero visualizar un registro de los estados de ánimo históricos del paciente para evaluar su progreso emocional.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Añadir una tipografía fácil de leer y con un tamaño adecuado</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Jose, Mathias,Jose Miguel</td>
+    <td colspan="2">Jose Luza</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US20</td>
+    <td colspan="2">Visualizar información del consumo de medicamentos</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir función de visualización de consumo de medicamentos</td>
+    <td colspan="3">Como profesional de la salud mental, quiero visualizar registros del cumplimiento del paciente con el consumo de la medicación asignada.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US33</td>
+    <td colspan="2">Registro de estado de ánimo</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Añadir función de registro de estado de ánimo</td>
+    <td colspan="3">Como paciente, quiero comunicarle a mi profesional mi estado de ánimo para ver el progreso de mi tratamiento.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Jose Luza</td>
     <td colspan="1">Done</td>
 </tr>
 </table>
@@ -717,76 +728,76 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
         <th colspan="2">Commited on (Date)</th>
     </tr>
         <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">e82274c</td>
-        <td colspan="2">chore: first commit</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">master</td>
+        <td colspan="2">a3c2552</td>
+        <td colspan="2">initial commit</td>
         <td colspan="2">-</td>
-        <td colspan="2">03/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
         <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">50b05f3</td>
-        <td colspan="2">feat(html): hero created</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">master</td>
+        <td colspan="2">a3b0753</td>
+        <td colspan="2">feat: added db.json.</td>
         <td colspan="2">-</td>
-        <td colspan="2">03/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
      <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">515afa7</td>
-        <td colspan="2">feat(html): structure of about us created</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">usermng</td>
+        <td colspan="2">b6be4b4</td>
+        <td colspan="2">feat: add user-mng.component.vue component into src\BC_user-management\pages</td>
         <td colspan="2">-</td>
-        <td colspan="2">04/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">2ec2ab5</td>
-        <td colspan="2">refactor(html): members html restructured</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">tasks</td>
+        <td colspan="2">bc26cba</td>
+        <td colspan="2">feat: add content for task.management.component.vue</td>
         <td colspan="2">-</td>
-        <td colspan="2">04/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">6efcffd</td>
-        <td colspan="2">add div PSYMED</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">entrys</td>
+        <td colspan="2">1a9235f</td>
+        <td colspan="2">feat: add Patient-Entrys</td>
         <td colspan="2">-</td>
-        <td colspan="2">04/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">ec63485</td>
-        <td colspan="2">feat: added the 3 suscriptions plans.</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">home</td>
+        <td colspan="2">e0f3333</td>
+        <td colspan="2">feat: add home content</td>
         <td colspan="2">-</td>
-        <td colspan="2">04/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">d9bf7cb</td>
-        <td colspan="2">feat(about-us): added about us section</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">master</td>
+        <td colspan="2">fc5ca74</td>
+        <td colspan="2">feat: deploy json server</td>
         <td colspan="2">-</td>
-        <td colspan="2">04/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">c325e96</td>
-        <td colspan="2">feat(about-the-product): added about the product section</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">medications</td>
+        <td colspan="2">23e076d</td>
+        <td colspan="2">feat: added medication entity variables</td>
         <td colspan="2">-</td>
-        <td colspan="2">04/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">SW52-Closed-Source/landing-page</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">c152499</td>
-        <td colspan="2">refactor: updating Images</td>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Frontend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">31e81a8</td>
+        <td colspan="2">add: add router</td>
         <td colspan="2">-</td>
-        <td colspan="2">04/09/2024</td>
+        <td colspan="2">27/09/2024</td>
     </tr>
 </table>
 
@@ -1392,55 +1403,65 @@ A continuación, se resumen algunas ideas de mejora proporcionadas por Andrés:
 
 Evaluación de la aplicación de salud mental utilizando las 10 heurísticas de usabilidad de Jakob Nielsen. Para cada heurística se incluyen observaciones específicas y sugerencias de mejora.
 
-## 1. Visibilidad del estado del sistema
+1. Visibilidad del estado del sistema
 **Descripción:** La aplicación debe mantener al usuario informado sobre el estado de cada acción realizada.
-- **Observaciones:** La aplicación muestra un indicador de carga al guardar registros de pacientes, pero no siempre se muestra al agendar citas, lo cual puede generar confusión.
-- **Sugerencias de mejora:** Añadir indicadores de progreso en todos los procesos, especialmente al agendar y guardar información, para mejorar la visibilidad.
+   - **Observaciones:** La aplicación muestra un indicador de carga al guardar registros de pacientes, pero no siempre se muestra al agendar citas, lo cual puede generar confusión.
+   - **Sugerencias de mejora:** Añadir indicadores de progreso en todos los procesos, especialmente al agendar y guardar información, para mejorar la visibilidad.
 
-## 2. Concordancia entre el sistema y el mundo real
+
+2. Concordancia entre el sistema y el mundo real
 **Descripción:** Los términos y conceptos en la app deben ser familiares y fáciles de entender para el usuario.
-- **Observaciones:** Algunos términos médicos pueden ser difíciles de entender para pacientes que usan la app.
-- **Sugerencias de mejora:** Incluir un glosario de términos médicos o explicaciones contextuales para ayudar a los pacientes a comprender mejor la información.
+   - **Observaciones:** Algunos términos médicos pueden ser difíciles de entender para pacientes que usan la app.
+   - **Sugerencias de mejora:** Incluir un glosario de términos médicos o explicaciones contextuales para ayudar a los pacientes a comprender mejor la información.
 
-## 3. Control y libertad del usuario
+
+3. Control y libertad del usuario
 **Descripción:** Permitir que el usuario deshaga o rehaga acciones fácilmente.
-- **Observaciones:** No existe una opción para deshacer cambios en notas o registros, lo cual limita la flexibilidad en la gestión de datos.
-- **Sugerencias de mejora:** Incluir un botón de "Deshacer" o una opción de confirmar antes de guardar cambios importantes.
+    - **Observaciones:** No existe una opción para deshacer cambios en notas o registros, lo cual limita la flexibilidad en la gestión de datos.
+    - **Sugerencias de mejora:** Incluir un botón de "Deshacer" o una opción de confirmar antes de guardar cambios importantes.
 
-## 4. Consistencia y estándares
+    
+4. Consistencia y estándares
 **Descripción:** Los usuarios deben reconocer fácilmente patrones y estilos consistentes en toda la aplicación.
-- **Observaciones:** Algunos botones de navegación están ubicados de forma inconsistente entre pantallas, lo cual puede confundir a los usuarios.
-- **Sugerencias de mejora:** Asegurarse de que todos los elementos de navegación tengan una ubicación y estilo consistentes.
+   - **Observaciones:** Algunos botones de navegación están ubicados de forma inconsistente entre pantallas, lo cual puede confundir a los usuarios.
+   - **Sugerencias de mejora:** Asegurarse de que todos los elementos de navegación tengan una ubicación y estilo consistentes.
 
-## 5. Prevención de errores
+
+5. Prevención de errores
 **Descripción:** Diseñar la app para evitar errores del usuario, siempre que sea posible.
-- **Observaciones:** No hay alertas para prevenir la eliminación accidental de información importante.
-- **Sugerencias de mejora:** Implementar ventanas de confirmación para acciones críticas, como eliminar o modificar registros de pacientes.
+   - **Observaciones:** No hay alertas para prevenir la eliminación accidental de información importante.
+   - **Sugerencias de mejora:** Implementar ventanas de confirmación para acciones críticas, como eliminar o modificar registros de pacientes.
 
-## 6. Reconocimiento antes que recuerdo
+
+6. Reconocimiento antes que recuerdo
 **Descripción:** Minimizar la carga de memoria del usuario al mostrar opciones de manera visible y contextual.
-- **Observaciones:** Los usuarios deben navegar varios menús para acceder a información de citas y notas.
-- **Sugerencias de mejora:** Implementar un menú rápido o accesos directos a las secciones de uso frecuente.
+   - **Observaciones:** Los usuarios deben navegar varios menús para acceder a información de citas y notas.
+   - **Sugerencias de mejora:** Implementar un menú rápido o accesos directos a las secciones de uso frecuente.
 
-## 7. Flexibilidad y eficiencia de uso
+
+7. Flexibilidad y eficiencia de uso
 **Descripción:** La app debe permitir accesos rápidos y opciones avanzadas para usuarios expertos.
-- **Observaciones:** No hay atajos de teclado ni opciones para registrar notas rápidamente.
-- **Sugerencias de mejora:** Agregar atajos de teclado y plantillas de registro para usuarios avanzados, lo que podría hacer el flujo de trabajo más eficiente.
+   - **Observaciones:** No hay atajos de teclado ni opciones para registrar notas rápidamente.
+   - **Sugerencias de mejora:** Agregar atajos de teclado y plantillas de registro para usuarios avanzados, lo que podría hacer el flujo de trabajo más eficiente.
 
-## 8. Estética y diseño minimalista
+
+8. Estética y diseño minimalista
 **Descripción:** Evitar la sobrecarga de información y mantener el diseño simple.
-- **Observaciones:** La pantalla de inicio presenta demasiados elementos que podrían distraer al usuario.
-- **Sugerencias de mejora:** Simplificar la interfaz inicial y mostrar solo las funciones más importantes para que la navegación sea más clara.
+   - **Observaciones:** La pantalla de inicio presenta demasiados elementos que podrían distraer al usuario.
+   - **Sugerencias de mejora:** Simplificar la interfaz inicial y mostrar solo las funciones más importantes para que la navegación sea más clara.
+    
 
-## 9. Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores
+9. Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores
 **Descripción:** Ofrecer mensajes claros y comprensibles cuando se produce un error.
-- **Observaciones:** Los mensajes de error son técnicos y no indican pasos para solucionar el problema.
-- **Sugerencias de mejora:** Redactar mensajes de error en un lenguaje sencillo e incluir instrucciones para resolverlos, si es posible.
+   - **Observaciones:** Los mensajes de error son técnicos y no indican pasos para solucionar el problema.
+   - **Sugerencias de mejora:** Redactar mensajes de error en un lenguaje sencillo e incluir instrucciones para resolverlos, si es posible.
 
-## 10. Ayuda y documentación
+
+10. Ayuda y documentación
 **Descripción:** Facilitar documentación accesible para que los usuarios encuentren ayuda fácilmente.
-- **Observaciones:** La app carece de una sección de ayuda clara para explicar funcionalidades clave.
-- **Sugerencias de mejora:** Añadir una sección de ayuda y guías paso a paso dentro de la app, junto con una opción de contacto directo para soporte.
+    - **Observaciones:** La app carece de una sección de ayuda clara para explicar funcionalidades clave.
+    - **Sugerencias de mejora:** Añadir una sección de ayuda y guías paso a paso dentro de la app, junto con una opción de contacto directo para soporte.
+    
 
 ## 5.4. Video About-the-Product.
 
@@ -1488,6 +1509,7 @@ Dashboard. (s.f.). Vercel. https://vercel.com/guardiandeitys-projects
 
 [Figma: Link del figma, donde se elaboró todos los wireframes, mockups, etc.](https://www.figma.com/design/WdMYexswCo2IFZE3tdsAJs/Open-Source-y-App-Web?node-id=2001-1221&t=TaobC3sKlo2d1Iqs-1)
 
-[FrontEnd: Link del firebase, donde se encuentra desplegado el front end](psymed-6b637.firebaseapp.com)
+[FrontEnd: Link del firebase, donde se encuentra desplegado el front end](psymed-6b637.firebaseapp.com) 
+<br> psymed-6b637.firebaseapp.com
 
 [API: Link de la API desplegada](https://alurageek-api-peach.vercel.app)
