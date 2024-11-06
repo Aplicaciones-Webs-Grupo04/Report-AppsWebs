@@ -657,11 +657,11 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
 
 ### 5.2.2.2. Sprint Backlog 2
 <table>
-  <tr>
+<tr>
     <th colspan="3">Sprint #</th>
     <th colspan="10">Sprint 2</th>
   </tr>
-  <tr>
+      <tr>
     <td colspan="3">User Story</td>
     <td colspan="10">Work-Item/Task</td>
   </tr>
@@ -671,10 +671,10 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
     <td colspan="1">Id</td>
     <td colspan="2">Title</td>
     <td colspan="3">Description</td>
-    <td colspan="1">Estimation</td>
+    <td colspan="1"> Estimation</td>
     <td colspan="2">Assigned To</td>
-    <td colspan="1">Status (To-do/InProcess/To-Review/Done)</td>
-  </tr>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
   <tr>
     <td colspan="1">US14</td>
     <td colspan="2">Registro de medicamentos del paciente</td>
@@ -714,9 +714,8 @@ En este sprint, nos enfocaremos en corregir los errores detectados en el sprint 
     <td colspan="1">2</td>
     <td colspan="2">Jose Luza</td>
     <td colspan="1">Done</td>
-  </tr>
+</tr>
 </table>
-
 
 ### 5.2.2.3. Development Evidence for Sprint Review
 <table>
@@ -929,6 +928,533 @@ Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y
   <img src="assets/chapter05/sprints/sprint2/insights_front.png"  style="width:800px; height:auto;" alt="">
 </p>
 
+### 5.2.3. Sprint 3
+### 5.2.3.1.Spring Planning 3.
+En este sprint, nos enfocaremos en corregir los errores
+detectados en el sprint anterior y nos dedicaremos a la
+implementación del Backend para los bounded contexts
+identificados en el proyecto.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 3</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8"> 8/10/24  </td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8"> 9:00 PM </td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Fernando</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Fernando,Romina,Sihuar,Jose, Mathias,Jose Miguel</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Review Summary</td>
+    <td colspan="8">
+En esta primera sección se presentó el progreso continuo del frontend de la aplicación y sus respectivos bounded contexts. Ademas de la primera version del Backend
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Retrospective Summary</td>
+    <td colspan="8">
+En esta reunión, todos los integrantes tuvieron aciertos 
+en la creación y la implementación del código. Además, 
+todos colaboraron en el diseño y la implementación del 
+frontend y Backend, contribuyendo a un desarrollo más ágil y
+efectivo, Aplicando convenciones de Domain Driven Design
+del proyecto.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+    <td colspan="8">
+El objetivo de este sprint fue implementar el Backend de la web API, enfocándose en los bounded contexts para estructurar la aplicación de manera modular. Se desarrollaron servicios, se integraron con la base de datos y se documentó la API, asegurando la escalabilidad y facilidad de mantenimiento en el tiempo asignado.
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Velocity</td>
+    <td colspan="8">  story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">  Story Points</td>
+</tr>
+</table>
+
+### 5.2.3.2.Sprint Backlog 3.
+
+<table border="1">
+  <tr>
+    <th colspan="3">Sprint 3</th>
+    <th colspan="10">Sprint 3</th>
+  </tr>
+  <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">ID</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">ID</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned to</td>
+    <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS24</td>
+    <td colspan="2">Registro de sesión terapéutica a través de un RESTful API</td>
+    <td colspan="1">UT01</td>
+    <td colspan="2">Desarrollo de capa de aplicación</td>
+    <td colspan="3">Crear el servicio de "Registrar Sesión Terapéutica" que procese la información y valide los datos requeridos.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Sihuar s</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT02</td>
+    <td colspan="2">Desarrollo de capa de dominio</td>
+    <td colspan="3">Implementar modelos y servicios para registrar una sesión terapéutica, asegurando la integración con entidades de paciente y profesional.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Sihuar </td>
+    <td colspan="1">Done</td>
+  </tr>
+
+  <tr>
+    <td colspan="1">TS25</td>
+    <td colspan="2">Obtener sesión terapéutica a través de un RESTful API</td>
+    <td colspan="1">UT05</td>
+    <td colspan="2">Desarrollo de capa de aplicación</td>
+    <td colspan="3">Crear el servicio de "Obtener Sesión Terapéutica" que procese la solicitud y recupere los detalles de la sesión según el ID proporcionado.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2"> Mathyas</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT06</td>
+    <td colspan="2">Desarrollo de capa de dominio</td>
+    <td colspan="3">Implementar modelos y servicios para recuperar la información de una sesión terapéutica, validando la existencia de la sesión y su relación con el paciente.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2"> Mathyas</td>
+    <td colspan="1">Done</td>
+  </tr>
+ 
+  <tr>
+    <td colspan="1">US12</td>
+    <td colspan="2">Ingresar estados de animo</td>
+    <td colspan="1">UT09</td>
+    <td colspan="2">lista de estados emocionales del paciente</td>
+    <td colspan="3">Crear una page donde el profesional pueda ver los estados de ánimo históricos del paciente seleccionado</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+
+  <tr>
+    <td colspan="1">US14</td>
+    <td colspan="2">Regitrar medicacion del paciente</td>
+    <td colspan="1">UT13</td>
+    <td colspan="2">Edicion de medicación</td>
+    <td colspan="3">Crear un botón que permita editar los datos una medicación</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+ 
+  <tr>
+    <td colspan="1">US15</td>
+    <td colspan="2">Registrar notas por sesion</td>
+    <td colspan="1">UT15</td>
+    <td colspan="2">Card de notas de sesion</td>
+    <td colspan="3">Crear una card que contenga los elementos de la entidad “Session Notes”</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US15</td>
+    <td colspan="2">Registrar notas por sesion</td>
+    <td colspan="1">UT16</td>
+    <td colspan="2">Formulario de creacion de notas por sesion</td>
+    <td colspan="3">Desarrollar un formulario de creacion de notas por sesion</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+
+  <tr>
+    <td colspan="1">US16</td>
+    <td colspan="2">Editar notas por sesion</td>
+    <td colspan="1">UT18</td>
+    <td colspan="2">Formulario de edicion de notas</td>
+    <td colspan="3">Crear un formulario de edicion de notas</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US17</td>
+    <td colspan="2">Actualizar diagnostico del paciente</td>
+    <td colspan="1">UT20</td>
+    <td colspan="2">Formulario de edición del diagnostico de paciente</td>
+    <td colspan="3">Crear un formulario de edicion para los diagnósticos del paciente</td>
+    <td colspan="1"></td>
+    <td colspan="2">Jose</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS11</td>
+    <td colspan="2">Actualizar información de consumo de pastillas del paciente a través de un RESTful API</td>
+    <td colspan="1">UT22</td>
+    <td colspan="2">Desarrollo de capa de aplicación</td>
+    <td colspan="3">Crear el servicio de "Actualizar Consumo de Pastillas".</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">To Do</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT23</td>
+    <td colspan="2">Desarrollo de capa de dominio</td>
+    <td colspan="3">Implementar modelos y servicios para actualizar información de consumo de pastillas.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">To Do</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT24</td>
+    <td colspan="2">Desarrollo de capa de infraestructura</td>
+    <td colspan="3">Crear el endpoint PUT</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">To Do</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT25</td>
+    <td colspan="2">Desarrollo de capa de interfaces</td>
+    <td colspan="3">Crear controladores</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">To Do</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS07</td>
+    <td colspan="2">Añadir medicamentos de un paciente a través de un RESTful API</td>
+    <td colspan="1">UT26</td>
+    <td colspan="2">Desarrollo de capa de aplicación</td>
+    <td colspan="3">Crear el servicio de "Añadir Medicamento a Paciente".</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT27</td>
+    <td colspan="2">Desarrollo de capa de dominio</td>
+    <td colspan="3">Implementar modelos y servicios para añadir medicamentos.</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT28</td>
+    <td colspan="2">Desarrollo de capa de infraestructura</td>
+    <td colspan="3">Crear el endpoint POST</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+  </tr>
+ 
+  <tr>
+    <td colspan="1">TS10</td>
+    <td colspan="2">Recuperar datos de consumo de medicamentos válidos</td>
+    <td colspan="1">UT30</td>
+    <td colspan="2">Desarrollo de capa de aplicación</td>
+    <td colspan="3">Crear el servicio de "Recuperar Datos de Consumo Válido".</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">To Do</td>
+  </tr>
+ 
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT32</td>
+    <td colspan="2">Desarrollo de capa de infraestructura</td>
+    <td colspan="3">Crear el endpoint GET</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">To DO</td>
+  </tr>
+ 
+<tr>
+    <td colspan="1">TS20</td>
+    <td colspan="2">Registro de confirmación de consumo de pastillas a través de un RESTful API</td>
+    <td colspan="1">UT20</td>
+    <td colspan="2">Desarrollo de capa de aplicación</td>
+    <td colspan="3">Crear el servicio de "Confirmación de Consumo de Pastillas".</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT21</td>
+    <td colspan="2">Desarrollo de capa de dominio</td>
+    <td colspan="3">Implementar modelos y servicios para recuperar datos de consumo de medicamentos válidos</td>
+    <td colspan="1">3h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT22</td>
+    <td colspan="2">Desarrollo de capa de infraestructura</td>
+    <td colspan="3">Crear el endpoint POST</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">TS05</td>
+    <td colspan="2">Inicio de sesión a través de un RESTful API</td>
+    <td colspan="1">UT24</td>
+    <td colspan="2">Comandos y servicios para sign in</td>
+    <td colspan="3">Desarrollo de comandos y servicios para sign in</td>
+    <td colspan="1">1h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">TS01</td>
+    <td colspan="2">Añadir paciente a través de un RESTful API</td>
+    <td colspan="1">UT26</td>
+    <td colspan="2">Capa de dominio e infraestructura del paciente</td>
+    <td colspan="3">Desarrollo de la capa de dominio e infraestructura para el perfil del paciente</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">TS02</td>
+    <td colspan="2">Añadir profesional de la salud mental a través de un RESTful API</td>
+    <td colspan="1">UT30</td>
+    <td colspan="2">Capa de dominio e infraestructura del profesional</td>
+    <td colspan="3">Desarrollo de la capa de dominio e infraestructura para el perfil del profesional</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT31</td>
+    <td colspan="2">Capa de aplicación e interfaz</td>
+    <td colspan="3">Desarrollo de la capa de aplicación e interfaz para el perfil del profesional</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">TS21</td>
+    <td colspan="2">Registro de funciones biológicas a través de un RESTful API</td>
+    <td colspan="1">UT34</td>
+    <td colspan="2">Capa de dominio e infraestructura del registro de funciones biológicas</td>
+    <td colspan="3">Desarrollo de la capa de dominio e infraestructura para el registro de funciones biológicas</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS19</td>
+    <td colspan="2">Registro de estado de ánimo del paciente a través de un RESTful API</td>
+    <td colspan="1">UT38</td>
+    <td colspan="2">Capa de dominio e infraestructura del registro de estado de ánimo</td>
+    <td colspan="3">Agregar el registro de estado de ánimo a la capa de dominio e infraestructura para el registro de funciones biológicas</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">UT39</td>
+    <td colspan="2">Capa de aplicación e interfaz</td>
+    <td colspan="3">Agregar el registro de estados de ánimo del paciente a la capa de aplicación e interfaz para el perfil del profesional</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Fernando</td>
+    <td colspan="1">Done</td>
+</tr>
+  </table>
+
+### 5.2.3.3.Development Evidence for Sprint Review.
+
+<table>
+<tr>
+</tr>
+</table>
+
+### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+### 5.2.3.5.Execution Evidence for Sprint Review.
+### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+### 5.2.3.8.Team Collaboration Insights during Sprint.
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+
+# Preguntas de Mejora para la Aplicación de Salud Mental
+
+## Preguntas para Profesionales de la Salud Mental
+
+### Preguntas Objetivas:
+1. ¿Qué funcionalidades usas más en la aplicación? ¿Cuáles usas menos o te resultan innecesarias?
+2. ¿Hay alguna funcionalidad que hayas intentado usar pero encontraste difícil o confusa?
+3. ¿Te resulta fácil acceder y gestionar la información de tus pacientes desde la app? Si no, ¿qué aspecto mejorarías?
+4. ¿Cuánto tiempo promedio te toma completar una consulta o registro dentro de la app? ¿Crees que puede reducirse?
+5. ¿Consideras que el sistema de seguridad y privacidad de la app cumple con tus necesidades? ¿Qué mejorarías en este aspecto?
+
+### Preguntas Subjetivas:
+1. ¿Qué añadirías o mejorarías en el sistema de seguimiento y gestión de pacientes?
+2. ¿Qué tan intuitivo es el flujo de trabajo en la app? ¿Qué aspectos consideras que podrían simplificarse?
+3. ¿Hay alguna funcionalidad adicional que creas importante para facilitar tu labor con los pacientes?
+4. ¿Qué tan útil sería para ti un sistema de recordatorios o notificaciones automáticas? ¿Qué tipo de recordatorios preferirías recibir?
+5. ¿Qué cambiarías en la interfaz de usuario para hacer la experiencia más agradable o eficiente?
+
+## Preguntas para Pacientes
+
+### Preguntas Objetivas:
+1. ¿Qué sección de la app usas más (ejemplo: citas, mensajes, notas de sesión)?
+2. ¿Cuán fácil te resulta acceder a la información que necesitas, como horarios de citas o notas de las sesiones?
+3. ¿Consideras que la aplicación facilita tus interacciones con el profesional? Si no, ¿qué mejorarías?
+4. ¿Has experimentado dificultades técnicas al usar la app? Si es así, ¿cuáles?
+5. ¿Sientes que tu información personal está segura en la aplicación? ¿Qué te haría sentir aún más seguro?
+
+### Preguntas Subjetivas:
+1. ¿Qué funciones te gustaría agregar a la app para mejorar tu experiencia?
+2. ¿Te gustaría recibir notificaciones para recordarte citas o tareas asignadas en sesión? ¿De qué tipo?
+3. ¿Qué tan intuitiva y fácil de usar te parece la interfaz? ¿Qué parte cambiarías para mejorarla?
+4. ¿Cómo te gustaría que evolucionara la app para mejorar la comunicación con tu profesional?
+5. ¿Qué aspecto de la app consideras que más contribuye a tu comodidad o progreso en las sesiones? ¿Cómo podría potenciarse aún más?
+
+### 5.3.2. Registro de Entrevistas.
+
+<div align="center">
+  <img src="assets/Entrevista.png">
+</div>
+
+| Nombre               | Andrés Cieza de León                                                                                                                                                                                                                                                                                                                       |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Edad                 | 27                                                                                                                                                                                                                                                                                                                                          |
+| Distrito             | Miraflores                                                                                                                                                                                                                                                                                                                                  |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022211_upc_edu_pe/EZO2orefyulCgGdPe9u4UR4BJFVk8tzp3JPXMGzpXtnhow?e=mGyGZu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Inicio de entrevista | 0:01 minutos                                                                                                                                                                                                                                                                                                                                |
+| Fin de entrevista    | 03:32 minutos                                                                                                                                                                                                                                                                                                                               |
+
+**Resumen:** Andrés Cieza de León, un profesional de 27 años, utiliza herramientas digitales para gestionar su trabajo. Utiliza principalmente la agenda de citas y las notas de pacientes dentro de la aplicación, aunque menciona que el sistema de estadísticas no es tan útil para su flujo de trabajo actual. Le resultó confuso configurar los recordatorios automáticos y sugiere una guía de ayuda en este aspecto.
+
+Andrés considera que el acceso a la información de sus pacientes es adecuado, pero menciona que sería útil contar con una búsqueda avanzada que le permita filtrar por tipo de sesión o fecha. Por lo general, tarda de 5 a 10 minutos en completar una consulta en la app y sugiere la incorporación de plantillas predefinidas para acelerar el proceso en notas repetitivas. 
+
+Respecto a la seguridad, Andrés está conforme con las medidas actuales, aunque opina que la inclusión de autenticación de dos factores incrementaría su confianza en la protección de los datos de sus pacientes.
+
+A continuación, se resumen algunas ideas de mejora proporcionadas por Andrés:
+- Incluir una guía de ayuda para configurar recordatorios automáticos.
+- Mejorar la funcionalidad de búsqueda avanzada para filtrar información de los pacientes.
+- Incorporar plantillas predefinidas para registrar consultas repetitivas rápidamente.
+- Añadir autenticación de dos factores para reforzar la seguridad de la plataforma.
+
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+Evaluación de la aplicación de salud mental utilizando las 10 heurísticas de usabilidad de Jakob Nielsen. Para cada heurística se incluyen observaciones específicas y sugerencias de mejora.
+
+## 1. Visibilidad del estado del sistema
+**Descripción:** La aplicación debe mantener al usuario informado sobre el estado de cada acción realizada.
+- **Observaciones:** La aplicación muestra un indicador de carga al guardar registros de pacientes, pero no siempre se muestra al agendar citas, lo cual puede generar confusión.
+- **Sugerencias de mejora:** Añadir indicadores de progreso en todos los procesos, especialmente al agendar y guardar información, para mejorar la visibilidad.
+
+## 2. Concordancia entre el sistema y el mundo real
+**Descripción:** Los términos y conceptos en la app deben ser familiares y fáciles de entender para el usuario.
+- **Observaciones:** Algunos términos médicos pueden ser difíciles de entender para pacientes que usan la app.
+- **Sugerencias de mejora:** Incluir un glosario de términos médicos o explicaciones contextuales para ayudar a los pacientes a comprender mejor la información.
+
+## 3. Control y libertad del usuario
+**Descripción:** Permitir que el usuario deshaga o rehaga acciones fácilmente.
+- **Observaciones:** No existe una opción para deshacer cambios en notas o registros, lo cual limita la flexibilidad en la gestión de datos.
+- **Sugerencias de mejora:** Incluir un botón de "Deshacer" o una opción de confirmar antes de guardar cambios importantes.
+
+## 4. Consistencia y estándares
+**Descripción:** Los usuarios deben reconocer fácilmente patrones y estilos consistentes en toda la aplicación.
+- **Observaciones:** Algunos botones de navegación están ubicados de forma inconsistente entre pantallas, lo cual puede confundir a los usuarios.
+- **Sugerencias de mejora:** Asegurarse de que todos los elementos de navegación tengan una ubicación y estilo consistentes.
+
+## 5. Prevención de errores
+**Descripción:** Diseñar la app para evitar errores del usuario, siempre que sea posible.
+- **Observaciones:** No hay alertas para prevenir la eliminación accidental de información importante.
+- **Sugerencias de mejora:** Implementar ventanas de confirmación para acciones críticas, como eliminar o modificar registros de pacientes.
+
+## 6. Reconocimiento antes que recuerdo
+**Descripción:** Minimizar la carga de memoria del usuario al mostrar opciones de manera visible y contextual.
+- **Observaciones:** Los usuarios deben navegar varios menús para acceder a información de citas y notas.
+- **Sugerencias de mejora:** Implementar un menú rápido o accesos directos a las secciones de uso frecuente.
+
+## 7. Flexibilidad y eficiencia de uso
+**Descripción:** La app debe permitir accesos rápidos y opciones avanzadas para usuarios expertos.
+- **Observaciones:** No hay atajos de teclado ni opciones para registrar notas rápidamente.
+- **Sugerencias de mejora:** Agregar atajos de teclado y plantillas de registro para usuarios avanzados, lo que podría hacer el flujo de trabajo más eficiente.
+
+## 8. Estética y diseño minimalista
+**Descripción:** Evitar la sobrecarga de información y mantener el diseño simple.
+- **Observaciones:** La pantalla de inicio presenta demasiados elementos que podrían distraer al usuario.
+- **Sugerencias de mejora:** Simplificar la interfaz inicial y mostrar solo las funciones más importantes para que la navegación sea más clara.
+
+## 9. Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores
+**Descripción:** Ofrecer mensajes claros y comprensibles cuando se produce un error.
+- **Observaciones:** Los mensajes de error son técnicos y no indican pasos para solucionar el problema.
+- **Sugerencias de mejora:** Redactar mensajes de error en un lenguaje sencillo e incluir instrucciones para resolverlos, si es posible.
+
+## 10. Ayuda y documentación
+**Descripción:** Facilitar documentación accesible para que los usuarios encuentren ayuda fácilmente.
+- **Observaciones:** La app carece de una sección de ayuda clara para explicar funcionalidades clave.
+- **Sugerencias de mejora:** Añadir una sección de ayuda y guías paso a paso dentro de la app, junto con una opción de contacto directo para soporte.
+
+## 5.4. Video About-the-Product.
+
 ## Conclusiones
 
 **TB1:**
@@ -937,7 +1463,9 @@ La primera entrega del proyecto Psymed ha permitido establecer una base sólida 
 **TP1:**
 En esta segunda entrega, se logró implementar una mejora continua basada en las observaciones y aprendizajes obtenidos durante la primera entrega. A partir de dichas consideraciones, se diseñó y ejecutó el Sprint 2, lo cual permitió avanzar en la creación y diseño de la primera versión del frontend. Asimismo, se completó exitosamente el deploy tanto del frontend como de la API mediante json-server, lo que permitió validar la funcionalidad y la comunicación entre los componentes sin depender de un backend completo. Este enfoque ágil contribuyó a una evolución efectiva del proyecto, manteniendo la calidad y la eficiencia en cada etapa del desarrollo.
 
-## Referencias bibliográficas
+**TB2:**
+En esta tercera etapa del proyecto, se avanzó significativamente en la implementación de los bounded contexts identificados, logrando una mayor claridad en las funcionalidades y los requerimientos de cada sección. Se implementaron los servicios correspondientes y se desarrolló una documentación detallada, facilitando la integración y el despliegue tanto de la API como del frontend. Además, se realizó una revisión exhaustiva de los procesos y resultados obtenidos, identificando oportunidades de mejora y ajustes necesarios para la siguiente fase del proyecto. Referencias bibliográficas.
+
 
 Contributors, M. o. J. T. A. B. (s.f.). Bootstrap. https://getbootstrap.com/
 
@@ -958,6 +1486,8 @@ Dashboard. (s.f.). Vercel. https://vercel.com/guardiandeitys-projects
 ## Anexos
 
 [Entrevistas: Aquí se encuentran las entrevistas realizadas para cada segmento](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+[Entrevistas: Aquí se encuentras la entrevista del Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022211_upc_edu_pe/EZO2orefyulCgGdPe9u4UR4BJFVk8tzp3JPXMGzpXtnhow?e=mGyGZu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 [Video: Aquí se encuentra el video](https://www.canva.com/design/DAGQHfqF3Sw/M0xtiMXMvVNsw0XeZymGVg/view?utm_content=DAGQHfqF3Sw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
