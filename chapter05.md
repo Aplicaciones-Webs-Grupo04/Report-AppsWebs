@@ -1324,48 +1324,381 @@ El objetivo de este sprint fue implementar el Backend de la web API, enfocándos
 
 ### 5.2.3.3.Development Evidence for Sprint Review.
 
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint 3 referente a los Web Services. Aquí se dejará alguno de los commits ya implementados dentro del repositorio de Github, junto a toda la información referente y a los cambios concluidos.
+
 <table>
-<tr>
-</tr>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Committed on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">f2ce51c</td>
+        <td colspan="2">chore: add model builder extensions and string extensions</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">c2e517f</td>
+        <td colspan="2">chore: add kebabcase naming convention</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">1b569ac</td>
+        <td colspan="2">chore: add kebabcase naming convention</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d971c01</td>
+        <td colspan="2">chore: add extensions</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d5cdca2</td>
+        <td colspan="2">chore: added repositories to shared file</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">3e373f2</td>
+        <td colspan="2">feat: create task repository</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">a7936c2</td>
+        <td colspan="2">feat: create task query service</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">db9bb85</td>
+        <td colspan="2">feat: create task query</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">aa7b7f1</td>
+        <td colspan="2">feat: create command service for task</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">b6f1811</td>
+        <td colspan="2">feat: create task.cs</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d760e97</td>
+        <td colspan="2">feat: aggregate tasks</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
 </table>
 
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+Para el sprint 3, se realizaron pruebas unitarias y de integración para los servicios y controladores del Backend. A continuación, se presenta una tabla con los resultados de las pruebas realizadas:
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Committed on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">master</td>
+        <td colspan="2">f833752</td>
+        <td colspan="2">Merge branch 'develop'</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">95a8cd6</td>
+        <td colspan="2">merge branch 'feature/tasks' into develop</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">e4da271</td>
+        <td colspan="2">merge branch 'master' into develop</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">173ed5e</td>
+        <td colspan="2">chore: update Program.cs to /weatherforecast</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">master</td>
+        <td colspan="2">44df4bf</td>
+        <td colspan="2">Merge branch 'develop' into master</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Webs-Grupo04/Backend-Web</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">f585195</td>
+        <td colspan="2">Merge branch 'feature/login' into develop</td>
+        <td colspan="2">-</td>
+        <td colspan="2">05/11/2024</td>
+    </tr>
+</table>
 
 ### 5.2.3.5.Execution Evidence for Sprint Review.
+
+Evidencia de los endpoints de la API implementados en el Sprint 3:
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/evidence01.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/evidence02.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Schema de los endpoints implementada en el Sprint 3:
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/schema01.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/schema02.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/schema03.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Muestra de prueba de un endpoint:
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/run01.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/run02.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Carpetas creadas:
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/files.png"  style="width:350px; height:auto;" alt="">
+</p>
+
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+Documentación de los servicios implementados en el Sprint 3:
+
+<table>
+    <tr>
+        <th colspan="2">Método</th>
+        <th colspan="2">Descripción</th>
+        <th colspan="2">Endpoint</th>
+        <th colspan="2">Parámetros</th>
+        <th colspan="2">Respuesta</th>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene todas las citas</td>
+        <td colspan="2">/api/v1/Appointments</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Lista de citas</td>
+    </tr>
+    <tr>
+        <td colspan="2">POST</td>
+        <td colspan="2">Crea una nueva cita</td>
+        <td colspan="2">/api/v1/Appointments</td>
+        <td colspan="2">Datos de la cita (fecha, hora, etc.)</td>
+        <td colspan="2">Cita creada</td>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene un medicamento por ID</td>
+        <td colspan="2">/api/v1/Medications/{medicationId}</td>
+        <td colspan="2">medicationId</td>
+        <td colspan="2">Detalles del medicamento</td>
+    </tr>
+    <tr>
+        <td colspan="2">POST</td>
+        <td colspan="2">Crea un nuevo medicamento</td>
+        <td colspan="2">/api/v1/Medications</td>
+        <td colspan="2">Datos del medicamento</td>
+        <td colspan="2">Medicamento creado</td>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene todos los medicamentos</td>
+        <td colspan="2">/api/v1/Medications</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Lista de medicamentos</td>
+    </tr>
+    <tr>
+        <td colspan="2">POST</td>
+        <td colspan="2">Crea un perfil nuevo</td>
+        <td colspan="2">/api/v1/Profiles</td>
+        <td colspan="2">Datos del perfil</td>
+        <td colspan="2">Perfil creado</td>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene todos los perfiles</td>
+        <td colspan="2">/api/v1/Profiles</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Lista de perfiles</td>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene un perfil por ID</td>
+        <td colspan="2">/api/v1/Profiles/{profileId}</td>
+        <td colspan="2">profileId</td>
+        <td colspan="2">Detalles del perfil</td>
+    </tr>
+    <tr>
+        <td colspan="2">PUT</td>
+        <td colspan="2">Actualiza un perfil por ID</td>
+        <td colspan="2">/api/v1/Profiles/{profileId}</td>
+        <td colspan="2">profileId y datos a actualizar</td>
+        <td colspan="2">Perfil actualizado</td>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene el pronóstico del clima</td>
+        <td colspan="2">/weatherforecast</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Datos del clima</td>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene todas las tareas</td>
+        <td colspan="2">/api/Tasks</td>
+        <td colspan="2">N/A</td>
+        <td colspan="2">Lista de tareas</td>
+    </tr>
+    <tr>
+        <td colspan="2">POST</td>
+        <td colspan="2">Crea una nueva tarea</td>
+        <td colspan="2">/api/Tasks</td>
+        <td colspan="2">Datos de la tarea</td>
+        <td colspan="2">Tarea creada</td>
+    </tr>
+    <tr>
+        <td colspan="2">GET</td>
+        <td colspan="2">Obtiene una tarea por ID</td>
+        <td colspan="2">/api/Tasks/{id}</td>
+        <td colspan="2">id</td>
+        <td colspan="2">Detalles de la tarea</td>
+    </tr>
+    <tr>
+        <td colspan="2">PUT</td>
+        <td colspan="2">Actualiza una tarea por ID</td>
+        <td colspan="2">/api/Tasks/{id}</td>
+        <td colspan="2">id y datos a actualizar</td>
+        <td colspan="2">Tarea actualizada</td>
+    </tr>
+    <tr>
+        <td colspan="2">DELETE</td>
+        <td colspan="2">Elimina una tarea por ID</td>
+        <td colspan="2">/api/Tasks/{id}</td>
+        <td colspan="2">id</td>
+        <td colspan="2">Tarea eliminada</td>
+    </tr>
+</table>
+
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+Despliegue del FrontEnd en firebase:
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/deploy.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Despliegue del BackEnd aún no implementado:
+
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/pulse.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/commits.png"  style="width:800px; height:auto;" alt="">
+</p>
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
+Para validar la aplicación y recopilar feedback de los usuarios, se diseñaron entrevistas estructuradas para profesionales de la salud mental y pacientes. Estas entrevistas se centraron en aspectos clave de la aplicación, como la usabilidad, funcionalidades más utilizadas, dificultades encontradas, sugerencias de mejora y percepción de la seguridad de la información. A continuación, se presentan las preguntas diseñadas para cada grupo de usuarios:
 
-# Preguntas de Mejora para la Aplicación de Salud Mental
+* Preguntas para Profesionales de la Salud Mental
 
-## Preguntas para Profesionales de la Salud Mental
-
-### Preguntas Objetivas:
+Preguntas Objetivas:
 1. ¿Qué funcionalidades usas más en la aplicación? ¿Cuáles usas menos o te resultan innecesarias?
 2. ¿Hay alguna funcionalidad que hayas intentado usar pero encontraste difícil o confusa?
 3. ¿Te resulta fácil acceder y gestionar la información de tus pacientes desde la app? Si no, ¿qué aspecto mejorarías?
 4. ¿Cuánto tiempo promedio te toma completar una consulta o registro dentro de la app? ¿Crees que puede reducirse?
 5. ¿Consideras que el sistema de seguridad y privacidad de la app cumple con tus necesidades? ¿Qué mejorarías en este aspecto?
 
-### Preguntas Subjetivas:
+Preguntas Subjetivas:
 1. ¿Qué añadirías o mejorarías en el sistema de seguimiento y gestión de pacientes?
 2. ¿Qué tan intuitivo es el flujo de trabajo en la app? ¿Qué aspectos consideras que podrían simplificarse?
 3. ¿Hay alguna funcionalidad adicional que creas importante para facilitar tu labor con los pacientes?
 4. ¿Qué tan útil sería para ti un sistema de recordatorios o notificaciones automáticas? ¿Qué tipo de recordatorios preferirías recibir?
 5. ¿Qué cambiarías en la interfaz de usuario para hacer la experiencia más agradable o eficiente?
 
-## Preguntas para Pacientes
+* Preguntas para Pacientes
 
-### Preguntas Objetivas:
+Preguntas Objetivas:
 1. ¿Qué sección de la app usas más (ejemplo: citas, mensajes, notas de sesión)?
 2. ¿Cuán fácil te resulta acceder a la información que necesitas, como horarios de citas o notas de las sesiones?
 3. ¿Consideras que la aplicación facilita tus interacciones con el profesional? Si no, ¿qué mejorarías?
 4. ¿Has experimentado dificultades técnicas al usar la app? Si es así, ¿cuáles?
 5. ¿Sientes que tu información personal está segura en la aplicación? ¿Qué te haría sentir aún más seguro?
 
-### Preguntas Subjetivas:
+Preguntas Subjetivas:
 1. ¿Qué funciones te gustaría agregar a la app para mejorar tu experiencia?
 2. ¿Te gustaría recibir notificaciones para recordarte citas o tareas asignadas en sesión? ¿De qué tipo?
 3. ¿Qué tan intuitiva y fácil de usar te parece la interfaz? ¿Qué parte cambiarías para mejorarla?
@@ -1463,9 +1796,9 @@ Evaluación de la aplicación de salud mental utilizando las 10 heurísticas de 
     - **Sugerencias de mejora:** Añadir una sección de ayuda y guías paso a paso dentro de la app, junto con una opción de contacto directo para soporte.
     
 
-## 5.4. Video About-the-Product.
+## 5.4. Video About-the-Product
 
-## Conclusiones
+## Conclusiones:
 
 **TB1:**
 La primera entrega del proyecto Psymed ha permitido establecer una base sólida tanto conceptual como técnica para el desarrollo del sistema. Se logró identificar claramente la problemática y necesidades del usuario mediante entrevistas y análisis, lo que guió la creación de historias de usuario y un product backlog bien estructurado. El equipo implementó un flujo de trabajo eficiente con Gitflow y Conventional Commits, asegurando orden en el desarrollo y colaboración a través de GitHub. Además, se avanzó en el diseño visual y la funcionalidad inicial de la landing page, con una propuesta centrada en la experiencia del usuario. La documentación fue realizada cuidadosamente siguiendo el formato APA, garantizando coherencia y claridad en todo el informe. Esto proporciona una dirección clara para las próximas etapas del proyecto.
@@ -1474,8 +1807,9 @@ La primera entrega del proyecto Psymed ha permitido establecer una base sólida 
 En esta segunda entrega, se logró implementar una mejora continua basada en las observaciones y aprendizajes obtenidos durante la primera entrega. A partir de dichas consideraciones, se diseñó y ejecutó el Sprint 2, lo cual permitió avanzar en la creación y diseño de la primera versión del frontend. Asimismo, se completó exitosamente el deploy tanto del frontend como de la API mediante json-server, lo que permitió validar la funcionalidad y la comunicación entre los componentes sin depender de un backend completo. Este enfoque ágil contribuyó a una evolución efectiva del proyecto, manteniendo la calidad y la eficiencia en cada etapa del desarrollo.
 
 **TB2:**
-En esta tercera etapa del proyecto, se avanzó significativamente en la implementación de los bounded contexts identificados, logrando una mayor claridad en las funcionalidades y los requerimientos de cada sección. Se implementaron los servicios correspondientes y se desarrolló una documentación detallada, facilitando la integración y el despliegue tanto de la API como del frontend. Además, se realizó una revisión exhaustiva de los procesos y resultados obtenidos, identificando oportunidades de mejora y ajustes necesarios para la siguiente fase del proyecto. Referencias bibliográficas.
+En esta tercera etapa del proyecto, se avanzó significativamente en la implementación de los bounded contexts identificados, logrando una mayor claridad en las funcionalidades y los requerimientos de cada sección. Se implementaron los servicios correspondientes y se desarrolló una documentación detallada, facilitando la integración y el despliegue tanto de la API como del frontend. Además, se realizó una revisión exhaustiva de los procesos y resultados obtenidos, identificando oportunidades de mejora y ajustes necesarios para la siguiente fase del proyecto. } 
 
+## Referencias bibliográficas:
 
 Contributors, M. o. J. T. A. B. (s.f.). Bootstrap. https://getbootstrap.com/
 
@@ -1497,7 +1831,7 @@ Dashboard. (s.f.). Vercel. https://vercel.com/guardiandeitys-projects
 
 [Entrevistas: Aquí se encuentran las entrevistas realizadas para cada segmento](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=lA3cMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-[Entrevistas: Aquí se encuentras la entrevista del Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022211_upc_edu_pe/EZO2orefyulCgGdPe9u4UR4BJFVk8tzp3JPXMGzpXtnhow?e=mGyGZu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Entrevistas: Aquí se encuentra la entrevista del Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022211_upc_edu_pe/EZO2orefyulCgGdPe9u4UR4BJFVk8tzp3JPXMGzpXtnhow?e=mGyGZu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 [Video: Aquí se encuentra el video](https://www.canva.com/design/DAGQHfqF3Sw/M0xtiMXMvVNsw0XeZymGVg/view?utm_content=DAGQHfqF3Sw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
@@ -1509,7 +1843,6 @@ Dashboard. (s.f.). Vercel. https://vercel.com/guardiandeitys-projects
 
 [Figma: Link del figma, donde se elaboró todos los wireframes, mockups, etc.](https://www.figma.com/design/WdMYexswCo2IFZE3tdsAJs/Open-Source-y-App-Web?node-id=2001-1221&t=TaobC3sKlo2d1Iqs-1)
 
-[FrontEnd: Link del firebase, donde se encuentra desplegado el front end](psymed-6b637.firebaseapp.com) 
-<br> psymed-6b637.firebaseapp.com
+[FrontEnd: Link del firebase, donde se encuentra desplegado el front end](psymed-6b637.firebaseapp.com): psymed-6b637.firebaseapp.com
 
 [API: Link de la API desplegada](https://alurageek-api-peach.vercel.app)
