@@ -1486,8 +1486,48 @@ Para el sprint 3, se realizaron pruebas unitarias y de integración para los ser
     </tr>
 </table>
 
-
 ### 5.2.3.5.Execution Evidence for Sprint Review.
+
+Evidencia de los endpoints de la API implementados en el Sprint 3:
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/evidence01.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/evidence02.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Schema de los endpoints implementada en el Sprint 3:
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/schema01.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/schema02.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/schema03.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Muestra de prueba de un endpoint:
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/run01.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/run02.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Carpetas creadas:
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/files.png"  style="width:350px; height:auto;" alt="">
+</p>
+
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
