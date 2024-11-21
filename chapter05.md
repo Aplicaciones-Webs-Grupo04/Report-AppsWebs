@@ -1669,6 +1669,42 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
   <img src="assets/chapter05/sprints/sprint3/commits.png"  style="width:800px; height:auto;" alt="">
 </p>
 
+#### **5.2.4.2. Sprint Backlog 4**
+
+En el sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
+
+|Sprint #||Sprint 4||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
+|US10|Despliegue de la aplicación|UT01|Acerca de la web|Despliegue del backend con el fronted de la aplicación. |4||Done|
+|US11|Corrección de observaciones|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Mathias Javier y |Done|
+
+#### **5.2.4.3. Development Evidence for Sprint Review**
+
+| Repository | Branch | Commit Message | Commit ID |
+|------------|--------|----------------|-----------|
+| |  | |  |
+| |  | |  |
+| |  | |  |
+| |  | |  |
+| |  | |  |
+
+#### **5.2.4.4. Testing Suite Evidence for Sprint Review**
+
+| Repository   | Branch  |  Commited on (Date)|
+|------|-----------------------------------|----------------------------------------|
+||||
+
+#### **5.2.4.5. Execution Evidence for Sprint Review**
+
+#### **5.2.4.6. Services Documentation Evidence for Sprint Review**
+
+#### **5.2.4.7. Software Deployment Evidence for Sprint Review**
+
+#### **5.2.4.8. Team Collaboration Insights during Sprint**
+
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 Para validar la aplicación y recopilar feedback de los usuarios, se diseñaron entrevistas estructuradas para profesionales de la salud mental y pacientes. Estas entrevistas se centraron en aspectos clave de la aplicación, como la usabilidad, funcionalidades más utilizadas, dificultades encontradas, sugerencias de mejora y percepción de la seguridad de la información. A continuación, se presentan las preguntas diseñadas para cada grupo de usuarios:
