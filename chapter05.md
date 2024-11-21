@@ -1669,6 +1669,8 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
   <img src="assets/chapter05/sprints/sprint3/commits.png"  style="width:800px; height:auto;" alt="">
 </p>
 
+###  **5.2.4. Sprint #4
+#### **5.2.4.1. Sprint Planning 4**
 #### **5.2.4.2. Sprint Backlog 4**
 
 En el sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
