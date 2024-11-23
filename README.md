@@ -79,7 +79,7 @@
 
 --- 
 
-FECHA: AGOSTO 2024
+FECHA: NOVIEMBRE 2024
 
 ---
 # Registro de Versiones del Informe
@@ -96,7 +96,7 @@ FECHA: AGOSTO 2024
   <tbody>
     <tr>
       <td>Primera Entrega TB1</td>
-      <td>28/03/2024</td>
+      <td>07/09/2024</td>
       <td>Todos los integrantes del equipo</td>
       <td>
         En esta primera entrega del proyecto Psymed, se completaron los cuatro primeros capítulos al 100% y la mitad del capítulo 5. El equipo completo colaboró en la definición de la solución propuesta, llevando a cabo un análisis Lean UX y definiendo el segmento objetivo. Se recopilaron todos los requisitos necesarios para desarrollar las herramientas requeridas, incluyendo User Persons, User Stories, Product Backlog e Impact Mapping. Posteriormente, se diseñaron los mockups y prototipos de la página de inicio basándose en la información recabada, y finalmente, se completó la creación de la página de inicio con el apoyo del Sprint Backlog, asegurando así un control efectivo de los progresos realizados. Este trabajo se llevó a cabo utilizando GitHub, siguiendo la metodología Gitflow y aplicando Conventional Commits para mantener el orden y la estructura, empleando los IDEs Rider y Visual Studio Code. Además, se definieron la paleta de colores, tipografía, icono, wireframes y mockups, y se desarrolló la landing page utilizando HTML, CSS, JS y extensiones de apoyo como Bootstrap y LineIcons, implementándola en WebStorm y desplegándola vía GitHub Pages.
@@ -110,6 +110,26 @@ FECHA: AGOSTO 2024
       <td>Todos los integrantes del equipo</td>
       <td> 
         En esta versión, se llevaron a cabo mejoras continuas basadas en los comentarios y observaciones de la primera entrega. Se planificó y ejecutó el Sprint 2, que permitió avanzar en el diseño y la implementación de la primera versión del frontend. Además, se realizó el deploy tanto del frontend como de la API utilizando json-server, lo que facilitó la validación de las funcionalidades sin la necesidad de un backend completo. Estos avances representaron un paso significativo en la evolución del proyecto, garantizando un desarrollo eficiente y adaptable a las necesidades planteadas.
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>Tercera Entrega TB2</td>
+      <td>03/11/2024</td>
+      <td>Todos los integrantes del equipo</td>
+      <td> 
+        En esta etapa del proyecto, se lograron avances significativos, incluyendo la validación de funcionalidades, la implementación de correcciones en la página web y el inicio del desarrollo del backend, con una planificación detallada que definió metas claras y distribuyó tareas eficientemente. Se desplegaron nuevas versiones de las aplicaciones web y servicios, y se publicaron las primeras versiones de los videos "About-The-Product" y "About-The-Team". Además, se corrigieron y mejoraron artefactos previamente presentados, se documentaron evidencias de desarrollo, pruebas, ejecución y despliegue, y se registraron aprendizajes sobre la colaboración del equipo, lo que permitió cumplir con los objetivos establecidos y sentar bases sólidas para los avances futuros.
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>Cuarta Entrega TF1</td>
+      <td>02/11/2024</td>
+      <td>Todos los integrantes del equipo</td>
+      <td> 
+        En la etapa final del proyecto, se concluyó exitosamente el ciclo de vida del desarrollo, incluyendo la entrega de la versión final de los productos digitales y la documentación completa de evidencias que abarcan todas las fases y capítulos. Se corrigieron y mejoraron artefactos previamente presentados, garantizando su calidad y funcionalidad. Además, se desplegaron las versiones definitivas de las aplicaciones y servicios, asegurando la disposición de enlaces funcionales y la visibilidad pública de la página web, la cual fue optimizada con mejoras significativas en diseño, usabilidad y rendimiento. Durante el Sprint 4, el equipo aseguró la culminación efectiva de las tareas restantes, destacándose por una planificación eficiente y un trabajo colaborativo que permitió alcanzar los resultados esperados en tiempo y forma.
       </td>
     </tr>
   </tbody>
