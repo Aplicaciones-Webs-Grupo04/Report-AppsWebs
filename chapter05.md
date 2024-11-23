@@ -1695,13 +1695,21 @@ En el sprint, el equipo se enfocó en crear una landing page atractiva y funcion
 
 #### **5.2.4.3. Development Evidence for Sprint Review**
 
-| Repository | Branch | Commit Message | Commit ID |
-|------------|--------|----------------|-----------|
-| |  | |  |
-| |  | |  |
-| |  | |  |
-| |  | |  |
-| |  | |  |
+| Repository                                      | Branch                 | Commit Message                                             | Commit ID |
+|------------------------------------------------|------------------------|-----------------------------------------------------------|-----------|
+| [Backend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Backend-Web) | feature/patiententries | feat: Add MedialHistoryEndpoints & Patient                | b027713   |
+| [Backend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Backend-Web) | feature/patiententries | Merge remote-tracking branch 'origin/develop' into feature/patiententries | 35a2584   |
+| [Backend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Backend-Web) | feature/patiententries | style(patient): Add Bounded Context                       | 77d5933   |
+| [Backend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Backend-Web) | feature/treatments     | feat: Add Treatment Bounded Api Context                   | 3ca9d3e   |
+| [Backend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Backend-Web) | feature/treatments   | feat: Add MedialHistoryEndpoints & Patient                | b027713   |
+| [Backend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Backend-Web) | feature/treatments   | Merge remote-tracking branch 'origin/develop' into feature/patiententries | 35a2584   |
+| [Backend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Backend-Web) | feature/patiententries | style(patient): Add Bounded Context                       | 77d5933   |
+| [Frontend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Frontend-Web) | Update-Desing   | Update(Bc_login): update the entity's reference directory | 442cfa3   |
+| [Frontend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Frontend-Web) | Update-Desing   | Add: Component form for login is added to bc_login       | 76ce32b   |
+| [Frontend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Frontend-Web) | Update-Desing   | Add: LoginService.js is added to bc_login               | 54dad62   |
+| [Frontend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Frontend-Web) | Update-Desing   | Add: Add Counts.js Entity to BC_Login                   | 2372f86   |
+| [Frontend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Frontend-Web) | Update-Desing   | chore: Add ".env" to gitignore                          | 700b913   |
+| [Frontend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Frontend-Web) | Update-Desing   | Fix: Error to .env                                      | 87cf9f6   |
 
 #### **5.2.4.4. Testing Suite Evidence for Sprint Review**
 
@@ -1860,7 +1868,10 @@ La primera entrega del proyecto Psymed ha permitido establecer una base sólida 
 En esta segunda entrega, se logró implementar una mejora continua basada en las observaciones y aprendizajes obtenidos durante la primera entrega. A partir de dichas consideraciones, se diseñó y ejecutó el Sprint 2, lo cual permitió avanzar en la creación y diseño de la primera versión del frontend. Asimismo, se completó exitosamente el deploy tanto del frontend como de la API mediante json-server, lo que permitió validar la funcionalidad y la comunicación entre los componentes sin depender de un backend completo. Este enfoque ágil contribuyó a una evolución efectiva del proyecto, manteniendo la calidad y la eficiencia en cada etapa del desarrollo.
 
 **TB2:**
-En esta tercera etapa del proyecto, se avanzó significativamente en la implementación de los bounded contexts identificados, logrando una mayor claridad en las funcionalidades y los requerimientos de cada sección. Se implementaron los servicios correspondientes y se desarrolló una documentación detallada, facilitando la integración y el despliegue tanto de la API como del frontend. Además, se realizó una revisión exhaustiva de los procesos y resultados obtenidos, identificando oportunidades de mejora y ajustes necesarios para la siguiente fase del proyecto. 
+En esta tercera etapa del proyecto, se avanzó significativamente en la implementación de los bounded contexts identificados, logrando una mayor claridad en las funcionalidades y los requerimientos de cada sección. Se implementaron los servicios correspondientes y se desarrolló una documentación detallada, facilitando la integración y el despliegue tanto de la API como del frontend. Además, se realizó una revisión exhaustiva de los procesos y resultados obtenidos, identificando oportunidades de mejora y ajustes necesarios para la siguiente fase del proyecto.
+
+**TF2:**
+En el desarrollo del proyecto, logrando avances significativos en el desarrollo y despliegue de los productos digitales. Se trabajó de manera colaborativa en el diseño, implementación y despliegue tanto del frontend como de la API, asegurando una comunicación fluida entre los componentes del sistema. Durante el Sprint 4, se consolidaron los esfuerzos del equipo, enfocándose en la corrección de errores, la mejora de funcionalidades y la implementación final de las conexiones necesarias para garantizar un producto funcional y estable. Este proceso permitió cumplir con los objetivos establecidos, manteniendo un enfoque ágil que aseguró la calidad y la eficiencia en cada etapa del desarrollo. La experiencia adquirida y los aprendizajes obtenidos fortalecieron tanto las habilidades técnicas como las de trabajo en equipo, dejando como resultado un sistema sólido y alineado con las necesidades del proyecto.
 
 ## Referencias bibliográficas:
 
