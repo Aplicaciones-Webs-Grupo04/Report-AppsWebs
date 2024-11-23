@@ -1777,6 +1777,19 @@ Carpetas creadas para Patient Entries
 
 #### **5.2.4.6. Services Documentation Evidence for Sprint Review**
 
+Documentación de los servicios implementados en el Sprint 4:
+
+| Método | Descripción                              | Endpoint                        | Parámetros                        | Respuesta                |
+|--------|------------------------------------------|---------------------------------|-----------------------------------|--------------------------|
+| GET    | Obtener una historia clínica por ID      | /api/v1/clinical-histories/{id} | id: Identificador de la historia | Detalles de la historia |
+| POST   | Crear una nueva historia clínica         | /api/v1/clinical-histories      | Body: Datos de la historia        | Historia creada          |
+| GET    | Obtener todos los pacientes              | /api/v1/patients                | Ninguno                           | Lista de pacientes       |
+| POST   | Crear un nuevo paciente                  | /api/v1/patients                | Body: Datos del paciente          | Paciente creado          |
+| GET    | Obtener el estado del clima              | /weatherforecast                | Ninguno                           | Datos del clima          |
+| GET    | Obtener todos los tratamientos           | /api/Treatment                  | Ninguno                           | Lista de tratamientos    |
+| POST   | Crear un nuevo tratamiento               | /api/Treatment                  | Body: Datos del tratamiento       | Tratamiento creado       |
+
+
 #### **5.2.4.7. Software Deployment Evidence for Sprint Review**
 
 #### **5.2.4.8. Team Collaboration Insights during Sprint**
