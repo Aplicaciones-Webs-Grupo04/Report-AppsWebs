@@ -334,7 +334,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         Trabajé en equipo para liderar el desarrollo del backend de las funciones del sistema Patient Entry. Me aseguré de coordinar las tareas y mantener una comunicación fluida, apoyando a mis compañeros en la implementación de las soluciones y asegurando que todos tuviéramos claro nuestro rol y objetivos.
         <br><br>
         Lizano, Fernando:
-        insert text here
+        En esta etapa, me encargué de documentar las evidencias de ejecución y despliegue del software para el Sprint Review, asegurando que todas las pruebas y entregables estuvieran correctamente respaldados. También elaboré la documentación correspondiente a los servicios implementados, detallando su funcionalidad y estructura para facilitar su revisión y validación. Además, proporcioné insights valiosos sobre la colaboración del equipo durante el sprint, destacando áreas de mejora y buenas prácticas que fortalecieron el trabajo grupal y la eficiencia en la ejecución de las tareas.
         <br><br>
         Maita, Romina:
         En esta entrega logré organizar y cumplir las metas planteadas al liderar y ayudar a planificar las tareas para cada integrante con la finalidad de tener una primera versión funcional del backend.
@@ -342,6 +342,26 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         Riega, Jose:
         En esta entrega consegui realizar los objetivos mentalizados para poder realizar la proyeccion del proyecto, asi pudiendo ayudar al equipo con mi parte del frontend, teniendo claro los objetivos y desarrollos de 
         todos los integrantes del equipo.
+        <br><br>
+         TP1:   
+        <br><br>
+        Ccotarma, Sihuar:
+        (Texto)   
+        <br><br>
+        Javier, Mathias:
+        (Texto)
+        <br><br>
+        Luza, Jose:
+        Realicé correcciones en las partes de la entrega pasada, asegurando que funcionaran correctamente y se ajustaran a los requisitos del proyecto. Impulse al equipo a realizar las entregas a tiempo para continuar con las funcionalidades. También colaboré activamente en el desarrollo del trabajo grupal, apoyando en la organización y ejecución de tareas para alcanzar los objetivos establecidos en esta etapa.
+        <br><br>
+        Lizano, Fernando:
+        (Texto)
+        <br><br>
+        Maita, Romina:
+        (Texto) 
+        <br><br>
+        Riega, Jose:
+        (Texto)
         <br><br>
       </td>
       <td>TB1: En esta primera entrega del proyecto Psymed, el equipo demostró una capacidad efectiva de liderazgo compartido al colaborar en la definición de la solución propuesta y en el desarrollo de los cuatro primeros capítulos del proyecto. La organización y gestión a través de GitHub, utilizando la metodología Gitflow y Conventional Commits, permitieron mantener un control riguroso sobre el progreso del proyecto. La colaboración en la planificación y ejecución de tareas, como la creación de repositorios y ramas, y la definición de herramientas clave como User Stories y Product Backlog, fueron esenciales para asegurar que el equipo trabajara de manera cohesiva, alcanzando los objetivos dentro de los plazos establecidos. 
@@ -415,6 +435,26 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         Riega, Jose:
         Al desarrollar las taras asignadas a mi persona pude evidenciar el entorno colaborativo que queremos demostrar en nuestro proyecto, midiendo las metas y misiones de cada uno de forma responsable, justa y equitativa.
+        <br><br>
+         TP1:   
+        <br><br>
+        Ccotarma, Sihuar:
+        (Texto)   
+        <br><br>
+        Javier, Mathias:
+        (Texto)
+        <br><br>
+        Luza, Jose:
+        Trabajé en un entorno colaborativo e inclusivo, realizando correcciones en los endpoints de ciertos bounded contexts para asegurar su correcto funcionamiento y cumplimiento con los requisitos del proyecto. Además, establecí metas claras relacionadas con la elaboración del informe correspondiente y la verificación del uso adecuado de herramientas como GitHub para garantizar una gestión eficiente del repositorio. Colaboré activamente en la planificación y organización de tareas dentro del equipo, contribuyendo al desarrollo grupal y asegurando el cumplimiento de los objetivos establecidos en esta etapa.
+        <br><br>
+        Lizano, Fernando:
+        (Texto)
+        <br><br>
+        Maita, Romina:
+        (Texto) 
+        <br><br>
+        Riega, Jose:
+        (Texto)
         <br><br>
       </td>
       <td>TB1: El equipo de Psymed logró crear un entorno colaborativo e inclusivo mediante la integración de diversas perspectivas en el diseño y desarrollo de los mockups y prototipos de la página de inicio. A través del análisis Lean UX y la definición del segmento objetivo, se establecieron metas claras que guiaron la planificación de tareas. La implementación de la landing page utilizando tecnologías como HTML, CSS, JS y herramientas de apoyo como Bootstrap y LineIcons, demostró la capacidad del equipo para cumplir con los objetivos planteados. Además, el uso del Sprint Backlog permitió un seguimiento efectivo del progreso, asegurando que cada tarea se completara según lo planificado, lo que resultó en una entrega exitosa y bien organizada del proyecto. <br><br> 
