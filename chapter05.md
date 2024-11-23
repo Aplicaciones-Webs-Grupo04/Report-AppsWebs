@@ -1718,11 +1718,62 @@ En el sprint, el equipo se enfocó en crear una landing page atractiva y funcion
 
 #### **5.2.4.4. Testing Suite Evidence for Sprint Review**
 
-| Repository   | Branch  |  Commited on (Date)|
-|------|-----------------------------------|----------------------------------------|
-||||
+| Repository                                      | Branch                 | Commit Message                           | Commit ID | Committed on       |
+|------------------------------------------------|------------------------|------------------------------------------|-----------|--------------------|
+| [Frontend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Frontend-Web) | develop               | Merge branch 'master' into develop       | de50dde   | October 16, 2024  |
+| [Backend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Backend-Web)  | master                | Merge branch 'master' into develop       | 5cab2db   | November 22, 2024 |
+| [Backend-Web](https://github.com/Aplicaciones-Webs-Grupo04/Backend-Web)  | feature/patiententries | Merge remote-tracking branch 'origin/develop' into feature/patiententries | 35a2584   | November 21, 2024 |
+
 
 #### **5.2.4.5. Execution Evidence for Sprint Review**
+
+Evidencia de los endpoints de la API implementados en el Sprint 4:
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint4/endpoints_sprint4.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint4/endpoints_sprint4_2.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Schema de los endpoints implementada en el Sprint 4:
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint4/Schema.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Carpetas creadas para Treatment
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint4/Treatment_Carpet.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+Carpetas creadas para Patient Entries
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint4/Patient_Application.png"  style="width:800px; height:auto;" alt="">
+</p> 
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint4/Patient_Domain.png"  style="width:800px; height:auto;" alt="">
+</p>  
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint4/Patient_Application.png"  style="width:800px; height:auto;" alt="">
+</p>  
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint4/Patient_Infraestructure.png"  style="width:800px; height:auto;" alt="">
+</p>  
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint4/Patient_Interface.png"  style="width:800px; height:auto;" alt="">
+</p> 
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint4/PatientShared.png"  style="width:800px; height:auto;" alt="">
+</p> 
 
 #### **5.2.4.6. Services Documentation Evidence for Sprint Review**
 
@@ -1875,7 +1926,7 @@ En esta segunda entrega, se logró implementar una mejora continua basada en las
 **TB2:**
 En esta tercera etapa del proyecto, se avanzó significativamente en la implementación de los bounded contexts identificados, logrando una mayor claridad en las funcionalidades y los requerimientos de cada sección. Se implementaron los servicios correspondientes y se desarrolló una documentación detallada, facilitando la integración y el despliegue tanto de la API como del frontend. Además, se realizó una revisión exhaustiva de los procesos y resultados obtenidos, identificando oportunidades de mejora y ajustes necesarios para la siguiente fase del proyecto.
 
-**TF2:**
+**TF1:**
 En el desarrollo del proyecto, logrando avances significativos en el desarrollo y despliegue de los productos digitales. Se trabajó de manera colaborativa en el diseño, implementación y despliegue tanto del frontend como de la API, asegurando una comunicación fluida entre los componentes del sistema. Durante el Sprint 4, se consolidaron los esfuerzos del equipo, enfocándose en la corrección de errores, la mejora de funcionalidades y la implementación final de las conexiones necesarias para garantizar un producto funcional y estable. Este proceso permitió cumplir con los objetivos establecidos, manteniendo un enfoque ágil que aseguró la calidad y la eficiencia en cada etapa del desarrollo. La experiencia adquirida y los aprendizajes obtenidos fortalecieron tanto las habilidades técnicas como las de trabajo en equipo, dejando como resultado un sistema sólido y alineado con las necesidades del proyecto.
 
 ## Referencias bibliográficas:
