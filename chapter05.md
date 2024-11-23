@@ -1794,6 +1794,15 @@ Documentación de los servicios implementados en el Sprint 4:
 
 #### **5.2.4.8. Team Collaboration Insights during Sprint**
 
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint4/Contributors.png"  style="width:800px; height:auto;" alt="">
+</p> 
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint4/Commits_Back.png"  style="width:800px; height:auto;" alt="">
+</p> 
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint4/Commits_Report.png"  style="width:800px; height:auto;" alt="">
+</p> 
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
