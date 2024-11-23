@@ -356,7 +356,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         Realicé correcciones en las partes de la entrega pasada, asegurando que funcionaran correctamente y se ajustaran a los requisitos del proyecto. Impulse al equipo a realizar las entregas a tiempo para continuar con las funcionalidades. También colaboré activamente en el desarrollo del trabajo grupal, apoyando en la organización y ejecución de tareas para alcanzar los objetivos establecidos en esta etapa.
         <br><br>
         Lizano, Fernando:
-        (Texto)
+        Mejoré el front y back para su implementación, de manera no tan satisfactoria, pero destacando el aprendizaje propio y continuo para una próxima mejora. 
         <br><br>
         Maita, Romina:
         (Texto) 
@@ -449,7 +449,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         Trabajé en un entorno colaborativo e inclusivo, realizando correcciones en los endpoints de ciertos bounded contexts para asegurar su correcto funcionamiento y cumplimiento con los requisitos del proyecto. Además, establecí metas claras relacionadas con la elaboración del informe correspondiente y la verificación del uso adecuado de herramientas como GitHub para garantizar una gestión eficiente del repositorio. Colaboré activamente en la planificación y organización de tareas dentro del equipo, contribuyendo al desarrollo grupal y asegurando el cumplimiento de los objetivos establecidos en esta etapa.
         <br><br>
         Lizano, Fernando:
-        (Texto)
+        Mejoré parte del frontend y colaboré en el despliegue de la base de datos y del backend en la plataforma de azure y rileway. Además, realicé la documentación de las evidencias de ejecución y despliegue del software para el Sprint Review, asegurando que todas las pruebas y entregables estuvieran correctamente respaldados. También elaboré la documentación correspondiente a los servicios implementados, detallando su funcionalidad y estructura para facilitar su revisión y validación. Además, proporcioné insights valiosos sobre la colaboración del equipo durante el sprint, destacando áreas de mejora y buenas prácticas que fortalecieron el trabajo grupal y la eficiencia en la ejecución de las tareas.
         <br><br>
         Maita, Romina:
         (Texto) 
