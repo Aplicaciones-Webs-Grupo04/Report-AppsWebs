@@ -1690,8 +1690,13 @@ En el sprint, el equipo se enfocó en crear una landing page atractiva y funcion
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story||Work Item / Task||||||
 |Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
-|US10|Despliegue de la aplicación|UT01|Acerca de la web|Despliegue del backend con el fronted de la aplicación. |4||Done|
-|US11|Corrección de observaciones|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Mathias Javier y |Done|
+|US09|Inicio de sesión como paciente|EP03|Como paciente, quiero iniciar sesión en la plataforma para acceder a mi información personal y seguimiento de tratamiento.|4|Fernando Lizano|Done|
+|US10|Inicio de sesión como profesional de la salud mental|EP03|Como profesional de la salud mental, quiero iniciar sesión para gestionar la información de mis pacientes y acceder a herramientas de seguimiento.|6|Fernando Lizano|Done|
+|US13|Registro de información personal del paciente|EP04|Como profesional de la salud mental, quiero registrar la información personal del paciente para tener una referencia detallada y precisa.|6|Romina Maita|Done|
+|US14|Registro de medicamentos del paciente|EP04|Como profesional de la salud mental, quiero registrar los medicamentos del paciente para seguir adecuadamente su tratamiento farmacológico.|4|Jose Riega|Done|
+|US15|Registro de historial médico del paciente|EP04|Como profesional de la salud mental, quiero registrar el historial médico del paciente para tener un contexto completo de sus antecedentes.|5|Eduardo Sihuar|Done|
+|US16|Registro Completo de Información Médica|EP04|Como profesional de la salud mental, quiero registrar toda la información médica relevante de mis pacientes para tener un historial completo para su tratamiento.|5|Mathias Javier|Done|
+|US17|Actualización de Información del Paciente|EP04|Como profesional de la salud mental, quiero poder actualizar la información del paciente de manera rápida y sencilla para mantener su historial al día.|5|José Luza|Done|
 
 #### **5.2.4.3. Development Evidence for Sprint Review**
 
