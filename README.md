@@ -126,7 +126,7 @@ FECHA: NOVIEMBRE 2024
   <tbody>
     <tr>
       <td>Cuarta Entrega TF1</td>
-      <td>02/11/2024</td>
+      <td>22/11/2024</td>
       <td>Todos los integrantes del equipo</td>
       <td> 
         En la etapa final del proyecto, se concluyó exitosamente el ciclo de vida del desarrollo, incluyendo la entrega de la versión final de los productos digitales y la documentación completa de evidencias que abarcan todas las fases y capítulos. Se corrigieron y mejoraron artefactos previamente presentados, garantizando su calidad y funcionalidad. Además, se desplegaron las versiones definitivas de las aplicaciones y servicios, asegurando la disposición de enlaces funcionales y la visibilidad pública de la página web, la cual fue optimizada con mejoras significativas en diseño, usabilidad y rendimiento. Durante el Sprint 4, el equipo aseguró la culminación efectiva de las tareas restantes, destacándose por una planificación eficiente y un trabajo colaborativo que permitió alcanzar los resultados esperados en tiempo y forma.
@@ -276,7 +276,8 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         Colaboré estrechamente con el equipo para definir estrategias de desarrollo y asumir roles de liderazgo compartido, asegurando que todos participaran en la planificación y ejecución de cada etapa del proyecto. Esto incluyó facilitar discusiones, coordinar reuniones y tomar decisiones conjuntas sobre la implementación de herramientas como el Lean UX Canvas, lo que nos permitió alinear objetivos y optimizar nuestro enfoque de diseño.
         <br><br>
         Lizano, Fernando: 
-        Preparé la estructura organizativa en GitHub, encargándome de la creación de repositorios y ramas, lo que estableció un marco sólido y ordenado para el desarrollo del proyecto. Además, apoyé en la coordinación y avance de los capítulos 3 y 4, asegurando que el equipo cumpliera con los objetivos establecidos dentro de los plazos acordados, contribuyendo así a un liderazgo compartido y eficaz dentro del grupo.        <br><br>
+        Preparé la estructura organizativa en GitHub, encargándome de la creación de repositorios y ramas, lo que estableció un marco sólido y ordenado para el desarrollo del proyecto. Además, apoyé en la coordinación y avance de los capítulos 3 y 4, asegurando que el equipo cumpliera con los objetivos establecidos dentro de los plazos acordados, contribuyendo así a un liderazgo compartido y eficaz dentro del grupo.
+        <br><br>
         Maita, Romina:
         Colaboré con el equipo manteniendo una comunicación activa y ayude a planificar las tareas designadas para cada integrante.
         <br><br>
