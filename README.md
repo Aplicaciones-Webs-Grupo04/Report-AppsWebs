@@ -324,8 +324,14 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         todos los integrantes del equipo.
         <br><br>
       </td>
-      <td>TB1: En esta primera entrega del proyecto Psymed, el equipo demostró una capacidad efectiva de liderazgo compartido al colaborar en la definición de la solución propuesta y en el desarrollo de los cuatro primeros capítulos del proyecto. La organización y gestión a través de GitHub, utilizando la metodología Gitflow y Conventional Commits, permitieron mantener un control riguroso sobre el progreso del proyecto. La colaboración en la planificación y ejecución de tareas, como la creación de repositorios y ramas, y la definición de herramientas clave como User Stories y Product Backlog, fueron esenciales para asegurar que el equipo trabajara de manera cohesiva, alcanzando los objetivos dentro de los plazos establecidos. <br><br> 
-          TP1: El trabajo en equipo ha sido fundamental para el éxito del proyecto, ya que se ha fomentado un ambiente de colaboración en el que cada miembro aporta sus fortalezas y habilidades. A través de una comunicación abierta y efectiva, se ha logrado establecer un liderazgo compartido que impulsa la innovación y la creatividad. Este enfoque ha permitido no solo abordar los desafíos de manera más eficiente, sino también construir un sentido de pertenencia y compromiso entre todos los integrantes del equipo.</td>
+      <td>TB1: En esta primera entrega del proyecto Psymed, el equipo demostró una capacidad efectiva de liderazgo compartido al colaborar en la definición de la solución propuesta y en el desarrollo de los cuatro primeros capítulos del proyecto. La organización y gestión a través de GitHub, utilizando la metodología Gitflow y Conventional Commits, permitieron mantener un control riguroso sobre el progreso del proyecto. La colaboración en la planificación y ejecución de tareas, como la creación de repositorios y ramas, y la definición de herramientas clave como User Stories y Product Backlog, fueron esenciales para asegurar que el equipo trabajara de manera cohesiva, alcanzando los objetivos dentro de los plazos establecidos. 
+      <br><br> 
+          TP1: El trabajo en equipo ha sido fundamental para el éxito del proyecto, ya que se ha fomentado un ambiente de colaboración en el que cada miembro aporta sus fortalezas y habilidades. A través de una comunicación abierta y efectiva, se ha logrado establecer un liderazgo compartido que impulsa la innovación y la creatividad. Este enfoque ha permitido no solo abordar los desafíos de manera más eficiente, sino también construir un sentido de pertenencia y compromiso entre todos los integrantes del equipo.
+        <br><br> 
+        TB2: El trabajo en la segunda entrega del proyecto Psymed, el equipo demostro comprension en base a los modelos de desarrollo y estructura de un proyecto, la realizacion de los Endpoints dentro de cada Bounded Context, fue clave la comunicacion y el trabajo en equipo para poder realizar los objetivos en el plazo establecido, gracias al compromiso que tienen todos los integrantes del equipo.
+        <br><br> 
+        TF1: A lo largo del presente trabajo final, se evidenció la importancia del desarrollo y el trabajo en equipo como pilares fundamentales para alcanzar los objetivos planteados. La experiencia adquirida permitió no solo consolidar conocimientos técnicos, sino también fortalecer habilidades blandas esenciales, como la comunicación efectiva, la toma de decisiones colaborativas y la gestión del tiempo. El enfoque colaborativo facilitó la integración de perspectivas diversas, enriqueciendo el proyecto y asegurando un resultado final alineado con las expectativas académicas y profesionales. En resumen, este trabajo no solo cumplió con los objetivos establecidos, sino que también reafirmó el valor del trabajo conjunto como motor para superar desafíos y alcanzar metas comunes.
+          </td>
     </tr>
       <tr>
       <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
@@ -353,7 +359,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         TP1:   
         <br><br>
         Ccotarma, Sihuar:
-        insert text here
+        Realize la revision de la pagina web, que permitio el control correcto de los puntos de desarrollo para que la continuacion del proyecto se realice de la manera adecuada y enseñada.
         <br><br>
         Javier, Mathias:
         Cree un ambiente de trabajo inclusivo y colaborativo, apoyando con ideas en las reuniones de revision de avances, de igual manera apoyando a mis compañeros de equipo cuando no podian realizar alguna actividad o se les dificultaba, brindandoles mi apoyo. De esta manera garantizando calidad y eficiencia al proyecto que realizamos como equipo.
@@ -392,7 +398,12 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
       </td>
       <td>TB1: El equipo de Psymed logró crear un entorno colaborativo e inclusivo mediante la integración de diversas perspectivas en el diseño y desarrollo de los mockups y prototipos de la página de inicio. A través del análisis Lean UX y la definición del segmento objetivo, se establecieron metas claras que guiaron la planificación de tareas. La implementación de la landing page utilizando tecnologías como HTML, CSS, JS y herramientas de apoyo como Bootstrap y LineIcons, demostró la capacidad del equipo para cumplir con los objetivos planteados. Además, el uso del Sprint Backlog permitió un seguimiento efectivo del progreso, asegurando que cada tarea se completara según lo planificado, lo que resultó en una entrega exitosa y bien organizada del proyecto. <br><br> 
-          TP1: Se ha trabajado diligentemente para crear un entorno colaborativo e inclusivo que valore la diversidad de ideas y perspectivas. Al establecer metas claras y específicas, se ha facilitado la planificación de tareas, permitiendo que cada miembro del equipo comprenda su rol en el logro de los objetivos comunes. Este enfoque estructurado ha promovido la responsabilidad individual y colectiva, asegurando que todos contribuyan al avance del proyecto de manera efectiva y sinérgica. </td>
+          TP1: Se ha trabajado diligentemente para crear un entorno colaborativo e inclusivo que valore la diversidad de ideas y perspectivas. Al establecer metas claras y específicas, se ha facilitado la planificación de tareas, permitiendo que cada miembro del equipo comprenda su rol en el logro de los objetivos comunes. Este enfoque estructurado ha promovido la responsabilidad individual y colectiva, asegurando que todos contribuyan al avance del proyecto de manera efectiva y sinérgica.
+          <br><br>
+          TB2: Se logró crear un entorno colaborativo e inclusivo que permitió completar puntos clave de validación, implementar correcciones en la página web y dar inicio al desarrollo del backend. Gracias a una planificación detallada de tareas y una distribución clara de responsabilidades, el equipo trabajó de manera eficiente para cumplir con los objetivos establecidos. Este enfoque no solo aseguró avances significativos en el proyecto, sino que también sentó las bases para una dinámica de trabajo sólida y coordinada en etapas posteriores.
+          <br><br>
+          TF1: Se consolidaron los esfuerzos del equipo para cumplir con los requisitos planteados en el proyecto. Se establecieron metas claras y se planificaron tareas estratégicas para garantizar la entrega puntual del proyecto. El entorno inclusivo y la colaboración activa fueron determinantes para mantener un enfoque alineado hacia los objetivos, permitiendo concluir de manera exitosa todas las fases del proyecto. Este proceso reafirma la importancia de una buena planificación y trabajo en equipo para lograr resultados sobresalientes.
+           </td>
     </tr>   
   </tbody>
 </table>
