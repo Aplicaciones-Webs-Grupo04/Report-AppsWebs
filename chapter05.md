@@ -1792,6 +1792,14 @@ Documentación de los servicios implementados en el Sprint 4:
 
 #### **5.2.4.7. Software Deployment Evidence for Sprint Review**
 
+Despliegue del FrontEnd en firebase:
+
+<p align="center">
+  <img src="assets/chapter05/sprints/sprint3/deploy.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+FrontEnd: Link del firebase, donde se encuentra desplegado el front end: psymed-6b637.firebaseapp.com
+
 #### **5.2.4.8. Team Collaboration Insights during Sprint**
 
 <p align="center">
