@@ -1804,13 +1804,7 @@ FrontEnd: Link del firebase, donde se encuentra desplegado el front end: psymed-
 
 <p align="center">
   <img src="assets/chapter05/sprints/sprint4/Contributors.png"  style="width:800px; height:auto;" alt="">
-</p> 
-<p align="center">
-  <img src="assets/chapter05/sprints/sprint4/Commits_Back.png"  style="width:800px; height:auto;" alt="">
-</p> 
-<p align="center">
-  <img src="assets/chapter05/sprints/sprint4/Commits_Report.png"  style="width:800px; height:auto;" alt="">
-</p> 
+</p>
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
